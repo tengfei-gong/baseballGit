@@ -1,0 +1,65 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+DETROIT TIGERS,Riley Greene,advanced,Batter,Handedness,2022,vs L as L,6.1%,24.2%,0.25,0.258,0.303,0.355,0.658,0.097,0.348,3,-0.5,0.289,87
+DETROIT TIGERS,Riley Greene,advanced,Batter,Handedness,2022,vs R as L,15.5%,18.3%,0.85,0.25,0.366,0.333,0.7,0.083,0.304,9,0.6,0.321,109
+DETROIT TIGERS,Riley Greene,advanced,Batter,Handedness,2022,vs L,6.1%,24.2%,0.25,0.258,0.303,0.355,0.658,0.097,0.348,3,-0.5,0.289,87
+DETROIT TIGERS,Riley Greene,advanced,Batter,Handedness,2022,vs R,15.5%,18.3%,0.85,0.25,0.366,0.333,0.7,0.083,0.304,9,0.6,0.321,109
+DETROIT TIGERS,Javier Báez,advanced,Batter,Handedness,2022,vs L as R,1.4%,17.8%,0.08,0.338,0.342,0.592,0.934,0.254,0.386,13,4.9,0.394,160
+DETROIT TIGERS,Javier Báez,advanced,Batter,Handedness,2022,vs R as R,5.1%,26.5%,0.19,0.174,0.222,0.311,0.533,0.137,0.205,13,-14.0,0.235,49
+DETROIT TIGERS,Javier Báez,advanced,Batter,Handedness,2022,vs L,1.4%,17.8%,0.08,0.338,0.342,0.592,0.934,0.254,0.386,13,4.9,0.394,160
+DETROIT TIGERS,Javier Báez,advanced,Batter,Handedness,2022,vs R,5.1%,26.5%,0.19,0.174,0.222,0.311,0.533,0.137,0.205,13,-14.0,0.235,49
+DETROIT TIGERS,Miguel Cabrera,advanced,Batter,Handedness,2022,vs L as R,12.2%,19.5%,0.63,0.357,0.427,0.371,0.798,0.014,0.446,12,2.6,0.35,129
+DETROIT TIGERS,Miguel Cabrera,advanced,Batter,Handedness,2022,vs R as R,2.8%,26.9%,0.1,0.263,0.287,0.341,0.629,0.078,0.347,19,-5.9,0.276,77
+DETROIT TIGERS,Miguel Cabrera,advanced,Batter,Handedness,2022,vs L,12.2%,19.5%,0.63,0.357,0.427,0.371,0.798,0.014,0.446,12,2.6,0.35,129
+DETROIT TIGERS,Miguel Cabrera,advanced,Batter,Handedness,2022,vs R,2.8%,26.9%,0.1,0.263,0.287,0.341,0.629,0.078,0.347,19,-5.9,0.276,77
+DETROIT TIGERS,Jonathan Schoop,advanced,Batter,Handedness,2022,vs L as R,3.8%,20.3%,0.19,0.2,0.228,0.28,0.508,0.08,0.237,3,-5.8,0.217,36
+DETROIT TIGERS,Jonathan Schoop,advanced,Batter,Handedness,2022,vs R as R,3.6%,19.4%,0.18,0.221,0.258,0.338,0.595,0.117,0.258,19,-9.7,0.262,68
+DETROIT TIGERS,Jonathan Schoop,advanced,Batter,Handedness,2022,vs L,3.8%,20.3%,0.19,0.2,0.228,0.28,0.508,0.08,0.237,3,-5.8,0.217,36
+DETROIT TIGERS,Jonathan Schoop,advanced,Batter,Handedness,2022,vs R,3.6%,19.4%,0.18,0.221,0.258,0.338,0.595,0.117,0.258,19,-9.7,0.262,68
+DETROIT TIGERS,Jeimer Candelario,advanced,Batter,Handedness,2022,vs R as L,6.7%,24.2%,0.28,0.198,0.268,0.316,0.584,0.119,0.246,15,-7.4,0.262,68
+DETROIT TIGERS,Jeimer Candelario,advanced,Batter,Handedness,2022,vs L as R,4.8%,24.2%,0.2,0.169,0.21,0.305,0.515,0.136,0.19,3,-4.1,0.226,43
+DETROIT TIGERS,Jeimer Candelario,advanced,Batter,Handedness,2022,vs L,4.8%,24.2%,0.2,0.169,0.21,0.305,0.515,0.136,0.19,3,-4.1,0.226,43
+DETROIT TIGERS,Jeimer Candelario,advanced,Batter,Handedness,2022,vs R,6.7%,24.2%,0.28,0.198,0.268,0.316,0.584,0.119,0.246,15,-7.4,0.262,68
+DETROIT TIGERS,Spencer Torkelson,advanced,Batter,Handedness,2022,vs L as R,7.8%,20.8%,0.38,0.197,0.26,0.31,0.57,0.113,0.241,5,-3.4,0.254,62
+DETROIT TIGERS,Spencer Torkelson,advanced,Batter,Handedness,2022,vs R as R,10.9%,27.0%,0.4,0.202,0.299,0.301,0.599,0.098,0.266,18,-6.1,0.274,76
+DETROIT TIGERS,Spencer Torkelson,advanced,Batter,Handedness,2022,vs L,7.8%,20.8%,0.38,0.197,0.26,0.31,0.57,0.113,0.241,5,-3.4,0.254,62
+DETROIT TIGERS,Spencer Torkelson,advanced,Batter,Handedness,2022,vs R,10.9%,27.0%,0.4,0.202,0.299,0.301,0.599,0.098,0.266,18,-6.1,0.274,76
+DETROIT TIGERS,Akil Baddoo,advanced,Batter,Handedness,2022,vs L as L,0.0%,28.6%,0.0,0.286,0.286,0.357,0.643,0.071,0.4,1,-0.3,0.28,80
+DETROIT TIGERS,Akil Baddoo,advanced,Batter,Handedness,2022,vs R as L,11.1%,24.4%,0.45,0.125,0.222,0.2,0.422,0.075,0.143,1,-3.9,0.201,25
+DETROIT TIGERS,Akil Baddoo,advanced,Batter,Handedness,2022,vs L,0.0%,28.6%,0.0,0.286,0.286,0.357,0.643,0.071,0.4,1,-0.3,0.28,80
+DETROIT TIGERS,Akil Baddoo,advanced,Batter,Handedness,2022,vs R,11.1%,24.4%,0.45,0.125,0.222,0.2,0.422,0.075,0.143,1,-3.9,0.201,25
+DETROIT TIGERS,Tucker Barnhart,advanced,Batter,Handedness,2022,vs R as L,7.2%,29.7%,0.24,0.211,0.268,0.25,0.518,0.039,0.31,8,-8.1,0.237,50
+DETROIT TIGERS,Tucker Barnhart,advanced,Batter,Handedness,2022,vs L as R,10.3%,28.2%,0.36,0.229,0.308,0.257,0.565,0.029,0.333,3,-1.5,0.262,68
+DETROIT TIGERS,Tucker Barnhart,advanced,Batter,Handedness,2022,vs L,10.3%,28.2%,0.36,0.229,0.308,0.257,0.565,0.029,0.333,3,-1.5,0.262,68
+DETROIT TIGERS,Tucker Barnhart,advanced,Batter,Handedness,2022,vs R,7.2%,29.7%,0.24,0.211,0.268,0.25,0.518,0.039,0.31,8,-8.1,0.237,50
+DETROIT TIGERS,Eric Haase,advanced,Batter,Handedness,2022,vs L as R,9.7%,29.0%,0.33,0.268,0.339,0.446,0.785,0.179,0.361,9,1.6,0.343,125
+DETROIT TIGERS,Eric Haase,advanced,Batter,Handedness,2022,vs R as R,6.1%,23.2%,0.26,0.228,0.273,0.435,0.708,0.207,0.246,11,-0.5,0.304,97
+DETROIT TIGERS,Eric Haase,advanced,Batter,Handedness,2022,vs L,9.7%,29.0%,0.33,0.268,0.339,0.446,0.785,0.179,0.361,9,1.6,0.343,125
+DETROIT TIGERS,Eric Haase,advanced,Batter,Handedness,2022,vs R,6.1%,23.2%,0.26,0.228,0.273,0.435,0.708,0.207,0.246,11,-0.5,0.304,97
+DETROIT TIGERS,Willi Castro,advanced,Batter,Handedness,2022,vs R as L,5.1%,18.6%,0.28,0.252,0.301,0.336,0.637,0.084,0.304,15,-3.4,0.282,82
+DETROIT TIGERS,Willi Castro,advanced,Batter,Handedness,2022,vs L as R,0.0%,17.2%,0.0,0.263,0.259,0.404,0.662,0.14,0.298,5,-1.3,0.281,81
+DETROIT TIGERS,Willi Castro,advanced,Batter,Handedness,2022,vs L,0.0%,17.2%,0.0,0.263,0.259,0.404,0.662,0.14,0.298,5,-1.3,0.281,81
+DETROIT TIGERS,Willi Castro,advanced,Batter,Handedness,2022,vs R,5.1%,18.6%,0.28,0.252,0.301,0.336,0.637,0.084,0.304,15,-3.4,0.282,82
+DETROIT TIGERS,Robbie Grossman,advanced,Batter,Handedness,2022,vs R as L,9.7%,32.3%,0.3,0.147,0.246,0.194,0.44,0.047,0.222,7,-15.4,0.211,32
+DETROIT TIGERS,Robbie Grossman,advanced,Batter,Handedness,2022,vs L as R,14.6%,23.2%,0.63,0.353,0.451,0.485,0.937,0.132,0.469,16,6.6,0.411,172
+DETROIT TIGERS,Robbie Grossman,advanced,Batter,Handedness,2022,vs L,14.6%,23.2%,0.63,0.353,0.451,0.485,0.937,0.132,0.469,16,6.6,0.411,172
+DETROIT TIGERS,Robbie Grossman,advanced,Batter,Handedness,2022,vs R,9.7%,32.3%,0.3,0.147,0.246,0.194,0.44,0.047,0.222,7,-15.4,0.211,32
+DETROIT TIGERS,Victor Reyes,advanced,Batter,Handedness,2022,vs R as L,1.2%,19.5%,0.06,0.325,0.329,0.425,0.754,0.1,0.391,11,1.0,0.326,112
+DETROIT TIGERS,Victor Reyes,advanced,Batter,Handedness,2022,vs L as R,11.1%,11.1%,1.0,0.208,0.296,0.25,0.546,0.042,0.238,2,-1.2,0.254,62
+DETROIT TIGERS,Victor Reyes,advanced,Batter,Handedness,2022,vs L,11.1%,11.1%,1.0,0.208,0.296,0.25,0.546,0.042,0.238,2,-1.2,0.254,62
+DETROIT TIGERS,Victor Reyes,advanced,Batter,Handedness,2022,vs R,1.2%,19.5%,0.06,0.321,0.325,0.42,0.745,0.099,0.385,10,0.8,0.322,110
+DETROIT TIGERS,Austin Meadows,advanced,Batter,Handedness,2022,vs L as L,7.7%,20.5%,0.38,0.229,0.308,0.257,0.565,0.029,0.296,3,-1.5,0.263,68
+DETROIT TIGERS,Austin Meadows,advanced,Batter,Handedness,2022,vs R as L,12.0%,8.3%,1.44,0.258,0.361,0.355,0.716,0.097,0.286,14,1.2,0.324,111
+DETROIT TIGERS,Austin Meadows,advanced,Batter,Handedness,2022,vs L,7.7%,20.5%,0.38,0.229,0.308,0.257,0.565,0.029,0.296,3,-1.5,0.263,68
+DETROIT TIGERS,Austin Meadows,advanced,Batter,Handedness,2022,vs R,12.0%,8.3%,1.44,0.258,0.361,0.355,0.716,0.097,0.286,14,1.2,0.324,111
+DETROIT TIGERS,Harold Castro,advanced,Batter,Handedness,2022,vs R as L,3.1%,28.1%,0.11,.133,.156,.233,.390,.100,.143,0,-3.6,.169,5
+DETROIT TIGERS,Harold Castro,advanced,Batter,Handedness,2022,vs L as R,0.0%,40.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.2,.000,-100
+DETROIT TIGERS,Harold Castro,advanced,Batter,Handedness,2022,vs L,0.0%,40.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.2,.000,-100
+DETROIT TIGERS,Harold Castro,advanced,Batter,Handedness,2022,vs R,3.1%,28.1%,0.11,.133,.156,.233,.390,.100,.143,0,-3.6,.169,5
+DETROIT TIGERS,Kyle Funkhouser,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+DETROIT TIGERS,Kyle Funkhouser,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+DETROIT TIGERS,Kyle Funkhouser,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+DETROIT TIGERS,Kyle Funkhouser,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+DETROIT TIGERS,Wily Peralta,advanced,Batter,Handedness,2022,vs L as L,3.0%,26.3%,0.12,.309,.343,.489,.833,.181,.400,15,4.0,.361,133
+DETROIT TIGERS,Wily Peralta,advanced,Batter,Handedness,2022,vs R as L,7.9%,15.0%,0.53,.335,.397,.636,1.033,.302,.346,57,26.5,.435,185
+DETROIT TIGERS,Wily Peralta,advanced,Batter,Handedness,2022,vs L,3.0%,26.3%,0.12,.309,.343,.489,.833,.181,.400,15,4.0,.361,133
+DETROIT TIGERS,Wily Peralta,advanced,Batter,Handedness,2022,vs R,7.9%,15.0%,0.53,.335,.397,.636,1.033,.302,.346,57,26.5,.435,185

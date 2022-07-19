@@ -1,0 +1,77 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+SEATTLE MARINERS,Julio Rodríguez,advanced,Batter,Handedness,2022,vs L as R,11.0%,29.3%,0.38,0.301,0.378,0.548,0.926,0.247,0.386,15,5.8,0.399,169
+SEATTLE MARINERS,Julio Rodríguez,advanced,Batter,Handedness,2022,vs R as R,5.8%,26.3%,0.22,0.266,0.321,0.456,0.778,0.19,0.333,37,5.7,0.336,124
+SEATTLE MARINERS,Julio Rodríguez,advanced,Batter,Handedness,2022,vs L,11.0%,29.3%,0.38,0.301,0.378,0.548,0.926,0.247,0.386,15,5.8,0.399,169
+SEATTLE MARINERS,Julio Rodríguez,advanced,Batter,Handedness,2022,vs R,5.8%,26.3%,0.22,0.266,0.321,0.456,0.778,0.19,0.333,37,5.7,0.336,124
+SEATTLE MARINERS,Ty France,advanced,Batter,Handedness,2022,vs L as R,7.9%,13.2%,0.6,0.292,0.387,0.431,0.817,0.138,0.321,12,3.3,0.364,144
+SEATTLE MARINERS,Ty France,advanced,Batter,Handedness,2022,vs R as R,6.0%,14.7%,0.41,0.31,0.377,0.469,0.846,0.159,0.341,41,11.7,0.368,147
+SEATTLE MARINERS,Ty France,advanced,Batter,Handedness,2022,vs L,7.9%,13.2%,0.6,0.292,0.387,0.431,0.817,0.138,0.321,12,3.3,0.364,144
+SEATTLE MARINERS,Ty France,advanced,Batter,Handedness,2022,vs R,6.0%,14.7%,0.41,0.31,0.377,0.469,0.846,0.159,0.341,41,11.7,0.368,147
+SEATTLE MARINERS,J.P. Crawford,advanced,Batter,Handedness,2022,vs L as L,7.8%,17.8%,0.44,0.188,0.244,0.363,0.607,0.175,0.188,7,-3.6,0.261,72
+SEATTLE MARINERS,J.P. Crawford,advanced,Batter,Handedness,2022,vs R as L,9.9%,12.8%,0.77,0.296,0.383,0.394,0.777,0.099,0.339,35,7.4,0.348,133
+SEATTLE MARINERS,J.P. Crawford,advanced,Batter,Handedness,2022,vs L,7.8%,17.8%,0.44,0.188,0.244,0.363,0.607,0.175,0.188,7,-3.6,0.261,72
+SEATTLE MARINERS,J.P. Crawford,advanced,Batter,Handedness,2022,vs R,9.9%,12.8%,0.77,0.296,0.383,0.394,0.777,0.099,0.339,35,7.4,0.348,133
+SEATTLE MARINERS,Carlos Santana,advanced,Batter,Handedness,2022,vs R as L,15.2%,17.8%,0.85,0.198,0.319,0.358,0.677,0.16,0.213,21,-1.2,0.302,95
+SEATTLE MARINERS,Carlos Santana,advanced,Batter,Handedness,2022,vs L as R,20.6%,5.9%,3.5,0.321,0.471,0.434,0.905,0.113,0.333,13,5.3,0.408,169
+SEATTLE MARINERS,Carlos Santana,advanced,Batter,Handedness,2022,vs L,20.6%,5.9%,3.5,0.321,0.471,0.434,0.905,0.113,0.333,13,5.3,0.408,169
+SEATTLE MARINERS,Carlos Santana,advanced,Batter,Handedness,2022,vs R,15.2%,17.8%,0.85,0.198,0.319,0.358,0.677,0.16,0.213,21,-1.2,0.302,95
+SEATTLE MARINERS,Jesse Winker,advanced,Batter,Handedness,2022,vs L as L,14.4%,20.0%,0.72,0.247,0.356,0.429,0.784,0.182,0.286,13,2.6,0.347,132
+SEATTLE MARINERS,Jesse Winker,advanced,Batter,Handedness,2022,vs R as L,14.9%,17.4%,0.86,0.218,0.336,0.302,0.638,0.084,0.258,25,-3.3,0.293,94
+SEATTLE MARINERS,Jesse Winker,advanced,Batter,Handedness,2022,vs L,14.4%,20.0%,0.72,0.247,0.356,0.429,0.784,0.182,0.286,13,2.6,0.347,132
+SEATTLE MARINERS,Jesse Winker,advanced,Batter,Handedness,2022,vs R,14.9%,17.4%,0.86,0.218,0.336,0.302,0.638,0.084,0.258,25,-3.3,0.293,94
+SEATTLE MARINERS,Eugenio Suárez,advanced,Batter,Handedness,2022,vs L as R,16.3%,27.9%,0.58,0.254,0.384,0.451,0.834,0.197,0.356,14,4.0,0.368,147
+SEATTLE MARINERS,Eugenio Suárez,advanced,Batter,Handedness,2022,vs R as R,10.0%,32.1%,0.31,0.239,0.321,0.441,0.763,0.202,0.315,37,5.1,0.333,122
+SEATTLE MARINERS,Eugenio Suárez,advanced,Batter,Handedness,2022,vs L,16.3%,27.9%,0.58,0.254,0.384,0.451,0.834,0.197,0.356,14,4.0,0.368,147
+SEATTLE MARINERS,Eugenio Suárez,advanced,Batter,Handedness,2022,vs R,10.0%,32.1%,0.31,0.239,0.321,0.441,0.763,0.202,0.315,37,5.1,0.333,122
+SEATTLE MARINERS,Cal Raleigh,advanced,Batter,Handedness,2022,vs R as L,6.2%,29.7%,0.21,0.179,0.234,0.433,0.667,0.254,0.181,14,-2.8,0.286,89
+SEATTLE MARINERS,Cal Raleigh,advanced,Batter,Handedness,2022,vs L as R,15.4%,30.8%,0.5,0.262,0.365,0.524,0.889,0.262,0.346,9,2.7,0.374,151
+SEATTLE MARINERS,Cal Raleigh,advanced,Batter,Handedness,2022,vs L,15.4%,30.8%,0.5,0.262,0.365,0.524,0.889,0.262,0.346,9,2.7,0.374,151
+SEATTLE MARINERS,Cal Raleigh,advanced,Batter,Handedness,2022,vs R,6.2%,29.7%,0.21,0.179,0.234,0.433,0.667,0.254,0.181,14,-2.8,0.286,89
+SEATTLE MARINERS,Adam Frazier,advanced,Batter,Handedness,2022,vs L as L,7.6%,11.4%,0.67,0.211,0.278,0.31,0.588,0.099,0.226,6,-2.9,0.264,74
+SEATTLE MARINERS,Adam Frazier,advanced,Batter,Handedness,2022,vs R as L,8.3%,12.1%,0.69,0.224,0.288,0.282,0.57,0.058,0.254,19,-11.3,0.257,69
+SEATTLE MARINERS,Adam Frazier,advanced,Batter,Handedness,2022,vs L,7.6%,11.4%,0.67,0.211,0.278,0.31,0.588,0.099,0.226,6,-2.9,0.264,74
+SEATTLE MARINERS,Adam Frazier,advanced,Batter,Handedness,2022,vs R,8.3%,12.1%,0.69,0.224,0.288,0.282,0.57,0.058,0.254,19,-11.3,0.257,69
+SEATTLE MARINERS,Sam Haggerty,advanced,Batter,Handedness,2022,vs R as L,3.0%,24.2%,0.13,0.167,0.242,0.3,0.542,0.133,0.19,2,-1.7,0.246,61
+SEATTLE MARINERS,Sam Haggerty,advanced,Batter,Handedness,2022,vs L as R,0.0%,12.5%,0.0,0.625,0.625,0.875,1.5,0.25,0.714,3,2.1,0.647,343
+SEATTLE MARINERS,Sam Haggerty,advanced,Batter,Handedness,2022,vs L,0.0%,12.5%,0.0,0.625,0.625,0.875,1.5,0.25,0.714,3,2.1,0.647,343
+SEATTLE MARINERS,Sam Haggerty,advanced,Batter,Handedness,2022,vs R,3.0%,24.2%,0.13,0.167,0.242,0.3,0.542,0.133,0.19,2,-1.7,0.246,61
+SEATTLE MARINERS,Luis Torrens,advanced,Batter,Handedness,2022,vs L as R,8.2%,32.7%,0.25,0.182,0.265,0.205,0.47,0.023,0.286,2,-3.4,0.223,45
+SEATTLE MARINERS,Luis Torrens,advanced,Batter,Handedness,2022,vs R as R,5.8%,31.9%,0.18,0.25,0.29,0.266,0.555,0.016,0.372,5,-3.3,0.251,65
+SEATTLE MARINERS,Luis Torrens,advanced,Batter,Handedness,2022,vs L,8.2%,32.7%,0.25,0.182,0.265,0.205,0.47,0.023,0.286,2,-3.4,0.223,45
+SEATTLE MARINERS,Luis Torrens,advanced,Batter,Handedness,2022,vs R,5.8%,31.9%,0.18,0.25,0.29,0.266,0.555,0.016,0.372,5,-3.3,0.251,65
+SEATTLE MARINERS,Abraham Toro,advanced,Batter,Handedness,2022,vs R as L,5.3%,18.2%,0.29,0.165,0.212,0.329,0.541,0.165,0.163,9,-10.5,0.233,52
+SEATTLE MARINERS,Abraham Toro,advanced,Batter,Handedness,2022,vs L as R,9.0%,12.8%,0.7,0.214,0.282,0.314,0.596,0.1,0.233,6,-2.7,0.267,76
+SEATTLE MARINERS,Abraham Toro,advanced,Batter,Handedness,2022,vs L,9.0%,12.8%,0.7,0.214,0.282,0.314,0.596,0.1,0.233,6,-2.7,0.267,76
+SEATTLE MARINERS,Abraham Toro,advanced,Batter,Handedness,2022,vs R,5.3%,18.2%,0.29,0.165,0.212,0.329,0.541,0.165,0.163,9,-10.5,0.233,52
+SEATTLE MARINERS,Dylan Moore,advanced,Batter,Handedness,2022,vs L as R,16.0%,28.0%,0.57,0.22,0.373,0.424,0.797,0.203,0.278,11,2.4,0.35,134
+SEATTLE MARINERS,Dylan Moore,advanced,Batter,Handedness,2022,vs R as R,13.6%,27.2%,0.5,0.156,0.316,0.328,0.645,0.172,0.2,9,-0.8,0.298,98
+SEATTLE MARINERS,Dylan Moore,advanced,Batter,Handedness,2022,vs L,16.0%,28.0%,0.57,0.22,0.373,0.424,0.797,0.203,0.278,11,2.4,0.35,134
+SEATTLE MARINERS,Dylan Moore,advanced,Batter,Handedness,2022,vs R,13.6%,27.2%,0.5,0.156,0.316,0.328,0.645,0.172,0.2,9,-0.8,0.298,98
+SEATTLE MARINERS,Justin Upton,advanced,Batter,Handedness,2022,vs L as R,8.3%,37.5%,0.22,0.136,0.208,0.318,0.527,0.182,0.167,1,-1.5,0.233,52
+SEATTLE MARINERS,Justin Upton,advanced,Batter,Handedness,2022,vs R as R,11.5%,42.3%,0.27,0.143,0.308,0.143,0.451,0.0,0.3,1,-1.5,0.237,55
+SEATTLE MARINERS,Justin Upton,advanced,Batter,Handedness,2022,vs L,8.3%,37.5%,0.22,0.136,0.208,0.318,0.527,0.182,0.167,1,-1.5,0.233,52
+SEATTLE MARINERS,Justin Upton,advanced,Batter,Handedness,2022,vs R,11.5%,42.3%,0.27,0.143,0.308,0.143,0.451,0.0,0.3,1,-1.5,0.237,55
+SEATTLE MARINERS,Tom Murphy,advanced,Batter,Handedness,2022,vs L as R,25.0%,16.7%,1.5,0.333,0.5,0.333,0.833,0.0,0.429,2,0.8,0.394,165
+SEATTLE MARINERS,Tom Murphy,advanced,Batter,Handedness,2022,vs R as R,16.7%,36.7%,0.45,0.292,0.414,0.5,0.914,0.208,0.5,6,2.1,0.399,169
+SEATTLE MARINERS,Tom Murphy,advanced,Batter,Handedness,2022,vs L,25.0%,16.7%,1.5,0.333,0.5,0.333,0.833,0.0,0.429,2,0.8,0.394,165
+SEATTLE MARINERS,Tom Murphy,advanced,Batter,Handedness,2022,vs R,16.7%,36.7%,0.45,0.292,0.414,0.5,0.914,0.208,0.5,6,2.1,0.399,169
+SEATTLE MARINERS,Mitch Haniger,advanced,Batter,Handedness,2022,vs L as R,14.3%,0.0%,1.0,0.0,0.143,0.0,0.143,0.0,0.0,0,-1.2,0.099,-42
+SEATTLE MARINERS,Mitch Haniger,advanced,Batter,Handedness,2022,vs R as R,0.0%,31.0%,0.0,0.241,0.241,0.586,0.828,0.345,0.235,4,0.9,0.349,133
+SEATTLE MARINERS,Mitch Haniger,advanced,Batter,Handedness,2022,vs L,14.3%,0.0%,1.0,0.0,0.143,0.0,0.143,0.0,0.0,0,-1.2,0.099,-42
+SEATTLE MARINERS,Mitch Haniger,advanced,Batter,Handedness,2022,vs R,0.0%,31.0%,0.0,0.241,0.241,0.586,0.828,0.345,0.235,4,0.9,0.349,133
+SEATTLE MARINERS,Kyle Lewis,advanced,Batter,Handedness,2022,vs L as R,0.0%,0.0%,0.0,0.5,0.5,0.5,1.0,0.0,0.5,0,0.2,0.442,199
+SEATTLE MARINERS,Kyle Lewis,advanced,Batter,Handedness,2022,vs R as R,0.0%,7.1%,0.0,0.231,0.286,0.692,0.978,0.462,0.1,3,1.1,0.41,176
+SEATTLE MARINERS,Kyle Lewis,advanced,Batter,Handedness,2022,vs L,0.0%,0.0%,0.0,0.5,0.5,0.5,1.0,0.0,0.5,0,0.2,0.442,199
+SEATTLE MARINERS,Kyle Lewis,advanced,Batter,Handedness,2022,vs R,0.0%,7.1%,0.0,0.231,0.286,0.692,0.978,0.462,0.1,3,1.1,0.41,176
+SEATTLE MARINERS,Taylor Trammell,advanced,Batter,Handedness,2022,vs L as L,13.3%,20.0%,0.67,0.167,0.267,0.25,0.517,0.083,0.2,1,-0.9,0.235,54
+SEATTLE MARINERS,Taylor Trammell,advanced,Batter,Handedness,2022,vs R as L,11.4%,26.6%,0.43,0.246,0.333,0.493,0.826,0.246,0.311,12,2.9,0.357,139
+SEATTLE MARINERS,Taylor Trammell,advanced,Batter,Handedness,2022,vs L,13.3%,20.0%,0.67,0.167,0.267,0.25,0.517,0.083,0.2,1,-0.9,0.235,54
+SEATTLE MARINERS,Taylor Trammell,advanced,Batter,Handedness,2022,vs R,11.4%,26.6%,0.43,0.246,0.333,0.493,0.826,0.246,0.311,12,2.9,0.357,139
+SEATTLE MARINERS,Kevin Padlo,advanced,Batter,Handedness,2022,vs R as L,3.1%,28.1%,0.11,.133,.156,.233,.390,.100,.143,0,-3.6,.169,5
+SEATTLE MARINERS,Kevin Padlo,advanced,Batter,Handedness,2022,vs L as R,0.0%,40.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.2,.000,-100
+SEATTLE MARINERS,Kevin Padlo,advanced,Batter,Handedness,2022,vs L,0.0%,40.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.2,.000,-100
+SEATTLE MARINERS,Kevin Padlo,advanced,Batter,Handedness,2022,vs R,3.1%,28.1%,0.11,.133,.156,.233,.390,.100,.143,0,-3.6,.169,5
+SEATTLE MARINERS,Casey Sadler,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+SEATTLE MARINERS,Casey Sadler,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+SEATTLE MARINERS,Casey Sadler,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+SEATTLE MARINERS,Casey Sadler,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143

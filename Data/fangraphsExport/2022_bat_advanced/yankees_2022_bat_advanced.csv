@@ -1,0 +1,59 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+NEW YORK YANKEES,DJ LeMahieu,advanced,Batter,Handedness,2022,vs L as R,11.2%,11.2%,1.0,0.294,0.388,0.471,0.858,0.176,0.3,17,5.3,0.378,150
+NEW YORK YANKEES,DJ LeMahieu,advanced,Batter,Handedness,2022,vs R as R,14.1%,12.8%,1.1,0.256,0.363,0.367,0.73,0.111,0.283,31,3.6,0.33,116
+NEW YORK YANKEES,DJ LeMahieu,advanced,Batter,Handedness,2022,vs L,11.2%,11.2%,1.0,0.294,0.388,0.471,0.858,0.176,0.3,17,5.3,0.378,150
+NEW YORK YANKEES,DJ LeMahieu,advanced,Batter,Handedness,2022,vs R,14.1%,12.8%,1.1,0.256,0.363,0.367,0.73,0.111,0.283,31,3.6,0.33,116
+NEW YORK YANKEES,Aaron Judge,advanced,Batter,Handedness,2022,vs L as R,11.0%,31.2%,0.35,0.247,0.324,0.581,0.905,0.333,0.264,18,5.1,0.369,143
+NEW YORK YANKEES,Aaron Judge,advanced,Batter,Handedness,2022,vs R as R,11.3%,23.3%,0.48,0.296,0.375,0.619,0.994,0.323,0.315,52,22.1,0.418,178
+NEW YORK YANKEES,Aaron Judge,advanced,Batter,Handedness,2022,vs L,11.0%,31.2%,0.35,0.247,0.324,0.581,0.905,0.333,0.264,18,5.1,0.369,143
+NEW YORK YANKEES,Aaron Judge,advanced,Batter,Handedness,2022,vs R,11.3%,23.3%,0.48,0.296,0.375,0.619,0.994,0.323,0.315,52,22.1,0.418,178
+NEW YORK YANKEES,Anthony Rizzo,advanced,Batter,Handedness,2022,vs L as L,10.1%,16.2%,0.63,0.218,0.313,0.494,0.807,0.276,0.2,14,3.0,0.349,129
+NEW YORK YANKEES,Anthony Rizzo,advanced,Batter,Handedness,2022,vs R as L,11.8%,18.5%,0.64,0.231,0.349,0.518,0.866,0.286,0.213,39,11.2,0.369,144
+NEW YORK YANKEES,Anthony Rizzo,advanced,Batter,Handedness,2022,vs L,10.1%,16.2%,0.63,0.218,0.313,0.494,0.807,0.276,0.2,14,3.0,0.349,129
+NEW YORK YANKEES,Anthony Rizzo,advanced,Batter,Handedness,2022,vs R,11.8%,18.5%,0.64,0.231,0.349,0.518,0.866,0.286,0.213,39,11.2,0.369,144
+NEW YORK YANKEES,Giancarlo Stanton,advanced,Batter,Handedness,2022,vs L as R,7.4%,28.4%,0.26,0.247,0.3,0.479,0.779,0.233,0.283,11,1.5,0.334,119
+NEW YORK YANKEES,Giancarlo Stanton,advanced,Batter,Handedness,2022,vs R as R,12.4%,27.1%,0.46,0.233,0.326,0.519,0.844,0.286,0.235,34,8.4,0.358,136
+NEW YORK YANKEES,Giancarlo Stanton,advanced,Batter,Handedness,2022,vs L,7.4%,28.4%,0.26,0.247,0.3,0.479,0.779,0.233,0.283,11,1.5,0.334,119
+NEW YORK YANKEES,Giancarlo Stanton,advanced,Batter,Handedness,2022,vs R,12.4%,27.1%,0.46,0.233,0.326,0.519,0.844,0.286,0.235,34,8.4,0.358,136
+NEW YORK YANKEES,Gleyber Torres,advanced,Batter,Handedness,2022,vs L as R,5.7%,19.3%,0.29,0.293,0.333,0.659,0.992,0.366,0.281,18,7.3,0.415,176
+NEW YORK YANKEES,Gleyber Torres,advanced,Batter,Handedness,2022,vs R as R,8.2%,17.8%,0.46,0.267,0.332,0.422,0.754,0.155,0.306,27,3.3,0.33,116
+NEW YORK YANKEES,Gleyber Torres,advanced,Batter,Handedness,2022,vs L,5.7%,19.3%,0.29,0.293,0.333,0.659,0.992,0.366,0.281,18,7.3,0.415,176
+NEW YORK YANKEES,Gleyber Torres,advanced,Batter,Handedness,2022,vs R,8.2%,17.8%,0.46,0.267,0.332,0.422,0.754,0.155,0.306,27,3.3,0.33,116
+NEW YORK YANKEES,Josh Donaldson,advanced,Batter,Handedness,2022,vs L as R,11.1%,23.8%,0.47,0.167,0.27,0.37,0.64,0.204,0.184,6,-1.4,0.282,82
+NEW YORK YANKEES,Josh Donaldson,advanced,Batter,Handedness,2022,vs R as R,9.9%,26.9%,0.37,0.245,0.323,0.408,0.731,0.163,0.311,28,1.9,0.321,110
+NEW YORK YANKEES,Josh Donaldson,advanced,Batter,Handedness,2022,vs L,11.1%,23.8%,0.47,0.167,0.27,0.37,0.64,0.204,0.184,6,-1.4,0.282,82
+NEW YORK YANKEES,Josh Donaldson,advanced,Batter,Handedness,2022,vs R,9.9%,26.9%,0.37,0.245,0.323,0.408,0.731,0.163,0.311,28,1.9,0.321,110
+NEW YORK YANKEES,Aaron Hicks,advanced,Batter,Handedness,2022,vs R as L,15.0%,21.4%,0.7,0.226,0.349,0.348,0.698,0.123,0.277,22,0.8,0.315,106
+NEW YORK YANKEES,Aaron Hicks,advanced,Batter,Handedness,2022,vs L as R,13.9%,24.1%,0.58,0.254,0.367,0.328,0.695,0.075,0.34,9,0.3,0.315,106
+NEW YORK YANKEES,Aaron Hicks,advanced,Batter,Handedness,2022,vs R as R,0.0%,0.0%,0.0,0.5,0.5,2.0,2.5,1.5,0.0,1,1.2,1.033,610
+NEW YORK YANKEES,Aaron Hicks,advanced,Batter,Handedness,2022,vs L,13.9%,24.1%,0.58,0.254,0.367,0.328,0.695,0.075,0.34,9,0.3,0.315,106
+NEW YORK YANKEES,Aaron Hicks,advanced,Batter,Handedness,2022,vs R,14.8%,21.2%,0.7,0.229,0.351,0.369,0.72,0.14,0.274,24,1.9,0.323,111
+NEW YORK YANKEES,Jose Trevino,advanced,Batter,Handedness,2022,vs L as R,11.4%,14.3%,0.8,0.258,0.343,0.452,0.794,0.194,0.25,5,1.1,0.349,129
+NEW YORK YANKEES,Jose Trevino,advanced,Batter,Handedness,2022,vs R as R,4.3%,15.9%,0.27,0.254,0.29,0.423,0.713,0.169,0.269,16,-0.2,0.308,101
+NEW YORK YANKEES,Jose Trevino,advanced,Batter,Handedness,2022,vs L,11.4%,14.3%,0.8,0.258,0.343,0.452,0.794,0.194,0.25,5,1.1,0.349,129
+NEW YORK YANKEES,Jose Trevino,advanced,Batter,Handedness,2022,vs R,4.3%,15.9%,0.27,0.254,0.29,0.423,0.713,0.169,0.269,16,-0.2,0.308,101
+NEW YORK YANKEES,Isiah Kiner-Falefa,advanced,Batter,Handedness,2022,vs L as R,6.0%,13.4%,0.44,0.27,0.313,0.317,0.631,0.048,0.315,6,-1.8,0.276,79
+NEW YORK YANKEES,Isiah Kiner-Falefa,advanced,Batter,Handedness,2022,vs R as R,5.9%,13.7%,0.43,0.266,0.317,0.312,0.628,0.045,0.308,20,-5.3,0.28,81
+NEW YORK YANKEES,Isiah Kiner-Falefa,advanced,Batter,Handedness,2022,vs L,6.0%,13.4%,0.44,0.27,0.313,0.317,0.631,0.048,0.315,6,-1.8,0.276,79
+NEW YORK YANKEES,Isiah Kiner-Falefa,advanced,Batter,Handedness,2022,vs R,5.9%,13.7%,0.43,0.266,0.317,0.312,0.628,0.045,0.308,20,-5.3,0.28,81
+NEW YORK YANKEES,Kyle Higashioka,advanced,Batter,Handedness,2022,vs L as R,4.0%,22.0%,0.18,0.191,0.24,0.362,0.602,0.17,0.206,4,-1.9,0.264,70
+NEW YORK YANKEES,Kyle Higashioka,advanced,Batter,Handedness,2022,vs R as R,5.7%,23.0%,0.25,0.169,0.212,0.312,0.523,0.143,0.175,4,-5.8,0.226,44
+NEW YORK YANKEES,Kyle Higashioka,advanced,Batter,Handedness,2022,vs L,4.0%,22.0%,0.18,0.191,0.24,0.362,0.602,0.17,0.206,4,-1.9,0.264,70
+NEW YORK YANKEES,Kyle Higashioka,advanced,Batter,Handedness,2022,vs R,5.7%,23.0%,0.25,0.169,0.212,0.312,0.523,0.143,0.175,4,-5.8,0.226,44
+NEW YORK YANKEES,Matt Carpenter,advanced,Batter,Handedness,2022,vs L as L,12.5%,37.5%,0.33,0.35,0.458,0.85,1.308,0.5,0.5,7,4.4,0.538,262
+NEW YORK YANKEES,Matt Carpenter,advanced,Batter,Handedness,2022,vs R as L,13.2%,20.8%,0.64,0.341,0.442,0.864,1.306,0.523,0.308,16,9.4,0.533,258
+NEW YORK YANKEES,Matt Carpenter,advanced,Batter,Handedness,2022,vs L,12.5%,37.5%,0.33,0.35,0.458,0.85,1.308,0.5,0.5,7,4.4,0.538,262
+NEW YORK YANKEES,Matt Carpenter,advanced,Batter,Handedness,2022,vs R,13.2%,20.8%,0.64,0.341,0.442,0.864,1.306,0.523,0.308,16,9.4,0.533,258
+NEW YORK YANKEES,Marwin Gonzalez,advanced,Batter,Handedness,2022,vs R as L,5.6%,25.0%,0.22,0.215,0.278,0.354,0.632,0.138,0.261,7,-1.8,0.279,80
+NEW YORK YANKEES,Marwin Gonzalez,advanced,Batter,Handedness,2022,vs L as R,8.9%,28.9%,0.31,0.3,0.364,0.475,0.839,0.175,0.423,7,2.0,0.365,141
+NEW YORK YANKEES,Marwin Gonzalez,advanced,Batter,Handedness,2022,vs R as R,0.0%,0.0%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-0.2,0.0,-100
+NEW YORK YANKEES,Marwin Gonzalez,advanced,Batter,Handedness,2022,vs L,8.9%,28.9%,0.31,0.3,0.364,0.475,0.839,0.175,0.423,7,2.0,0.365,141
+NEW YORK YANKEES,Marwin Gonzalez,advanced,Batter,Handedness,2022,vs R,5.5%,24.7%,0.22,0.212,0.274,0.348,0.622,0.136,0.255,6,-2.0,0.275,78
+NEW YORK YANKEES,Joey Gallo,advanced,Batter,Handedness,2022,vs L as L,10.9%,53.1%,0.21,0.105,0.203,0.175,0.379,0.07,0.227,1,-6.5,0.183,13
+NEW YORK YANKEES,Joey Gallo,advanced,Batter,Handedness,2022,vs R as L,15.6%,32.4%,0.48,0.192,0.318,0.404,0.722,0.212,0.238,22,1.6,0.321,110
+NEW YORK YANKEES,Joey Gallo,advanced,Batter,Handedness,2022,vs L,10.9%,53.1%,0.21,0.105,0.203,0.175,0.379,0.07,0.227,1,-6.5,0.183,13
+NEW YORK YANKEES,Joey Gallo,advanced,Batter,Handedness,2022,vs R,15.6%,32.4%,0.48,0.192,0.318,0.404,0.722,0.212,0.238,22,1.6,0.321,110
+NEW YORK YANKEES,Stephen Ridings,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+NEW YORK YANKEES,Stephen Ridings,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+NEW YORK YANKEES,Stephen Ridings,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+NEW YORK YANKEES,Stephen Ridings,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143

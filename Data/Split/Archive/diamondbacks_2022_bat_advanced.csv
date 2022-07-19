@@ -1,0 +1,58 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+ARIZONA DIAMONDBACKS,Josh Rojas,advanced,Batter,Handedness,2022,vs L as L,12.1%,28.8%,0.42,.268,.369,.339,.709,.071,.389,8,0.7,.324,106
+ARIZONA DIAMONDBACKS,Josh Rojas,advanced,Batter,Handedness,2022,vs R as L,7.7%,17.3%,0.45,.287,.337,.453,.791,.167,.325,23,3.8,.339,116
+ARIZONA DIAMONDBACKS,Josh Rojas,advanced,Batter,Handedness,2022,vs L,12.1%,28.8%,0.42,.268,.369,.339,.709,.071,.389,8,0.7,.324,106
+ARIZONA DIAMONDBACKS,Josh Rojas,advanced,Batter,Handedness,2022,vs R,7.7%,17.3%,0.45,.287,.337,.453,.791,.167,.325,23,3.8,.339,116
+ARIZONA DIAMONDBACKS,Alek Thomas,advanced,Batter,Handedness,2022,vs L as L,4.6%,15.4%,0.30,.226,.262,.274,.536,.048,.255,4,-3.6,.241,50
+ARIZONA DIAMONDBACKS,Alek Thomas,advanced,Batter,Handedness,2022,vs R as L,7.2%,20.4%,0.35,.261,.322,.471,.793,.210,.294,22,3.9,.343,119
+ARIZONA DIAMONDBACKS,Alek Thomas,advanced,Batter,Handedness,2022,vs L,4.6%,15.4%,0.30,.226,.262,.274,.536,.048,.255,4,-3.6,.241,50
+ARIZONA DIAMONDBACKS,Alek Thomas,advanced,Batter,Handedness,2022,vs R,7.2%,20.4%,0.35,.261,.322,.471,.793,.210,.294,22,3.9,.343,119
+ARIZONA DIAMONDBACKS,Ketel Marte,advanced,Batter,Handedness,2022,vs R as L,14.5%,18.8%,0.77,.242,.355,.409,.764,.167,.287,32,4.8,.336,114
+ARIZONA DIAMONDBACKS,Ketel Marte,advanced,Batter,Handedness,2022,vs L as R,6.0%,13.3%,0.45,.316,.373,.474,.847,.158,.359,14,3.9,.370,137
+ARIZONA DIAMONDBACKS,Ketel Marte,advanced,Batter,Handedness,2022,vs L,6.0%,13.3%,0.45,.316,.373,.474,.847,.158,.359,14,3.9,.370,137
+ARIZONA DIAMONDBACKS,Ketel Marte,advanced,Batter,Handedness,2022,vs R,14.5%,18.8%,0.77,.246,.357,.417,.775,.171,.291,33,5.5,.340,117
+ARIZONA DIAMONDBACKS,Christian Walker,advanced,Batter,Handedness,2022,vs L as R,16.5%,11.8%,1.40,.300,.412,.614,1.026,.314,.286,18,7.9,.426,175
+ARIZONA DIAMONDBACKS,Christian Walker,advanced,Batter,Handedness,2022,vs R as R,12.3%,21.6%,0.57,.179,.291,.419,.710,.240,.159,31,0.3,.311,98
+ARIZONA DIAMONDBACKS,Christian Walker,advanced,Batter,Handedness,2022,vs L,16.5%,11.8%,1.40,.300,.412,.614,1.026,.314,.286,18,7.9,.426,175
+ARIZONA DIAMONDBACKS,Christian Walker,advanced,Batter,Handedness,2022,vs R,12.3%,21.6%,0.57,.179,.291,.419,.710,.240,.159,31,0.3,.311,98
+ARIZONA DIAMONDBACKS,David Peralta,advanced,Batter,Handedness,2022,vs L as L,15.0%,25.0%,0.60,.118,.250,.206,.456,.088,.130,2,-2.8,.222,37
+ARIZONA DIAMONDBACKS,David Peralta,advanced,Batter,Handedness,2022,vs R as L,7.6%,23.7%,0.32,.256,.314,.479,.793,.223,.298,32,4.6,.334,113
+ARIZONA DIAMONDBACKS,David Peralta,advanced,Batter,Handedness,2022,vs L,15.0%,25.0%,0.60,.118,.250,.206,.456,.088,.130,2,-2.8,.222,37
+ARIZONA DIAMONDBACKS,David Peralta,advanced,Batter,Handedness,2022,vs R,7.6%,23.7%,0.32,.256,.314,.479,.793,.223,.298,32,4.6,.334,113
+ARIZONA DIAMONDBACKS,Buddy Kennedy,advanced,Batter,Handedness,2022,vs L as R,3.7%,29.6%,0.13,.231,.259,.423,.682,.192,.294,3,-0.4,.294,86
+ARIZONA DIAMONDBACKS,Buddy Kennedy,advanced,Batter,Handedness,2022,vs R as R,7.3%,17.1%,0.43,.200,.268,.257,.525,.057,.233,2,-2.4,.237,47
+ARIZONA DIAMONDBACKS,Buddy Kennedy,advanced,Batter,Handedness,2022,vs L,3.7%,29.6%,0.13,.231,.259,.423,.682,.192,.294,3,-0.4,.294,86
+ARIZONA DIAMONDBACKS,Buddy Kennedy,advanced,Batter,Handedness,2022,vs R,7.3%,17.1%,0.43,.200,.268,.257,.525,.057,.233,2,-2.4,.237,47
+ARIZONA DIAMONDBACKS,Daulton Varsho,advanced,Batter,Handedness,2022,vs L as L,1.4%,27.0%,0.05,.211,.230,.254,.483,.042,.288,3,-5.7,.214,31
+ARIZONA DIAMONDBACKS,Daulton Varsho,advanced,Batter,Handedness,2022,vs R as L,8.4%,23.2%,0.36,.243,.317,.459,.777,.216,.273,34,5.3,.337,115
+ARIZONA DIAMONDBACKS,Daulton Varsho,advanced,Batter,Handedness,2022,vs L,1.4%,27.0%,0.05,.211,.230,.254,.483,.042,.288,3,-5.7,.214,31
+ARIZONA DIAMONDBACKS,Daulton Varsho,advanced,Batter,Handedness,2022,vs R,8.4%,23.2%,0.36,.243,.317,.459,.777,.216,.273,34,5.3,.337,115
+ARIZONA DIAMONDBACKS,Carson Kelly,advanced,Batter,Handedness,2022,vs L as R,3.7%,22.2%,0.17,.216,.259,.373,.632,.157,.263,5,-1.5,.276,73
+ARIZONA DIAMONDBACKS,Carson Kelly,advanced,Batter,Handedness,2022,vs R as R,5.1%,22.8%,0.22,.153,.203,.236,.439,.083,.167,2,-7.1,.197,20
+ARIZONA DIAMONDBACKS,Carson Kelly,advanced,Batter,Handedness,2022,vs L,3.7%,22.2%,0.17,.216,.259,.373,.632,.157,.263,5,-1.5,.276,73
+ARIZONA DIAMONDBACKS,Carson Kelly,advanced,Batter,Handedness,2022,vs R,5.1%,22.8%,0.22,.153,.203,.236,.439,.083,.167,2,-7.1,.197,20
+ARIZONA DIAMONDBACKS,Geraldo Perdomo,advanced,Batter,Handedness,2022,vs R as L,12.9%,21.9%,0.59,.180,.295,.267,.562,.087,.230,16,-7.6,.262,64
+ARIZONA DIAMONDBACKS,Geraldo Perdomo,advanced,Batter,Handedness,2022,vs L as R,8.2%,16.4%,0.50,.262,.324,.277,.601,.015,.321,6,-2.0,.275,73
+ARIZONA DIAMONDBACKS,Geraldo Perdomo,advanced,Batter,Handedness,2022,vs L,8.2%,16.4%,0.50,.262,.324,.277,.601,.015,.321,6,-2.0,.275,73
+ARIZONA DIAMONDBACKS,Geraldo Perdomo,advanced,Batter,Handedness,2022,vs R,12.9%,21.9%,0.59,.180,.295,.267,.562,.087,.230,16,-7.6,.262,64
+ARIZONA DIAMONDBACKS,Jose Herrera,advanced,Batter,Handedness,2022,vs R as L,8.4%,27.7%,0.30,.176,.247,.203,.450,.027,.255,3,-6.6,.211,29
+ARIZONA DIAMONDBACKS,Jose Herrera,advanced,Batter,Handedness,2022,vs L as R,5.3%,26.3%,0.20,.333,.368,.333,.702,.000,.462,2,0.1,.316,100
+ARIZONA DIAMONDBACKS,Jose Herrera,advanced,Batter,Handedness,2022,vs R as R,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.2,.000,-100
+ARIZONA DIAMONDBACKS,Jose Herrera,advanced,Batter,Handedness,2022,vs L,5.3%,26.3%,0.20,.333,.368,.333,.702,.000,.462,2,0.1,.316,100
+ARIZONA DIAMONDBACKS,Jose Herrera,advanced,Batter,Handedness,2022,vs R,8.3%,27.4%,0.30,.173,.244,.200,.444,.027,.250,3,-6.8,.208,28
+ARIZONA DIAMONDBACKS,Sergio Alcántara,advanced,Batter,Handedness,2022,vs R as L,1.3%,27.5%,0.05,.200,.205,.333,.538,.133,.245,4,-5.2,.228,43
+ARIZONA DIAMONDBACKS,Sergio Alcántara,advanced,Batter,Handedness,2022,vs L as R,7.4%,18.5%,0.40,.200,.259,.240,.499,.040,.250,1,-1.7,.229,45
+ARIZONA DIAMONDBACKS,Sergio Alcántara,advanced,Batter,Handedness,2022,vs L,7.4%,18.5%,0.40,.200,.259,.240,.499,.040,.250,1,-1.7,.229,45
+ARIZONA DIAMONDBACKS,Sergio Alcántara,advanced,Batter,Handedness,2022,vs R,1.3%,27.5%,0.05,.200,.205,.333,.538,.133,.245,4,-5.2,.228,43
+ARIZONA DIAMONDBACKS,Jordan Luplow,advanced,Batter,Handedness,2022,vs L as R,13.5%,27.0%,0.50,.222,.324,.619,.943,.397,.167,13,4.7,.389,150
+ARIZONA DIAMONDBACKS,Jordan Luplow,advanced,Batter,Handedness,2022,vs R as R,5.0%,28.7%,0.17,.151,.225,.315,.540,.164,.170,5,-4.4,.242,50
+ARIZONA DIAMONDBACKS,Jordan Luplow,advanced,Batter,Handedness,2022,vs L,13.5%,27.0%,0.50,.222,.324,.619,.943,.397,.167,13,4.7,.389,150
+ARIZONA DIAMONDBACKS,Jordan Luplow,advanced,Batter,Handedness,2022,vs R,5.0%,28.7%,0.17,.151,.225,.315,.540,.164,.170,5,-4.4,.242,50
+ARIZONA DIAMONDBACKS,Jake McCarthy,advanced,Batter,Handedness,2022,vs L as L,11.5%,26.9%,0.43,.227,.346,.364,.710,.136,.286,3,0.3,.323,105
+ARIZONA DIAMONDBACKS,Jake McCarthy,advanced,Batter,Handedness,2022,vs R as L,4.6%,36.9%,0.13,.230,.266,.426,.692,.197,.343,7,-0.7,.298,88
+ARIZONA DIAMONDBACKS,Jake McCarthy,advanced,Batter,Handedness,2022,vs L,11.5%,26.9%,0.43,.227,.346,.364,.710,.136,.286,3,0.3,.323,105
+ARIZONA DIAMONDBACKS,Jake McCarthy,advanced,Batter,Handedness,2022,vs R,4.6%,36.9%,0.13,.230,.266,.426,.692,.197,.343,7,-0.7,.298,88
+ARIZONA DIAMONDBACKS,Nick Ahmed,advanced,Batter,Handedness,2022,vs L as R,0.0%,37.5%,0.00,.063,.063,.250,.313,.188,.000,0,-2.3,.129,-26
+ARIZONA DIAMONDBACKS,Nick Ahmed,advanced,Batter,Handedness,2022,vs R as R,5.3%,23.7%,0.22,.306,.342,.528,.870,.222,.360,6,1.9,.374,140
+ARIZONA DIAMONDBACKS,Nick Ahmed,advanced,Batter,Handedness,2022,vs L,0.0%,37.5%,0.00,.063,.063,.250,.313,.188,.000,0,-2.3,.129,-26
+ARIZONA DIAMONDBACKS,Nick Ahmed,advanced,Batter,Handedness,2022,vs R,5.3%,23.7%,0.22,.306,.342,.528,.870,.222,.360,6,1.9,.374,140

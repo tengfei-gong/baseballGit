@@ -1,0 +1,69 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+SEATTLE MARINERS,Julio Rodríguez,batted-ball,Batter,Handedness,2022,vs L as R,0.86,20.4%,36.7%,42.9%,0.0%,23.8%,11.1%,0.0%,34.7%,32.7%,32.7%,12.2%,55.1%,32.7%,341,134,207
+SEATTLE MARINERS,Julio Rodríguez,batted-ball,Batter,Handedness,2022,vs R as R,1.52,16.6%,50.3%,33.1%,18.3%,16.7%,12.1%,0.0%,45.9%,33.7%,20.4%,16.0%,47.0%,37.0%,983,330,653
+SEATTLE MARINERS,Julio Rodríguez,batted-ball,Batter,Handedness,2022,vs L,0.86,20.4%,36.7%,42.9%,0.0%,23.8%,11.1%,0.0%,34.7%,32.7%,32.7%,12.2%,55.1%,32.7%,341,134,207
+SEATTLE MARINERS,Julio Rodríguez,batted-ball,Batter,Handedness,2022,vs R,1.52,16.6%,50.3%,33.1%,18.3%,16.7%,12.1%,0.0%,45.9%,33.7%,20.4%,16.0%,47.0%,37.0%,983,330,653
+SEATTLE MARINERS,Ty France,batted-ball,Batter,Handedness,2022,vs L as R,2.23,23.6%,52.7%,23.6%,0.0%,15.4%,3.4%,0.0%,38.2%,38.2%,23.6%,20.0%,47.3%,32.7%,285,111,174
+SEATTLE MARINERS,Ty France,batted-ball,Batter,Handedness,2022,vs R as R,1.35,22.1%,44.7%,33.2%,9.5%,12.7%,4.7%,0.0%,37.4%,34.2%,28.4%,16.3%,51.6%,32.1%,906,325,581
+SEATTLE MARINERS,Ty France,batted-ball,Batter,Handedness,2022,vs L,2.23,23.6%,52.7%,23.6%,0.0%,15.4%,3.4%,0.0%,38.2%,38.2%,23.6%,20.0%,47.3%,32.7%,285,111,174
+SEATTLE MARINERS,Ty France,batted-ball,Batter,Handedness,2022,vs R,1.35,22.1%,44.7%,33.2%,9.5%,12.7%,4.7%,0.0%,37.4%,34.2%,28.4%,16.3%,51.6%,32.1%,906,325,581
+SEATTLE MARINERS,J.P. Crawford,batted-ball,Batter,Handedness,2022,vs L as L,1.04,23.9%,38.8%,37.3%,20.0%,12.0%,3.8%,0.0%,40.3%,44.8%,14.9%,29.9%,43.3%,26.9%,343,130,213
+SEATTLE MARINERS,J.P. Crawford,batted-ball,Batter,Handedness,2022,vs R as L,1.34,27.6%,41.4%,30.9%,16.1%,3.6%,6.7%,0.0%,37.4%,35.7%,26.9%,20.9%,56.0%,23.1%,972,393,579
+SEATTLE MARINERS,J.P. Crawford,batted-ball,Batter,Handedness,2022,vs L,1.04,23.9%,38.8%,37.3%,20.0%,12.0%,3.8%,0.0%,40.3%,44.8%,14.9%,29.9%,43.3%,26.9%,343,130,213
+SEATTLE MARINERS,J.P. Crawford,batted-ball,Batter,Handedness,2022,vs R,1.34,27.6%,41.4%,30.9%,16.1%,3.6%,6.7%,0.0%,37.4%,35.7%,26.9%,20.9%,56.0%,23.1%,972,393,579
+SEATTLE MARINERS,Carlos Santana,batted-ball,Batter,Handedness,2022,vs R as L,0.68,14.8%,34.4%,50.8%,16.9%,9.2%,6.8%,0.0%,50.0%,32.8%,17.2%,15.6%,52.3%,32.0%,789,310,479
+SEATTLE MARINERS,Carlos Santana,batted-ball,Batter,Handedness,2022,vs L as R,3.22,22.4%,59.2%,18.4%,11.1%,11.1%,10.3%,0.0%,46.9%,32.7%,20.4%,20.4%,38.8%,40.8%,264,121,143
+SEATTLE MARINERS,Carlos Santana,batted-ball,Batter,Handedness,2022,vs L,3.22,22.4%,59.2%,18.4%,11.1%,11.1%,10.3%,0.0%,46.9%,32.7%,20.4%,20.4%,38.8%,40.8%,264,121,143
+SEATTLE MARINERS,Carlos Santana,batted-ball,Batter,Handedness,2022,vs R,0.68,14.8%,34.4%,50.8%,16.9%,9.2%,6.8%,0.0%,50.0%,32.8%,17.2%,15.6%,52.3%,32.0%,789,310,479
+SEATTLE MARINERS,Jesse Winker,batted-ball,Batter,Handedness,2022,vs L as L,1.25,22.4%,43.1%,34.5%,25.0%,15.0%,12.0%,0.0%,30.5%,30.5%,39.0%,22.0%,49.2%,28.8%,364,141,223
+SEATTLE MARINERS,Jesse Winker,batted-ball,Batter,Handedness,2022,vs R as L,0.82,23.5%,34.6%,42.0%,11.8%,4.4%,1.8%,0.0%,41.4%,35.2%,23.5%,18.5%,53.7%,27.8%,989,401,588
+SEATTLE MARINERS,Jesse Winker,batted-ball,Batter,Handedness,2022,vs L,1.25,22.4%,43.1%,34.5%,25.0%,15.0%,12.0%,0.0%,30.5%,30.5%,39.0%,22.0%,49.2%,28.8%,364,141,223
+SEATTLE MARINERS,Jesse Winker,batted-ball,Batter,Handedness,2022,vs R,0.82,23.5%,34.6%,42.0%,11.8%,4.4%,1.8%,0.0%,41.4%,35.2%,23.5%,18.5%,53.7%,27.8%,989,401,588
+SEATTLE MARINERS,Eugenio Suárez,batted-ball,Batter,Handedness,2022,vs L as R,1.12,23.4%,40.4%,36.2%,0.0%,11.8%,5.3%,0.0%,51.1%,31.9%,17.0%,10.6%,48.9%,40.4%,386,168,218
+SEATTLE MARINERS,Eugenio Suárez,batted-ball,Batter,Handedness,2022,vs R as R,0.84,18.9%,37.1%,44.0%,5.7%,18.6%,3.4%,0.0%,45.3%,30.8%,23.9%,16.4%,53.5%,30.2%,1099,420,679
+SEATTLE MARINERS,Eugenio Suárez,batted-ball,Batter,Handedness,2022,vs L,1.12,23.4%,40.4%,36.2%,0.0%,11.8%,5.3%,0.0%,51.1%,31.9%,17.0%,10.6%,48.9%,40.4%,386,168,218
+SEATTLE MARINERS,Eugenio Suárez,batted-ball,Batter,Handedness,2022,vs R,0.84,18.9%,37.1%,44.0%,5.7%,18.6%,3.4%,0.0%,45.3%,30.8%,23.9%,16.4%,53.5%,30.2%,1099,420,679
+SEATTLE MARINERS,Cal Raleigh,batted-ball,Batter,Handedness,2022,vs R as L,0.69,17.4%,33.7%,48.9%,6.7%,20.0%,16.1%,0.0%,50.0%,28.3%,21.7%,17.4%,43.5%,39.1%,547,191,356
+SEATTLE MARINERS,Cal Raleigh,batted-ball,Batter,Handedness,2022,vs L as R,0.44,17.9%,25.0%,57.1%,12.5%,12.5%,0.0%,0.0%,39.3%,35.7%,25.0%,28.6%,35.7%,35.7%,217,79,138
+SEATTLE MARINERS,Cal Raleigh,batted-ball,Batter,Handedness,2022,vs L,0.44,17.9%,25.0%,57.1%,12.5%,12.5%,0.0%,0.0%,39.3%,35.7%,25.0%,28.6%,35.7%,35.7%,220,80,140
+SEATTLE MARINERS,Cal Raleigh,batted-ball,Batter,Handedness,2022,vs R,0.69,17.4%,33.7%,48.9%,6.7%,20.0%,16.1%,0.0%,50.0%,28.3%,21.7%,17.4%,43.5%,39.1%,547,191,356
+SEATTLE MARINERS,Adam Frazier,batted-ball,Batter,Handedness,2022,vs L as L,2.06,22.2%,52.4%,25.4%,6.3%,6.3%,3.0%,0.0%,34.9%,36.5%,28.6%,19.0%,66.7%,14.3%,298,106,192
+SEATTLE MARINERS,Adam Frazier,batted-ball,Batter,Handedness,2022,vs R as L,1.08,27.3%,37.8%,34.9%,11.0%,1.4%,2.5%,0.0%,40.3%,34.1%,25.6%,18.5%,60.7%,20.9%,985,338,647
+SEATTLE MARINERS,Adam Frazier,batted-ball,Batter,Handedness,2022,vs L,2.06,22.2%,52.4%,25.4%,6.3%,6.3%,3.0%,0.0%,34.9%,36.5%,28.6%,19.0%,66.7%,14.3%,298,106,192
+SEATTLE MARINERS,Adam Frazier,batted-ball,Batter,Handedness,2022,vs R,1.08,27.3%,37.8%,34.9%,11.0%,1.4%,2.5%,0.0%,40.3%,34.1%,25.6%,18.5%,60.7%,20.9%,985,338,647
+SEATTLE MARINERS,Sam Haggerty,batted-ball,Batter,Handedness,2022,vs R as L,1.67,20.0%,50.0%,30.0%,33.3%,16.7%,0.0%,50.0%,36.4%,40.9%,22.7%,27.3%,50.0%,22.7%,116,35,81
+SEATTLE MARINERS,Sam Haggerty,batted-ball,Batter,Handedness,2022,vs L as R,1.00,42.9%,28.6%,28.6%,50.0%,0.0%,50.0%,0.0%,57.1%,14.3%,28.6%,42.9%,0.0%,57.1%,28,9,19
+SEATTLE MARINERS,Sam Haggerty,batted-ball,Batter,Handedness,2022,vs L,1.00,42.9%,28.6%,28.6%,50.0%,0.0%,50.0%,0.0%,57.1%,14.3%,28.6%,42.9%,0.0%,57.1%,28,9,19
+SEATTLE MARINERS,Sam Haggerty,batted-ball,Batter,Handedness,2022,vs R,1.67,20.0%,50.0%,30.0%,33.3%,16.7%,0.0%,50.0%,36.4%,40.9%,22.7%,27.3%,50.0%,22.7%,116,35,81
+SEATTLE MARINERS,Luis Torrens,batted-ball,Batter,Handedness,2022,vs L as R,3.00,28.6%,53.6%,17.9%,0.0%,0.0%,0.0%,0.0%,35.7%,53.6%,10.7%,10.7%,64.3%,25.0%,196,68,128
+SEATTLE MARINERS,Luis Torrens,batted-ball,Batter,Handedness,2022,vs R as R,2.00,30.2%,46.5%,23.3%,0.0%,0.0%,5.0%,0.0%,39.5%,34.9%,25.6%,23.3%,51.2%,25.6%,269,90,179
+SEATTLE MARINERS,Luis Torrens,batted-ball,Batter,Handedness,2022,vs L,3.00,28.6%,53.6%,17.9%,0.0%,0.0%,0.0%,0.0%,35.7%,53.6%,10.7%,10.7%,64.3%,25.0%,196,68,128
+SEATTLE MARINERS,Luis Torrens,batted-ball,Batter,Handedness,2022,vs R,2.00,30.2%,46.5%,23.3%,0.0%,0.0%,5.0%,0.0%,39.5%,34.9%,25.6%,23.3%,51.2%,25.6%,269,90,179
+SEATTLE MARINERS,Abraham Toro,batted-ball,Batter,Handedness,2022,vs R as L,0.81,11.6%,39.5%,48.8%,11.1%,9.5%,3.9%,0.0%,45.7%,37.2%,17.1%,24.0%,55.0%,20.9%,645,217,428
+SEATTLE MARINERS,Abraham Toro,batted-ball,Batter,Handedness,2022,vs L as R,0.88,19.7%,37.7%,42.6%,7.7%,3.8%,8.7%,0.0%,49.2%,29.5%,21.3%,13.1%,60.7%,26.2%,286,110,176
+SEATTLE MARINERS,Abraham Toro,batted-ball,Batter,Handedness,2022,vs L,0.88,19.7%,37.7%,42.6%,7.7%,3.8%,8.7%,0.0%,49.2%,29.5%,21.3%,13.1%,60.7%,26.2%,286,110,176
+SEATTLE MARINERS,Abraham Toro,batted-ball,Batter,Handedness,2022,vs R,0.81,11.6%,39.5%,48.8%,11.1%,9.5%,3.9%,0.0%,45.7%,37.2%,17.1%,24.0%,55.0%,20.9%,645,217,428
+SEATTLE MARINERS,Dylan Moore,batted-ball,Batter,Handedness,2022,vs L as R,0.41,20.5%,23.1%,56.4%,13.6%,13.6%,11.1%,0.0%,41.0%,28.2%,30.8%,17.9%,41.0%,41.0%,330,139,191
+SEATTLE MARINERS,Dylan Moore,batted-ball,Batter,Handedness,2022,vs R as R,0.61,9.8%,34.1%,56.1%,13.0%,8.7%,0.0%,0.0%,41.9%,34.9%,23.3%,16.3%,53.5%,30.2%,370,154,216
+SEATTLE MARINERS,Dylan Moore,batted-ball,Batter,Handedness,2022,vs L,0.41,20.5%,23.1%,56.4%,13.6%,13.6%,11.1%,0.0%,41.0%,28.2%,30.8%,17.9%,41.0%,41.0%,330,139,191
+SEATTLE MARINERS,Dylan Moore,batted-ball,Batter,Handedness,2022,vs R,0.61,9.8%,34.1%,56.1%,13.0%,8.7%,0.0%,0.0%,41.9%,34.9%,23.3%,16.3%,53.5%,30.2%,370,154,216
+SEATTLE MARINERS,Justin Upton,batted-ball,Batter,Handedness,2022,vs L as R,0.10,15.4%,7.7%,76.9%,20.0%,10.0%,0.0%,0.0%,53.8%,23.1%,23.1%,23.1%,61.5%,15.4%,84,27,57
+SEATTLE MARINERS,Justin Upton,batted-ball,Batter,Handedness,2022,vs R as R,1.67,20.0%,50.0%,30.0%,33.3%,0.0%,0.0%,0.0%,60.0%,30.0%,10.0%,10.0%,70.0%,20.0%,115,48,67
+SEATTLE MARINERS,Justin Upton,batted-ball,Batter,Handedness,2022,vs L,0.10,15.4%,7.7%,76.9%,20.0%,10.0%,0.0%,0.0%,53.8%,23.1%,23.1%,23.1%,61.5%,15.4%,84,27,57
+SEATTLE MARINERS,Justin Upton,batted-ball,Batter,Handedness,2022,vs R,1.67,20.0%,50.0%,30.0%,33.3%,0.0%,0.0%,0.0%,60.0%,30.0%,10.0%,10.0%,70.0%,20.0%,115,48,67
+SEATTLE MARINERS,Tom Murphy,batted-ball,Batter,Handedness,2022,vs L as R,3.00,42.9%,42.9%,14.3%,0.0%,0.0%,33.3%,0.0%,42.9%,0.0%,57.1%,28.6%,42.9%,28.6%,49,22,27
+SEATTLE MARINERS,Tom Murphy,batted-ball,Batter,Handedness,2022,vs R as R,0.67,23.1%,30.8%,46.2%,0.0%,16.7%,25.0%,0.0%,46.2%,38.5%,15.4%,0.0%,38.5%,61.5%,132,48,84
+SEATTLE MARINERS,Tom Murphy,batted-ball,Batter,Handedness,2022,vs L,3.00,42.9%,42.9%,14.3%,0.0%,0.0%,33.3%,0.0%,42.9%,0.0%,57.1%,28.6%,42.9%,28.6%,49,22,27
+SEATTLE MARINERS,Tom Murphy,batted-ball,Batter,Handedness,2022,vs R,0.67,23.1%,30.8%,46.2%,0.0%,16.7%,25.0%,0.0%,46.2%,38.5%,15.4%,0.0%,38.5%,61.5%,132,48,84
+SEATTLE MARINERS,Mitch Haniger,batted-ball,Batter,Handedness,2022,vs L as R,0.67,16.7%,33.3%,50.0%,33.3%,0.0%,0.0%,0.0%,50.0%,16.7%,33.3%,33.3%,50.0%,16.7%,34,16,18
+SEATTLE MARINERS,Mitch Haniger,batted-ball,Batter,Handedness,2022,vs R as R,0.60,20.0%,30.0%,50.0%,20.0%,30.0%,16.7%,0.0%,55.0%,25.0%,20.0%,20.0%,50.0%,30.0%,112,30,82
+SEATTLE MARINERS,Mitch Haniger,batted-ball,Batter,Handedness,2022,vs L,0.67,16.7%,33.3%,50.0%,33.3%,0.0%,0.0%,0.0%,50.0%,16.7%,33.3%,33.3%,50.0%,16.7%,34,16,18
+SEATTLE MARINERS,Mitch Haniger,batted-ball,Batter,Handedness,2022,vs R,0.60,20.0%,30.0%,50.0%,20.0%,30.0%,16.7%,0.0%,55.0%,25.0%,20.0%,20.0%,50.0%,30.0%,112,30,82
+SEATTLE MARINERS,Kyle Lewis,batted-ball,Batter,Handedness,2022,vs L as R,2.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,50.0%,50.0%,4,2,2
+SEATTLE MARINERS,Kyle Lewis,batted-ball,Batter,Handedness,2022,vs R as R,1.50,16.7%,50.0%,33.3%,50.0%,50.0%,0.0%,0.0%,50.0%,25.0%,25.0%,25.0%,50.0%,25.0%,50,16,34
+SEATTLE MARINERS,Kyle Lewis,batted-ball,Batter,Handedness,2022,vs L,2.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,50.0%,50.0%,4,2,2
+SEATTLE MARINERS,Kyle Lewis,batted-ball,Batter,Handedness,2022,vs R,1.50,16.7%,50.0%,33.3%,50.0%,50.0%,0.0%,0.0%,50.0%,25.0%,25.0%,25.0%,50.0%,25.0%,50,16,34
+SEATTLE MARINERS,Taylor Trammell,batted-ball,Batter,Handedness,2022,vs L as L,1.00,0.0%,50.0%,50.0%,20.0%,0.0%,20.0%,0.0%,20.0%,50.0%,30.0%,10.0%,70.0%,20.0%,52,15,37
+SEATTLE MARINERS,Taylor Trammell,batted-ball,Batter,Handedness,2022,vs R as L,0.89,27.7%,34.0%,38.3%,5.6%,16.7%,12.5%,50.0%,36.7%,40.8%,22.4%,14.3%,46.9%,38.8%,279,112,167
+SEATTLE MARINERS,Taylor Trammell,batted-ball,Batter,Handedness,2022,vs L,1.00,0.0%,50.0%,50.0%,20.0%,0.0%,20.0%,0.0%,20.0%,50.0%,30.0%,10.0%,70.0%,20.0%,52,15,37
+SEATTLE MARINERS,Taylor Trammell,batted-ball,Batter,Handedness,2022,vs R,0.89,27.7%,34.0%,38.3%,5.6%,16.7%,12.5%,50.0%,36.7%,40.8%,22.4%,14.3%,46.9%,38.8%,279,112,167

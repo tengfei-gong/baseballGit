@@ -1,0 +1,61 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+MIAMI MARLINS,Joey Wendle,advanced,Batter,Handedness,2022,vs L as L,14.3%,9.5%,1.50,.333,.429,.400,.829,.067,.333,3,0.9,.362,138
+MIAMI MARLINS,Joey Wendle,advanced,Batter,Handedness,2022,vs R as L,5.2%,9.5%,0.55,.259,.302,.380,.681,.120,.271,12,-1.1,.299,95
+MIAMI MARLINS,Joey Wendle,advanced,Batter,Handedness,2022,vs L,14.3%,9.5%,1.50,.333,.429,.400,.829,.067,.333,3,0.9,.362,138
+MIAMI MARLINS,Joey Wendle,advanced,Batter,Handedness,2022,vs R,5.2%,9.5%,0.55,.259,.302,.380,.681,.120,.271,12,-1.1,.299,95
+MIAMI MARLINS,Jon Berti,advanced,Batter,Handedness,2022,vs L as R,10.9%,34.8%,0.31,.293,.370,.488,.857,.195,.458,8,2.3,.372,145
+MIAMI MARLINS,Jon Berti,advanced,Batter,Handedness,2022,vs R as R,11.8%,17.6%,0.67,.265,.359,.347,.706,.082,.325,21,1.2,.319,109
+MIAMI MARLINS,Jon Berti,advanced,Batter,Handedness,2022,vs L,10.9%,34.8%,0.31,.293,.370,.488,.857,.195,.458,8,2.3,.372,145
+MIAMI MARLINS,Jon Berti,advanced,Batter,Handedness,2022,vs R,11.8%,17.6%,0.67,.265,.359,.347,.706,.082,.325,21,1.2,.319,109
+MIAMI MARLINS,Garrett Cooper,advanced,Batter,Handedness,2022,vs L as R,8.6%,27.6%,0.31,.269,.328,.346,.674,.077,.378,6,-0.5,.299,95
+MIAMI MARLINS,Garrett Cooper,advanced,Batter,Handedness,2022,vs R as R,8.2%,23.4%,0.35,.302,.371,.480,.851,.178,.377,42,11.9,.369,143
+MIAMI MARLINS,Garrett Cooper,advanced,Batter,Handedness,2022,vs L,8.6%,27.6%,0.31,.269,.328,.346,.674,.077,.378,6,-0.5,.299,95
+MIAMI MARLINS,Garrett Cooper,advanced,Batter,Handedness,2022,vs R,8.2%,23.4%,0.35,.302,.371,.480,.851,.178,.377,42,11.9,.369,143
+MIAMI MARLINS,Jesús Aguilar,advanced,Batter,Handedness,2022,vs L as R,9.2%,30.8%,0.30,.211,.292,.298,.591,.088,.297,5,-2.2,.268,74
+MIAMI MARLINS,Jesús Aguilar,advanced,Batter,Handedness,2022,vs R as R,5.0%,21.4%,0.23,.257,.295,.432,.726,.174,.292,31,0.7,.313,105
+MIAMI MARLINS,Jesús Aguilar,advanced,Batter,Handedness,2022,vs L,9.2%,30.8%,0.30,.211,.292,.298,.591,.088,.297,5,-2.2,.268,74
+MIAMI MARLINS,Jesús Aguilar,advanced,Batter,Handedness,2022,vs R,5.0%,21.4%,0.23,.257,.295,.432,.726,.174,.292,31,0.7,.313,105
+MIAMI MARLINS,Avisaíl García,advanced,Batter,Handedness,2022,vs L as R,4.3%,34.0%,0.13,.200,.234,.267,.501,.067,.286,2,-3.2,.224,44
+MIAMI MARLINS,Avisaíl García,advanced,Batter,Handedness,2022,vs R as R,3.0%,26.8%,0.11,.234,.268,.333,.601,.099,.301,19,-8.5,.265,72
+MIAMI MARLINS,Avisaíl García,advanced,Batter,Handedness,2022,vs L,4.3%,34.0%,0.13,.200,.234,.267,.501,.067,.286,2,-3.2,.224,44
+MIAMI MARLINS,Avisaíl García,advanced,Batter,Handedness,2022,vs R,3.0%,26.8%,0.11,.234,.268,.333,.601,.099,.301,19,-8.5,.265,72
+MIAMI MARLINS,Brian Anderson,advanced,Batter,Handedness,2022,vs L as R,0.0%,36.4%,0.00,.375,.394,.594,.988,.219,.579,7,3.0,.425,181
+MIAMI MARLINS,Brian Anderson,advanced,Batter,Handedness,2022,vs R as R,13.7%,28.8%,0.48,.227,.338,.328,.666,.101,.325,15,-0.9,.302,97
+MIAMI MARLINS,Brian Anderson,advanced,Batter,Handedness,2022,vs L,0.0%,36.4%,0.00,.375,.394,.594,.988,.219,.579,7,3.0,.425,181
+MIAMI MARLINS,Brian Anderson,advanced,Batter,Handedness,2022,vs R,13.7%,28.8%,0.48,.227,.338,.328,.666,.101,.325,15,-0.9,.302,97
+MIAMI MARLINS,Jesús Sánchez,advanced,Batter,Handedness,2022,vs L as L,0.0%,44.7%,0.00,.128,.128,.149,.277,.021,.231,-2,-7.1,.121,-25
+MIAMI MARLINS,Jesús Sánchez,advanced,Batter,Handedness,2022,vs R as L,7.7%,24.5%,0.32,.222,.288,.443,.731,.222,.248,28,1.1,.316,107
+MIAMI MARLINS,Jesús Sánchez,advanced,Batter,Handedness,2022,vs L,0.0%,44.7%,0.00,.128,.128,.149,.277,.021,.231,-2,-7.1,.121,-25
+MIAMI MARLINS,Jesús Sánchez,advanced,Batter,Handedness,2022,vs R,7.7%,24.5%,0.32,.222,.288,.443,.731,.222,.248,28,1.1,.316,107
+MIAMI MARLINS,Miguel Rojas,advanced,Batter,Handedness,2022,vs L as R,6.1%,12.1%,0.50,.254,.333,.356,.689,.102,.280,7,-0.3,.305,99
+MIAMI MARLINS,Miguel Rojas,advanced,Batter,Handedness,2022,vs R as R,5.6%,10.8%,0.52,.241,.282,.367,.649,.126,.249,20,-4.5,.283,85
+MIAMI MARLINS,Miguel Rojas,advanced,Batter,Handedness,2022,vs L,6.1%,12.1%,0.50,.254,.333,.356,.689,.102,.280,7,-0.3,.305,99
+MIAMI MARLINS,Miguel Rojas,advanced,Batter,Handedness,2022,vs R,5.6%,10.8%,0.52,.241,.282,.367,.649,.126,.249,20,-4.5,.283,85
+MIAMI MARLINS,Jacob Stallings,advanced,Batter,Handedness,2022,vs L as R,10.5%,23.7%,0.44,.182,.270,.182,.452,.000,.250,2,-2.8,.218,41
+MIAMI MARLINS,Jacob Stallings,advanced,Batter,Handedness,2022,vs R as R,6.6%,23.8%,0.28,.186,.243,.246,.489,.060,.236,8,-12.6,.223,44
+MIAMI MARLINS,Jacob Stallings,advanced,Batter,Handedness,2022,vs L,10.5%,23.7%,0.44,.182,.270,.182,.452,.000,.250,2,-2.8,.218,41
+MIAMI MARLINS,Jacob Stallings,advanced,Batter,Handedness,2022,vs R,6.6%,23.8%,0.28,.186,.243,.246,.489,.060,.236,8,-12.6,.223,44
+MIAMI MARLINS,Nick Fortes,advanced,Batter,Handedness,2022,vs L as R,0.0%,12.5%,0.00,.250,.250,.438,.688,.188,.231,2,-0.2,.295,93
+MIAMI MARLINS,Nick Fortes,advanced,Batter,Handedness,2022,vs R as R,11.8%,17.6%,0.67,.310,.431,.571,1.003,.262,.355,11,4.9,.432,185
+MIAMI MARLINS,Nick Fortes,advanced,Batter,Handedness,2022,vs L,0.0%,12.5%,0.00,.250,.250,.438,.688,.188,.231,2,-0.2,.295,93
+MIAMI MARLINS,Nick Fortes,advanced,Batter,Handedness,2022,vs R,11.8%,17.6%,0.67,.310,.431,.571,1.003,.262,.355,11,4.9,.432,185
+MIAMI MARLINS,Luke Williams,advanced,Batter,Handedness,2022,vs L as R,9.1%,27.3%,0.33,.250,.318,.300,.618,.050,.357,2,-0.5,.281,83
+MIAMI MARLINS,Luke Williams,advanced,Batter,Handedness,2022,vs R as R,8.8%,29.4%,0.30,.290,.353,.419,.772,.129,.400,5,0.8,.341,124
+MIAMI MARLINS,Luke Williams,advanced,Batter,Handedness,2022,vs L,9.1%,27.3%,0.33,.250,.318,.300,.618,.050,.357,2,-0.5,.281,83
+MIAMI MARLINS,Luke Williams,advanced,Batter,Handedness,2022,vs R,8.8%,29.4%,0.30,.290,.353,.419,.772,.129,.400,5,0.8,.341,124
+MIAMI MARLINS,Bryan De La Cruz,advanced,Batter,Handedness,2022,vs L as R,9.4%,32.1%,0.29,.146,.226,.146,.372,.000,.226,1,-5.4,.182,16
+MIAMI MARLINS,Bryan De La Cruz,advanced,Batter,Handedness,2022,vs R as R,4.5%,21.2%,0.21,.250,.288,.468,.756,.218,.275,17,1.5,.324,112
+MIAMI MARLINS,Bryan De La Cruz,advanced,Batter,Handedness,2022,vs L,9.4%,32.1%,0.29,.146,.226,.146,.372,.000,.226,1,-5.4,.182,16
+MIAMI MARLINS,Bryan De La Cruz,advanced,Batter,Handedness,2022,vs R,4.5%,21.2%,0.21,.250,.288,.468,.756,.218,.275,17,1.5,.324,112
+MIAMI MARLINS,Billy Hamilton,advanced,Batter,Handedness,2022,vs L as R,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.7,.000,-100
+MIAMI MARLINS,Billy Hamilton,advanced,Batter,Handedness,2022,vs R as R,0.0%,100.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.5,.000,-100
+MIAMI MARLINS,Billy Hamilton,advanced,Batter,Handedness,2022,vs L,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.7,.000,-100
+MIAMI MARLINS,Billy Hamilton,advanced,Batter,Handedness,2022,vs R,0.0%,100.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.5,.000,-100
+MIAMI MARLINS,Jazz Chisholm Jr.,advanced,Batter,Handedness,2022,vs L as L,2.6%,28.2%,0.09,.143,.205,.314,.519,.171,.167,2,-2.6,.227,47
+MIAMI MARLINS,Jazz Chisholm Jr.,advanced,Batter,Handedness,2022,vs R as L,9.9%,27.2%,0.36,.275,.348,.579,.927,.303,.321,36,13.1,.392,158
+MIAMI MARLINS,Jazz Chisholm Jr.,advanced,Batter,Handedness,2022,vs L,2.6%,28.2%,0.09,.143,.205,.314,.519,.171,.167,2,-2.6,.227,47
+MIAMI MARLINS,Jazz Chisholm Jr.,advanced,Batter,Handedness,2022,vs R,9.9%,27.2%,0.36,.275,.348,.579,.927,.303,.321,36,13.1,.392,158
+MIAMI MARLINS,Jorge Soler,advanced,Batter,Handedness,2022,vs L as R,10.4%,26.9%,0.39,.211,.303,.544,.847,.333,.176,10,2.3,.353,132
+MIAMI MARLINS,Jorge Soler,advanced,Batter,Handedness,2022,vs R as R,10.4%,28.8%,0.36,.218,.306,.386,.692,.168,.286,25,-0.6,.307,101
+MIAMI MARLINS,Jorge Soler,advanced,Batter,Handedness,2022,vs L,10.4%,26.9%,0.39,.211,.303,.544,.847,.333,.176,10,2.3,.353,132
+MIAMI MARLINS,Jorge Soler,advanced,Batter,Handedness,2022,vs R,10.4%,28.8%,0.36,.218,.306,.386,.692,.168,.286,25,-0.6,.307,101

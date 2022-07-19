@@ -1,0 +1,69 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+ST. LOUIS CARDINALS,Brendan Donovan,advanced,Batter,Handedness,2022,vs L as L,17.1%,12.2%,1.4,0.353,0.463,0.412,0.875,0.059,0.414,8,2.8,0.395,160
+ST. LOUIS CARDINALS,Brendan Donovan,advanced,Batter,Handedness,2022,vs R as L,10.8%,19.6%,0.55,0.272,0.377,0.387,0.765,0.116,0.341,29,5.2,0.342,124
+ST. LOUIS CARDINALS,Brendan Donovan,advanced,Batter,Handedness,2022,vs L,17.1%,12.2%,1.4,0.353,0.463,0.412,0.875,0.059,0.414,8,2.8,0.395,160
+ST. LOUIS CARDINALS,Brendan Donovan,advanced,Batter,Handedness,2022,vs R,10.8%,19.6%,0.55,0.272,0.377,0.387,0.765,0.116,0.341,29,5.2,0.342,124
+ST. LOUIS CARDINALS,Dylan Carlson,advanced,Batter,Handedness,2022,vs R as L,8.5%,17.0%,0.5,0.228,0.297,0.354,0.652,0.127,0.261,21,-3.8,0.288,88
+ST. LOUIS CARDINALS,Dylan Carlson,advanced,Batter,Handedness,2022,vs L as R,4.9%,24.6%,0.2,0.351,0.393,0.561,0.955,0.211,0.45,12,4.9,0.412,172
+ST. LOUIS CARDINALS,Dylan Carlson,advanced,Batter,Handedness,2022,vs L,4.9%,24.6%,0.2,0.351,0.393,0.561,0.955,0.211,0.45,12,4.9,0.412,172
+ST. LOUIS CARDINALS,Dylan Carlson,advanced,Batter,Handedness,2022,vs R,8.5%,17.0%,0.5,0.228,0.297,0.354,0.652,0.127,0.261,21,-3.8,0.288,88
+ST. LOUIS CARDINALS,Paul Goldschmidt,advanced,Batter,Handedness,2022,vs L as R,16.7%,19.4%,0.86,0.458,0.549,0.831,1.38,0.373,0.561,23,15.0,0.571,280
+ST. LOUIS CARDINALS,Paul Goldschmidt,advanced,Batter,Handedness,2022,vs R as R,10.9%,21.2%,0.52,0.306,0.385,0.543,0.929,0.238,0.353,57,21.6,0.4,164
+ST. LOUIS CARDINALS,Paul Goldschmidt,advanced,Batter,Handedness,2022,vs L,16.7%,19.4%,0.86,0.458,0.549,0.831,1.38,0.373,0.561,23,15.0,0.571,280
+ST. LOUIS CARDINALS,Paul Goldschmidt,advanced,Batter,Handedness,2022,vs R,10.9%,21.2%,0.52,0.306,0.385,0.543,0.929,0.238,0.353,57,21.6,0.4,164
+ST. LOUIS CARDINALS,Nolan Arenado,advanced,Batter,Handedness,2022,vs L as R,9.5%,7.9%,1.2,0.25,0.333,0.643,0.976,0.393,0.178,12,5.0,0.41,170
+ST. LOUIS CARDINALS,Nolan Arenado,advanced,Batter,Handedness,2022,vs R as R,8.8%,13.9%,0.63,0.302,0.366,0.494,0.86,0.192,0.321,48,14.2,0.371,144
+ST. LOUIS CARDINALS,Nolan Arenado,advanced,Batter,Handedness,2022,vs L,9.5%,7.9%,1.2,0.25,0.333,0.643,0.976,0.393,0.178,12,5.0,0.41,170
+ST. LOUIS CARDINALS,Nolan Arenado,advanced,Batter,Handedness,2022,vs R,8.8%,13.9%,0.63,0.302,0.366,0.494,0.86,0.192,0.321,48,14.2,0.371,144
+ST. LOUIS CARDINALS,Nolan Gorman,advanced,Batter,Handedness,2022,vs L as L,18.8%,31.3%,0.6,0.308,0.438,0.462,0.899,0.154,0.5,3,1.1,0.398,162
+ST. LOUIS CARDINALS,Nolan Gorman,advanced,Batter,Handedness,2022,vs R as L,8.4%,29.7%,0.28,0.236,0.31,0.436,0.745,0.2,0.291,20,2.0,0.326,114
+ST. LOUIS CARDINALS,Nolan Gorman,advanced,Batter,Handedness,2022,vs L,18.8%,31.3%,0.6,0.308,0.438,0.462,0.899,0.154,0.5,3,1.1,0.398,162
+ST. LOUIS CARDINALS,Nolan Gorman,advanced,Batter,Handedness,2022,vs R,8.4%,29.7%,0.28,0.236,0.31,0.436,0.745,0.2,0.291,20,2.0,0.326,114
+ST. LOUIS CARDINALS,Tommy Edman,advanced,Batter,Handedness,2022,vs R as L,8.9%,19.2%,0.46,0.245,0.32,0.36,0.68,0.115,0.29,32,-1.6,0.303,98
+ST. LOUIS CARDINALS,Tommy Edman,advanced,Batter,Handedness,2022,vs L as R,4.6%,13.8%,0.33,0.289,0.322,0.41,0.731,0.12,0.329,11,0.6,0.319,109
+ST. LOUIS CARDINALS,Tommy Edman,advanced,Batter,Handedness,2022,vs L,4.6%,13.8%,0.33,0.289,0.322,0.41,0.731,0.12,0.329,11,0.6,0.319,109
+ST. LOUIS CARDINALS,Tommy Edman,advanced,Batter,Handedness,2022,vs R,8.9%,19.2%,0.46,0.245,0.32,0.36,0.68,0.115,0.29,32,-1.6,0.303,98
+ST. LOUIS CARDINALS,Juan Yepez,advanced,Batter,Handedness,2022,vs L as R,8.9%,22.2%,0.4,0.231,0.289,0.333,0.622,0.103,0.267,4,-1.3,0.273,78
+ST. LOUIS CARDINALS,Juan Yepez,advanced,Batter,Handedness,2022,vs R as R,5.0%,23.3%,0.21,0.262,0.3,0.494,0.794,0.232,0.288,25,4.2,0.339,123
+ST. LOUIS CARDINALS,Juan Yepez,advanced,Batter,Handedness,2022,vs L,8.9%,22.2%,0.4,0.231,0.289,0.333,0.622,0.103,0.267,4,-1.3,0.273,78
+ST. LOUIS CARDINALS,Juan Yepez,advanced,Batter,Handedness,2022,vs R,5.0%,23.3%,0.21,0.262,0.3,0.494,0.794,0.232,0.288,25,4.2,0.339,123
+ST. LOUIS CARDINALS,Corey Dickerson,advanced,Batter,Handedness,2022,vs L as L,7.1%,7.1%,1.0,0.083,0.214,0.167,0.381,0.083,0.091,0,-1.3,0.191,22
+ST. LOUIS CARDINALS,Corey Dickerson,advanced,Batter,Handedness,2022,vs R as L,6.5%,18.7%,0.35,0.222,0.271,0.354,0.625,0.131,0.247,9,-3.4,0.27,76
+ST. LOUIS CARDINALS,Corey Dickerson,advanced,Batter,Handedness,2022,vs L,7.1%,7.1%,1.0,0.083,0.214,0.167,0.381,0.083,0.091,0,-1.3,0.191,22
+ST. LOUIS CARDINALS,Corey Dickerson,advanced,Batter,Handedness,2022,vs R,6.5%,18.7%,0.35,0.222,0.271,0.354,0.625,0.131,0.247,9,-3.4,0.27,76
+ST. LOUIS CARDINALS,Andrew Knizner,advanced,Batter,Handedness,2022,vs L as R,9.4%,18.8%,0.5,0.143,0.25,0.286,0.536,0.143,0.143,2,-1.6,0.247,60
+ST. LOUIS CARDINALS,Andrew Knizner,advanced,Batter,Handedness,2022,vs R as R,9.3%,20.9%,0.44,0.211,0.297,0.237,0.534,0.026,0.276,9,-6.1,0.251,62
+ST. LOUIS CARDINALS,Andrew Knizner,advanced,Batter,Handedness,2022,vs L,9.4%,18.8%,0.5,0.143,0.25,0.286,0.536,0.143,0.143,2,-1.6,0.247,60
+ST. LOUIS CARDINALS,Andrew Knizner,advanced,Batter,Handedness,2022,vs R,9.3%,20.9%,0.44,0.211,0.297,0.237,0.534,0.026,0.276,9,-6.1,0.251,62
+ST. LOUIS CARDINALS,Austin Romine,advanced,Batter,Handedness,2022,vs L as R,11.1%,33.3%,0.33,0.25,0.333,0.25,0.583,0.0,0.4,1,-0.3,0.273,78
+ST. LOUIS CARDINALS,Austin Romine,advanced,Batter,Handedness,2022,vs R as R,0.0%,31.3%,0.0,0.133,0.133,0.133,0.267,0.0,0.2,-1,-2.4,0.118,-29
+ST. LOUIS CARDINALS,Austin Romine,advanced,Batter,Handedness,2022,vs L,11.1%,33.3%,0.33,0.25,0.333,0.25,0.583,0.0,0.4,1,-0.3,0.273,78
+ST. LOUIS CARDINALS,Austin Romine,advanced,Batter,Handedness,2022,vs R,0.0%,31.3%,0.0,0.133,0.133,0.133,0.267,0.0,0.2,-1,-2.4,0.118,-29
+ST. LOUIS CARDINALS,Albert Pujols,advanced,Batter,Handedness,2022,vs L as R,4.9%,18.0%,0.27,0.302,0.328,0.547,0.875,0.245,0.302,9,2.2,0.355,133
+ST. LOUIS CARDINALS,Albert Pujols,advanced,Batter,Handedness,2022,vs R as R,12.1%,18.2%,0.67,0.167,0.293,0.298,0.591,0.131,0.175,9,-2.8,0.274,78
+ST. LOUIS CARDINALS,Albert Pujols,advanced,Batter,Handedness,2022,vs L,4.9%,18.0%,0.27,0.302,0.328,0.547,0.875,0.245,0.302,9,2.2,0.355,133
+ST. LOUIS CARDINALS,Albert Pujols,advanced,Batter,Handedness,2022,vs R,12.1%,18.2%,0.67,0.167,0.293,0.298,0.591,0.131,0.175,9,-2.8,0.274,78
+ST. LOUIS CARDINALS,Edmundo Sosa,advanced,Batter,Handedness,2022,vs L as R,2.0%,40.8%,0.05,0.106,0.143,0.213,0.356,0.106,0.185,0,-6.0,0.156,-2
+ST. LOUIS CARDINALS,Edmundo Sosa,advanced,Batter,Handedness,2022,vs R as R,2.7%,19.2%,0.14,0.235,0.288,0.294,0.582,0.059,0.296,6,-2.8,0.263,71
+ST. LOUIS CARDINALS,Edmundo Sosa,advanced,Batter,Handedness,2022,vs L,2.0%,40.8%,0.05,0.106,0.143,0.213,0.356,0.106,0.185,0,-6.0,0.156,-2
+ST. LOUIS CARDINALS,Edmundo Sosa,advanced,Batter,Handedness,2022,vs R,2.7%,19.2%,0.14,0.235,0.288,0.294,0.582,0.059,0.296,6,-2.8,0.263,71
+ST. LOUIS CARDINALS,Lars Nootbaar,advanced,Batter,Handedness,2022,vs L as L,7.7%,23.1%,0.33,0.182,0.231,0.273,0.503,0.091,0.222,1,-1.0,0.218,40
+ST. LOUIS CARDINALS,Lars Nootbaar,advanced,Batter,Handedness,2022,vs R as L,10.1%,30.4%,0.33,0.183,0.266,0.352,0.618,0.169,0.227,7,-2.2,0.275,79
+ST. LOUIS CARDINALS,Lars Nootbaar,advanced,Batter,Handedness,2022,vs L,7.7%,23.1%,0.33,0.182,0.231,0.273,0.503,0.091,0.222,1,-1.0,0.218,40
+ST. LOUIS CARDINALS,Lars Nootbaar,advanced,Batter,Handedness,2022,vs R,10.1%,30.4%,0.33,0.183,0.266,0.352,0.618,0.169,0.227,7,-2.2,0.275,79
+ST. LOUIS CARDINALS,Yadier Molina,advanced,Batter,Handedness,2022,vs L as R,3.1%,18.8%,0.17,0.194,0.219,0.226,0.445,0.032,0.24,1,-2.8,0.199,28
+ST. LOUIS CARDINALS,Yadier Molina,advanced,Batter,Handedness,2022,vs R as R,0.9%,16.0%,0.06,0.219,0.226,0.314,0.541,0.095,0.244,6,-6.4,0.235,52
+ST. LOUIS CARDINALS,Yadier Molina,advanced,Batter,Handedness,2022,vs L,3.1%,18.8%,0.17,0.194,0.219,0.226,0.445,0.032,0.24,1,-2.8,0.199,28
+ST. LOUIS CARDINALS,Yadier Molina,advanced,Batter,Handedness,2022,vs R,0.9%,16.0%,0.06,0.219,0.226,0.314,0.541,0.095,0.244,6,-6.4,0.235,52
+ST. LOUIS CARDINALS,Harrison Bader,advanced,Batter,Handedness,2022,vs L as R,7.7%,23.1%,0.33,0.191,0.269,0.234,0.503,0.043,0.257,3,-3.2,0.234,51
+ST. LOUIS CARDINALS,Harrison Bader,advanced,Batter,Handedness,2022,vs R as R,4.2%,16.5%,0.26,0.271,0.311,0.402,0.713,0.131,0.306,25,0.3,0.312,104
+ST. LOUIS CARDINALS,Harrison Bader,advanced,Batter,Handedness,2022,vs L,7.7%,23.1%,0.33,0.191,0.269,0.234,0.503,0.043,0.257,3,-3.2,0.234,51
+ST. LOUIS CARDINALS,Harrison Bader,advanced,Batter,Handedness,2022,vs R,4.2%,16.5%,0.26,0.271,0.311,0.402,0.713,0.131,0.306,25,0.3,0.312,104
+ST. LOUIS CARDINALS,Tyler O'Neill,advanced,Batter,Handedness,2022,vs L as R,8.8%,26.5%,0.33,0.3,0.353,0.333,0.686,0.033,0.409,4,-0.1,0.306,100
+ST. LOUIS CARDINALS,Tyler O'Neill,advanced,Batter,Handedness,2022,vs R as R,7.3%,29.8%,0.24,0.228,0.278,0.368,0.646,0.14,0.297,14,-3.6,0.28,83
+ST. LOUIS CARDINALS,Tyler O'Neill,advanced,Batter,Handedness,2022,vs L,8.8%,26.5%,0.33,0.3,0.353,0.333,0.686,0.033,0.409,4,-0.1,0.306,100
+ST. LOUIS CARDINALS,Tyler O'Neill,advanced,Batter,Handedness,2022,vs R,7.3%,29.8%,0.24,0.228,0.278,0.368,0.646,0.14,0.297,14,-3.6,0.28,83
+ST. LOUIS CARDINALS,Alex Reyes,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+ST. LOUIS CARDINALS,Alex Reyes,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+ST. LOUIS CARDINALS,Alex Reyes,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+ST. LOUIS CARDINALS,Alex Reyes,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143

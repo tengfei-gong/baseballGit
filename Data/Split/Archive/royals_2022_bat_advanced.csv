@@ -1,0 +1,50 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+KANSAS CITY ROYALS,Whit Merrifield,advanced,Batter,Handedness,2022,vs L as R,8.4%,13.1%,0.64,.221,.280,.347,.628,.126,.232,9,-3.0,.275,75
+KANSAS CITY ROYALS,Whit Merrifield,advanced,Batter,Handedness,2022,vs R as R,7.1%,15.0%,0.48,.247,.297,.342,.639,.095,.279,25,-6.0,.282,80
+KANSAS CITY ROYALS,Whit Merrifield,advanced,Batter,Handedness,2022,vs L,8.4%,13.1%,0.64,.221,.280,.347,.628,.126,.232,9,-3.0,.275,75
+KANSAS CITY ROYALS,Whit Merrifield,advanced,Batter,Handedness,2022,vs R,7.1%,15.0%,0.48,.247,.297,.342,.639,.095,.279,25,-6.0,.282,80
+KANSAS CITY ROYALS,Andrew Benintendi,advanced,Batter,Handedness,2022,vs L as L,9.7%,11.7%,0.83,.261,.340,.315,.655,.054,.291,11,-0.9,.299,92
+KANSAS CITY ROYALS,Andrew Benintendi,advanced,Batter,Handedness,2022,vs R as L,10.5%,15.2%,0.69,.336,.402,.434,.836,.097,.394,41,11.8,.368,140
+KANSAS CITY ROYALS,Andrew Benintendi,advanced,Batter,Handedness,2022,vs L,9.7%,11.7%,0.83,.261,.340,.315,.655,.054,.291,11,-0.9,.299,92
+KANSAS CITY ROYALS,Andrew Benintendi,advanced,Batter,Handedness,2022,vs R,10.5%,15.2%,0.69,.336,.402,.434,.836,.097,.394,41,11.8,.368,140
+KANSAS CITY ROYALS,Bobby Witt Jr.,advanced,Batter,Handedness,2022,vs R as L,0.0%,100.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.2,.000,-100
+KANSAS CITY ROYALS,Bobby Witt Jr.,advanced,Batter,Handedness,2022,vs L as R,4.6%,27.6%,0.17,.183,.218,.390,.609,.207,.214,6,-3.9,.253,60
+KANSAS CITY ROYALS,Bobby Witt Jr.,advanced,Batter,Handedness,2022,vs R as R,6.2%,21.2%,0.29,.272,.323,.469,.792,.197,.316,37,6.5,.342,122
+KANSAS CITY ROYALS,Bobby Witt Jr.,advanced,Batter,Handedness,2022,vs L,4.6%,27.6%,0.17,.183,.218,.390,.609,.207,.214,6,-3.9,.253,60
+KANSAS CITY ROYALS,Bobby Witt Jr.,advanced,Batter,Handedness,2022,vs R,6.1%,21.5%,0.29,.271,.322,.467,.789,.196,.316,36,6.3,.340,121
+KANSAS CITY ROYALS,Hunter Dozier,advanced,Batter,Handedness,2022,vs L as R,9.8%,22.0%,0.44,.264,.354,.389,.743,.125,.340,11,1.4,.331,114
+KANSAS CITY ROYALS,Hunter Dozier,advanced,Batter,Handedness,2022,vs R as R,6.7%,22.9%,0.29,.261,.314,.454,.768,.193,.311,30,4.1,.333,116
+KANSAS CITY ROYALS,Hunter Dozier,advanced,Batter,Handedness,2022,vs L,9.8%,22.0%,0.44,.264,.354,.389,.743,.125,.340,11,1.4,.331,114
+KANSAS CITY ROYALS,Hunter Dozier,advanced,Batter,Handedness,2022,vs R,6.7%,22.9%,0.29,.261,.314,.454,.768,.193,.311,30,4.1,.333,116
+KANSAS CITY ROYALS,Vinnie Pasquantino,advanced,Batter,Handedness,2022,vs L as L,14.3%,14.3%,1.00,.333,.429,.500,.929,.167,.400,1,0.5,.405,166
+KANSAS CITY ROYALS,Vinnie Pasquantino,advanced,Batter,Handedness,2022,vs R as L,14.5%,16.4%,0.89,.178,.327,.311,.638,.133,.176,6,-0.5,.298,91
+KANSAS CITY ROYALS,Vinnie Pasquantino,advanced,Batter,Handedness,2022,vs L,14.3%,14.3%,1.00,.333,.429,.500,.929,.167,.400,1,0.5,.405,166
+KANSAS CITY ROYALS,Vinnie Pasquantino,advanced,Batter,Handedness,2022,vs R,14.5%,16.4%,0.89,.178,.327,.311,.638,.133,.176,6,-0.5,.298,91
+KANSAS CITY ROYALS,Kyle Isbel,advanced,Batter,Handedness,2022,vs L as L,0.0%,32.1%,0.00,.185,.214,.185,.399,.000,.278,0,-2.8,.184,11
+KANSAS CITY ROYALS,Kyle Isbel,advanced,Batter,Handedness,2022,vs R as L,4.3%,22.2%,0.19,.229,.265,.367,.632,.138,.277,10,-3.4,.273,74
+KANSAS CITY ROYALS,Kyle Isbel,advanced,Batter,Handedness,2022,vs L,0.0%,32.1%,0.00,.185,.214,.185,.399,.000,.278,0,-2.8,.184,11
+KANSAS CITY ROYALS,Kyle Isbel,advanced,Batter,Handedness,2022,vs R,4.3%,22.2%,0.19,.229,.265,.367,.632,.138,.277,10,-3.4,.273,74
+KANSAS CITY ROYALS,Nicky Lopez,advanced,Batter,Handedness,2022,vs L as L,3.1%,12.5%,0.25,.211,.262,.211,.473,.000,.245,3,-4.6,.220,37
+KANSAS CITY ROYALS,Nicky Lopez,advanced,Batter,Handedness,2022,vs R as L,7.3%,14.1%,0.52,.240,.300,.300,.600,.060,.284,18,-6.9,.271,72
+KANSAS CITY ROYALS,Nicky Lopez,advanced,Batter,Handedness,2022,vs L,3.1%,12.5%,0.25,.211,.262,.211,.473,.000,.245,3,-4.6,.220,37
+KANSAS CITY ROYALS,Nicky Lopez,advanced,Batter,Handedness,2022,vs R,7.3%,14.1%,0.52,.240,.300,.300,.600,.060,.284,18,-6.9,.271,72
+KANSAS CITY ROYALS,Cam Gallagher,advanced,Batter,Handedness,2022,vs L as R,6.3%,25.0%,0.25,.200,.250,.400,.650,.200,.273,1,-0.4,.280,78
+KANSAS CITY ROYALS,Cam Gallagher,advanced,Batter,Handedness,2022,vs R as R,7.7%,23.1%,0.33,.273,.333,.364,.697,.091,.375,3,0.0,.310,99
+KANSAS CITY ROYALS,Cam Gallagher,advanced,Batter,Handedness,2022,vs L,6.3%,25.0%,0.25,.200,.250,.400,.650,.200,.273,1,-0.4,.280,78
+KANSAS CITY ROYALS,Cam Gallagher,advanced,Batter,Handedness,2022,vs R,7.7%,23.1%,0.33,.273,.333,.364,.697,.091,.375,3,0.0,.310,99
+KANSAS CITY ROYALS,Ryan O'Hearn,advanced,Batter,Handedness,2022,vs L as L,8.3%,16.7%,0.50,.182,.250,.182,.432,.000,.222,0,-1.0,.205,26
+KANSAS CITY ROYALS,Ryan O'Hearn,advanced,Batter,Handedness,2022,vs R as L,5.1%,33.9%,0.15,.182,.220,.255,.475,.073,.257,2,-4.6,.211,30
+KANSAS CITY ROYALS,Ryan O'Hearn,advanced,Batter,Handedness,2022,vs L,8.3%,16.7%,0.50,.182,.250,.182,.432,.000,.222,0,-1.0,.205,26
+KANSAS CITY ROYALS,Ryan O'Hearn,advanced,Batter,Handedness,2022,vs R,5.1%,33.9%,0.15,.182,.220,.255,.475,.073,.257,2,-4.6,.211,30
+KANSAS CITY ROYALS,Emmanuel Rivera,advanced,Batter,Handedness,2022,vs L as R,6.5%,11.3%,0.57,.263,.323,.544,.866,.281,.255,10,2.9,.369,141
+KANSAS CITY ROYALS,Emmanuel Rivera,advanced,Batter,Handedness,2022,vs R as R,5.8%,25.6%,0.23,.221,.273,.354,.627,.133,.278,11,-3.3,.276,76
+KANSAS CITY ROYALS,Emmanuel Rivera,advanced,Batter,Handedness,2022,vs L,6.5%,11.3%,0.57,.263,.323,.544,.866,.281,.255,10,2.9,.369,141
+KANSAS CITY ROYALS,Emmanuel Rivera,advanced,Batter,Handedness,2022,vs R,5.8%,25.6%,0.23,.221,.273,.354,.627,.133,.278,11,-3.3,.276,76
+KANSAS CITY ROYALS,Edward Olivares,advanced,Batter,Handedness,2022,vs L as R,6.5%,19.4%,0.33,.357,.419,.786,1.205,.429,.368,8,4.8,.504,236
+KANSAS CITY ROYALS,Edward Olivares,advanced,Batter,Handedness,2022,vs R as R,5.3%,21.1%,0.25,.269,.316,.288,.604,.019,.341,5,-1.7,.273,73
+KANSAS CITY ROYALS,Edward Olivares,advanced,Batter,Handedness,2022,vs L,6.5%,19.4%,0.33,.357,.419,.786,1.205,.429,.368,8,4.8,.504,236
+KANSAS CITY ROYALS,Edward Olivares,advanced,Batter,Handedness,2022,vs R,5.3%,21.1%,0.25,.269,.316,.288,.604,.019,.341,5,-1.7,.273,73
+KANSAS CITY ROYALS,Adalberto Mondesi,advanced,Batter,Handedness,2022,vs R as L,6.8%,36.4%,0.19,.171,.227,.171,.398,.000,.280,1,-4.3,.188,14
+KANSAS CITY ROYALS,Adalberto Mondesi,advanced,Batter,Handedness,2022,vs L as R,10.0%,40.0%,0.25,.000,.100,.000,.100,.000,.000,-1,-1.9,.069,-70
+KANSAS CITY ROYALS,Adalberto Mondesi,advanced,Batter,Handedness,2022,vs L,10.0%,40.0%,0.25,.000,.100,.000,.100,.000,.000,-1,-1.9,.069,-70
+KANSAS CITY ROYALS,Adalberto Mondesi,advanced,Batter,Handedness,2022,vs R,6.8%,36.4%,0.19,.171,.227,.171,.398,.000,.280,1,-4.3,.188,14

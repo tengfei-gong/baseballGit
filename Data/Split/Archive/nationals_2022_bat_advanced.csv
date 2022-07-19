@@ -1,0 +1,53 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+WASHINGTON NATIONALS,Luis García,advanced,Batter,Handedness,2022,vs L as L,0.0%,22.7%,0.00,.250,.250,.295,.545,.045,.324,3,-2.5,.238,48
+WASHINGTON NATIONALS,Luis García,advanced,Batter,Handedness,2022,vs R as L,2.0%,18.8%,0.11,.320,.337,.495,.831,.175,.377,15,3.7,.356,128
+WASHINGTON NATIONALS,Luis García,advanced,Batter,Handedness,2022,vs L,0.0%,22.7%,0.00,.250,.250,.295,.545,.045,.324,3,-2.5,.238,48
+WASHINGTON NATIONALS,Luis García,advanced,Batter,Handedness,2022,vs R,2.0%,18.8%,0.11,.320,.337,.495,.831,.175,.377,15,3.7,.356,128
+WASHINGTON NATIONALS,Josh Bell,advanced,Batter,Handedness,2022,vs R as L,10.7%,15.0%,0.71,.312,.397,.485,.882,.173,.348,41,13.8,.384,147
+WASHINGTON NATIONALS,Josh Bell,advanced,Batter,Handedness,2022,vs L as R,11.3%,11.3%,1.00,.289,.368,.500,.868,.211,.289,21,6.1,.368,136
+WASHINGTON NATIONALS,Josh Bell,advanced,Batter,Handedness,2022,vs L,11.3%,11.3%,1.00,.289,.368,.500,.868,.211,.289,21,6.1,.368,136
+WASHINGTON NATIONALS,Josh Bell,advanced,Batter,Handedness,2022,vs R,10.7%,15.0%,0.71,.312,.397,.485,.882,.173,.348,41,13.8,.384,147
+WASHINGTON NATIONALS,Juan Soto,advanced,Batter,Handedness,2022,vs L as L,16.3%,17.8%,0.92,.205,.341,.366,.707,.161,.217,17,1.1,.321,104
+WASHINGTON NATIONALS,Juan Soto,advanced,Batter,Handedness,2022,vs R as L,22.0%,12.9%,1.70,.267,.431,.539,.970,.272,.261,46,19.7,.417,169
+WASHINGTON NATIONALS,Juan Soto,advanced,Batter,Handedness,2022,vs L,16.3%,17.8%,0.92,.205,.341,.366,.707,.161,.217,17,1.1,.321,104
+WASHINGTON NATIONALS,Juan Soto,advanced,Batter,Handedness,2022,vs R,22.0%,12.9%,1.70,.267,.431,.539,.970,.272,.261,46,19.7,.417,169
+WASHINGTON NATIONALS,Nelson Cruz,advanced,Batter,Handedness,2022,vs L as R,11.5%,16.8%,0.68,.216,.321,.340,.662,.124,.240,12,-1.2,.297,88
+WASHINGTON NATIONALS,Nelson Cruz,advanced,Batter,Handedness,2022,vs R as R,10.3%,25.1%,0.41,.253,.329,.374,.703,.121,.326,26,0.4,.313,99
+WASHINGTON NATIONALS,Nelson Cruz,advanced,Batter,Handedness,2022,vs L,11.5%,16.8%,0.68,.216,.321,.340,.662,.124,.240,12,-1.2,.297,88
+WASHINGTON NATIONALS,Nelson Cruz,advanced,Batter,Handedness,2022,vs R,10.3%,25.1%,0.41,.253,.329,.374,.703,.121,.326,26,0.4,.313,99
+WASHINGTON NATIONALS,Yadiel Hernandez,advanced,Batter,Handedness,2022,vs L as L,4.3%,19.6%,0.22,.273,.304,.341,.645,.068,.343,4,-0.9,.285,80
+WASHINGTON NATIONALS,Yadiel Hernandez,advanced,Batter,Handedness,2022,vs R as L,6.2%,23.8%,0.26,.275,.321,.444,.765,.169,.336,26,3.3,.331,111
+WASHINGTON NATIONALS,Yadiel Hernandez,advanced,Batter,Handedness,2022,vs L,4.3%,19.6%,0.22,.273,.304,.341,.645,.068,.343,4,-0.9,.285,80
+WASHINGTON NATIONALS,Yadiel Hernandez,advanced,Batter,Handedness,2022,vs R,6.2%,23.8%,0.26,.275,.321,.444,.765,.169,.336,26,3.3,.331,111
+WASHINGTON NATIONALS,César Hernández,advanced,Batter,Handedness,2022,vs R as L,7.3%,17.2%,0.42,.209,.276,.272,.548,.063,.258,18,-12.7,.249,56
+WASHINGTON NATIONALS,César Hernández,advanced,Batter,Handedness,2022,vs L as R,6.8%,19.5%,0.35,.312,.356,.376,.732,.064,.391,15,1.3,.324,106
+WASHINGTON NATIONALS,César Hernández,advanced,Batter,Handedness,2022,vs L,6.8%,19.5%,0.35,.312,.356,.376,.732,.064,.391,15,1.3,.324,106
+WASHINGTON NATIONALS,César Hernández,advanced,Batter,Handedness,2022,vs R,7.3%,17.2%,0.42,.209,.276,.272,.548,.063,.258,18,-12.7,.249,56
+WASHINGTON NATIONALS,Keibert Ruiz,advanced,Batter,Handedness,2022,vs R as L,6.4%,10.8%,0.59,.261,.315,.378,.693,.117,.282,23,-0.6,.306,94
+WASHINGTON NATIONALS,Keibert Ruiz,advanced,Batter,Handedness,2022,vs L as R,8.8%,8.8%,1.00,.237,.313,.288,.602,.051,.259,6,-1.9,.274,73
+WASHINGTON NATIONALS,Keibert Ruiz,advanced,Batter,Handedness,2022,vs L,8.8%,8.8%,1.00,.237,.313,.288,.602,.051,.259,6,-1.9,.274,73
+WASHINGTON NATIONALS,Keibert Ruiz,advanced,Batter,Handedness,2022,vs R,6.4%,10.8%,0.59,.261,.315,.378,.693,.117,.282,23,-0.6,.306,94
+WASHINGTON NATIONALS,Maikel Franco,advanced,Batter,Handedness,2022,vs L as R,7.1%,24.2%,0.29,.200,.263,.289,.552,.089,.258,7,-4.9,.248,55
+WASHINGTON NATIONALS,Maikel Franco,advanced,Batter,Handedness,2022,vs R as R,2.2%,17.0%,0.13,.250,.265,.380,.644,.130,.276,20,-5.6,.278,75
+WASHINGTON NATIONALS,Maikel Franco,advanced,Batter,Handedness,2022,vs L,7.1%,24.2%,0.29,.200,.263,.289,.552,.089,.258,7,-4.9,.248,55
+WASHINGTON NATIONALS,Maikel Franco,advanced,Batter,Handedness,2022,vs R,2.2%,17.0%,0.13,.250,.265,.380,.644,.130,.276,20,-5.6,.278,75
+WASHINGTON NATIONALS,Lane Thomas,advanced,Batter,Handedness,2022,vs L as R,6.7%,15.4%,0.44,.242,.288,.432,.720,.189,.237,12,-0.1,.309,97
+WASHINGTON NATIONALS,Lane Thomas,advanced,Batter,Handedness,2022,vs R as R,7.3%,30.5%,0.24,.207,.268,.353,.622,.147,.278,14,-4.7,.274,72
+WASHINGTON NATIONALS,Lane Thomas,advanced,Batter,Handedness,2022,vs L,6.7%,15.4%,0.44,.242,.288,.432,.720,.189,.237,12,-0.1,.309,97
+WASHINGTON NATIONALS,Lane Thomas,advanced,Batter,Handedness,2022,vs R,7.3%,30.5%,0.24,.207,.268,.353,.622,.147,.278,14,-4.7,.274,72
+WASHINGTON NATIONALS,Tres Barrera,advanced,Batter,Handedness,2022,vs L as R,0.0%,14.3%,0.00,.143,.143,.143,.286,.000,.167,0,-1.0,.126,-28
+WASHINGTON NATIONALS,Tres Barrera,advanced,Batter,Handedness,2022,vs R as R,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.2,.000,-100
+WASHINGTON NATIONALS,Tres Barrera,advanced,Batter,Handedness,2022,vs L,0.0%,14.3%,0.00,.143,.143,.143,.286,.000,.167,0,-1.0,.126,-28
+WASHINGTON NATIONALS,Tres Barrera,advanced,Batter,Handedness,2022,vs R,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,0,-0.2,.000,-100
+WASHINGTON NATIONALS,Alcides Escobar,advanced,Batter,Handedness,2022,vs L as R,4.8%,26.2%,0.18,.225,.262,.275,.537,.050,.310,2,-2.4,.239,49
+WASHINGTON NATIONALS,Alcides Escobar,advanced,Batter,Handedness,2022,vs R as R,3.5%,23.3%,0.15,.222,.267,.296,.564,.074,.295,6,-4.0,.252,57
+WASHINGTON NATIONALS,Alcides Escobar,advanced,Batter,Handedness,2022,vs L,4.8%,26.2%,0.18,.225,.262,.275,.537,.050,.310,2,-2.4,.239,49
+WASHINGTON NATIONALS,Alcides Escobar,advanced,Batter,Handedness,2022,vs R,3.5%,23.3%,0.15,.222,.267,.296,.564,.074,.295,6,-4.0,.252,57
+WASHINGTON NATIONALS,Ehire Adrianza,advanced,Batter,Handedness,2022,vs R as L,5.6%,25.0%,0.22,.182,.222,.182,.404,.000,.240,1,-3.6,.186,13
+WASHINGTON NATIONALS,Ehire Adrianza,advanced,Batter,Handedness,2022,vs L as R,10.3%,27.6%,0.38,.231,.310,.308,.618,.077,.333,3,-0.7,.280,77
+WASHINGTON NATIONALS,Ehire Adrianza,advanced,Batter,Handedness,2022,vs L,10.3%,27.6%,0.38,.231,.310,.308,.618,.077,.333,3,-0.7,.280,77
+WASHINGTON NATIONALS,Ehire Adrianza,advanced,Batter,Handedness,2022,vs R,5.6%,25.0%,0.22,.182,.222,.182,.404,.000,.240,1,-3.6,.186,13
+WASHINGTON NATIONALS,Victor Robles,advanced,Batter,Handedness,2022,vs L as R,6.7%,20.0%,0.33,.338,.394,.431,.825,.092,.440,12,3.2,.364,134
+WASHINGTON NATIONALS,Victor Robles,advanced,Batter,Handedness,2022,vs R as R,5.6%,27.8%,0.20,.176,.257,.224,.481,.048,.247,7,-9.7,.226,40
+WASHINGTON NATIONALS,Victor Robles,advanced,Batter,Handedness,2022,vs L,6.7%,20.0%,0.33,.338,.394,.431,.825,.092,.440,12,3.2,.364,134
+WASHINGTON NATIONALS,Victor Robles,advanced,Batter,Handedness,2022,vs R,5.6%,27.8%,0.20,.176,.257,.224,.481,.048,.247,7,-9.7,.226,40

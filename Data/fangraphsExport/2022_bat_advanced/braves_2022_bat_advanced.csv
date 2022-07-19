@@ -1,0 +1,62 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+ATLANTA BRAVES,Ronald Acuña Jr.,advanced,Batter,Handedness,2022,vs L as R,17.7%,24.2%,0.73,.260,.403,.480,.883,.220,.313,11,3.9,.389,150
+ATLANTA BRAVES,Ronald Acuña Jr.,advanced,Batter,Handedness,2022,vs R as R,7.9%,24.2%,0.33,.279,.358,.418,.776,.139,.350,27,4.6,.340,117
+ATLANTA BRAVES,Ronald Acuña Jr.,advanced,Batter,Handedness,2022,vs L,17.7%,24.2%,0.73,.260,.403,.480,.883,.220,.313,11,3.9,.389,150
+ATLANTA BRAVES,Ronald Acuña Jr.,advanced,Batter,Handedness,2022,vs R,7.9%,24.2%,0.33,.279,.358,.418,.776,.139,.350,27,4.6,.340,117
+ATLANTA BRAVES,Dansby Swanson,advanced,Batter,Handedness,2022,vs L as R,13.0%,23.0%,0.57,.302,.400,.523,.923,.221,.373,19,7.2,.401,158
+ATLANTA BRAVES,Dansby Swanson,advanced,Batter,Handedness,2022,vs R as R,5.5%,27.6%,0.20,.295,.338,.469,.807,.173,.382,40,8.6,.350,123
+ATLANTA BRAVES,Dansby Swanson,advanced,Batter,Handedness,2022,vs L,13.0%,23.0%,0.57,.302,.400,.523,.923,.221,.373,19,7.2,.401,158
+ATLANTA BRAVES,Dansby Swanson,advanced,Batter,Handedness,2022,vs R,5.5%,27.6%,0.20,.295,.338,.469,.807,.173,.382,40,8.6,.350,123
+ATLANTA BRAVES,Matt Olson,advanced,Batter,Handedness,2022,vs L as L,13.3%,23.4%,0.57,.239,.336,.413,.749,.174,.295,17,1.9,.328,109
+ATLANTA BRAVES,Matt Olson,advanced,Batter,Handedness,2022,vs R as L,11.3%,23.8%,0.48,.256,.343,.496,.839,.239,.306,41,10.1,.358,129
+ATLANTA BRAVES,Matt Olson,advanced,Batter,Handedness,2022,vs L,13.3%,23.4%,0.57,.239,.336,.413,.749,.174,.295,17,1.9,.328,109
+ATLANTA BRAVES,Matt Olson,advanced,Batter,Handedness,2022,vs R,11.3%,23.8%,0.48,.256,.343,.496,.839,.239,.306,41,10.1,.358,129
+ATLANTA BRAVES,Austin Riley,advanced,Batter,Handedness,2022,vs L as R,13.7%,28.4%,0.48,.314,.412,.686,1.098,.372,.392,24,12.0,.457,196
+ATLANTA BRAVES,Austin Riley,advanced,Batter,Handedness,2022,vs R as R,5.1%,25.4%,0.20,.271,.322,.518,.840,.247,.308,43,10.9,.360,130
+ATLANTA BRAVES,Austin Riley,advanced,Batter,Handedness,2022,vs L,13.7%,28.4%,0.48,.314,.412,.686,1.098,.372,.392,24,12.0,.457,196
+ATLANTA BRAVES,Austin Riley,advanced,Batter,Handedness,2022,vs R,5.1%,25.4%,0.20,.271,.322,.518,.840,.247,.308,43,10.9,.360,130
+ATLANTA BRAVES,Marcell Ozuna,advanced,Batter,Handedness,2022,vs L as R,7.9%,24.8%,0.32,.185,.257,.239,.497,.054,.242,5,-6.5,.230,42
+ATLANTA BRAVES,Marcell Ozuna,advanced,Batter,Handedness,2022,vs R as R,6.6%,21.4%,0.31,.242,.292,.487,.779,.246,.244,34,4.7,.333,112
+ATLANTA BRAVES,Marcell Ozuna,advanced,Batter,Handedness,2022,vs L,7.9%,24.8%,0.32,.185,.257,.239,.497,.054,.242,5,-6.5,.230,42
+ATLANTA BRAVES,Marcell Ozuna,advanced,Batter,Handedness,2022,vs R,6.6%,21.4%,0.31,.242,.292,.487,.779,.246,.244,34,4.7,.333,112
+ATLANTA BRAVES,Eddie Rosario,advanced,Batter,Handedness,2022,vs L as L,15.4%,7.7%,2.00,.182,.308,.182,.490,.000,.200,1,-0.7,.242,50
+ATLANTA BRAVES,Eddie Rosario,advanced,Batter,Handedness,2022,vs R as L,4.8%,23.8%,0.20,.102,.143,.169,.312,.068,.114,-1,-8.5,.142,-18
+ATLANTA BRAVES,Eddie Rosario,advanced,Batter,Handedness,2022,vs L,15.4%,7.7%,2.00,.182,.308,.182,.490,.000,.200,1,-0.7,.242,50
+ATLANTA BRAVES,Eddie Rosario,advanced,Batter,Handedness,2022,vs R,4.8%,23.8%,0.20,.102,.143,.169,.312,.068,.114,-1,-8.5,.142,-18
+ATLANTA BRAVES,Travis d'Arnaud,advanced,Batter,Handedness,2022,vs L as R,1.8%,17.5%,0.10,.339,.351,.554,.904,.214,.372,10,3.6,.389,150
+ATLANTA BRAVES,Travis d'Arnaud,advanced,Batter,Handedness,2022,vs R as R,5.2%,20.7%,0.25,.237,.301,.441,.741,.203,.264,24,2.0,.323,105
+ATLANTA BRAVES,Travis d'Arnaud,advanced,Batter,Handedness,2022,vs L,1.8%,17.5%,0.10,.339,.351,.554,.904,.214,.372,10,3.6,.389,150
+ATLANTA BRAVES,Travis d'Arnaud,advanced,Batter,Handedness,2022,vs R,5.2%,20.7%,0.25,.237,.301,.441,.741,.203,.264,24,2.0,.323,105
+ATLANTA BRAVES,Michael Harris II,advanced,Batter,Handedness,2022,vs L as L,4.0%,26.0%,0.15,.250,.280,.354,.634,.104,.343,4,-1.3,.277,74
+ATLANTA BRAVES,Michael Harris II,advanced,Batter,Handedness,2022,vs R as L,2.7%,20.4%,0.13,.306,.336,.565,.901,.259,.333,20,6.8,.386,148
+ATLANTA BRAVES,Michael Harris II,advanced,Batter,Handedness,2022,vs L,4.0%,26.0%,0.15,.250,.280,.354,.634,.104,.343,4,-1.3,.277,74
+ATLANTA BRAVES,Michael Harris II,advanced,Batter,Handedness,2022,vs R,2.7%,20.4%,0.13,.306,.336,.565,.901,.259,.333,20,6.8,.386,148
+ATLANTA BRAVES,Robinson Canó,advanced,Batter,Handedness,2022,vs L as L,0.0%,11.1%,0.00,.222,.222,.222,.444,.000,.250,0,-0.8,.197,28
+ATLANTA BRAVES,Robinson Canó,advanced,Batter,Handedness,2022,vs R as L,4.2%,28.2%,0.15,.162,.197,.206,.403,.044,.213,1,-7.2,.183,17
+ATLANTA BRAVES,Robinson Canó,advanced,Batter,Handedness,2022,vs L,0.0%,11.1%,0.00,.222,.222,.222,.444,.000,.250,0,-0.8,.197,28
+ATLANTA BRAVES,Robinson Canó,advanced,Batter,Handedness,2022,vs R,4.2%,28.2%,0.15,.162,.197,.206,.403,.044,.213,1,-7.2,.183,17
+ATLANTA BRAVES,William Contreras,advanced,Batter,Handedness,2022,vs L as R,15.4%,21.2%,0.73,.295,.404,.591,.995,.295,.333,11,4.7,.424,174
+ATLANTA BRAVES,William Contreras,advanced,Batter,Handedness,2022,vs R as R,10.0%,29.1%,0.34,.263,.336,.556,.892,.293,.305,19,6.2,.381,144
+ATLANTA BRAVES,William Contreras,advanced,Batter,Handedness,2022,vs L,15.4%,21.2%,0.73,.295,.404,.591,.995,.295,.333,11,4.7,.424,174
+ATLANTA BRAVES,William Contreras,advanced,Batter,Handedness,2022,vs R,10.0%,29.1%,0.34,.263,.336,.556,.892,.293,.305,19,6.2,.381,144
+ATLANTA BRAVES,Orlando Arcia,advanced,Batter,Handedness,2022,vs L as R,7.1%,21.4%,0.33,.184,.238,.237,.475,.053,.233,2,-3.2,.215,32
+ATLANTA BRAVES,Orlando Arcia,advanced,Batter,Handedness,2022,vs R as R,11.0%,24.0%,0.46,.276,.360,.414,.774,.138,.344,14,2.6,.342,118
+ATLANTA BRAVES,Orlando Arcia,advanced,Batter,Handedness,2022,vs L,7.1%,21.4%,0.33,.184,.238,.237,.475,.053,.233,2,-3.2,.215,32
+ATLANTA BRAVES,Orlando Arcia,advanced,Batter,Handedness,2022,vs R,11.0%,24.0%,0.46,.276,.360,.414,.774,.138,.344,14,2.6,.342,118
+ATLANTA BRAVES,Adam Duvall,advanced,Batter,Handedness,2022,vs L as R,6.8%,29.7%,0.23,.232,.284,.580,.863,.348,.244,12,3.2,.364,133
+ATLANTA BRAVES,Adam Duvall,advanced,Batter,Handedness,2022,vs R as R,7.2%,33.2%,0.22,.199,.269,.323,.592,.124,.282,18,-8.1,.264,65
+ATLANTA BRAVES,Adam Duvall,advanced,Batter,Handedness,2022,vs L,6.8%,29.7%,0.23,.232,.284,.580,.863,.348,.244,12,3.2,.364,133
+ATLANTA BRAVES,Adam Duvall,advanced,Batter,Handedness,2022,vs R,7.2%,33.2%,0.22,.199,.269,.323,.592,.124,.282,18,-8.1,.264,65
+ATLANTA BRAVES,Guillermo Heredia,advanced,Batter,Handedness,2022,vs L as R,12.5%,43.8%,0.29,.143,.250,.393,.643,.250,.231,3,-0.8,.280,76
+ATLANTA BRAVES,Guillermo Heredia,advanced,Batter,Handedness,2022,vs R as R,6.3%,40.6%,0.15,.100,.156,.300,.456,.200,.067,1,-2.8,.200,22
+ATLANTA BRAVES,Guillermo Heredia,advanced,Batter,Handedness,2022,vs L,12.5%,43.8%,0.29,.143,.250,.393,.643,.250,.231,3,-0.8,.280,76
+ATLANTA BRAVES,Guillermo Heredia,advanced,Batter,Handedness,2022,vs R,6.3%,40.6%,0.15,.100,.156,.300,.456,.200,.067,1,-2.8,.200,22
+ATLANTA BRAVES,Manny Piña,advanced,Batter,Handedness,2022,vs L as R,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.0,.000,-100
+ATLANTA BRAVES,Manny Piña,advanced,Batter,Handedness,2022,vs R as R,7.7%,7.7%,1.00,.200,.308,.200,.508,.000,.200,1,-0.7,.245,52
+ATLANTA BRAVES,Manny Piña,advanced,Batter,Handedness,2022,vs L,0.0%,0.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.0,.000,-100
+ATLANTA BRAVES,Manny Piña,advanced,Batter,Handedness,2022,vs R,7.7%,7.7%,1.00,.200,.308,.200,.508,.000,.200,1,-0.7,.245,52
+ATLANTA BRAVES,Ozzie Albies,advanced,Batter,Handedness,2022,vs R as L,7.9%,20.3%,0.39,.231,.294,.350,.644,.119,.270,17,-3.5,.285,79
+ATLANTA BRAVES,Ozzie Albies,advanced,Batter,Handedness,2022,vs L as R,1.2%,11.8%,0.10,.259,.271,.469,.740,.210,.257,10,0.1,.312,98
+ATLANTA BRAVES,Ozzie Albies,advanced,Batter,Handedness,2022,vs R as R,0.0%,0.0%,0.00,1.000,1.000,4.000,5.000,3.000,.000,2,1.4,2.066,1287
+ATLANTA BRAVES,Ozzie Albies,advanced,Batter,Handedness,2022,vs L,1.2%,11.8%,0.10,.259,.271,.469,.740,.210,.257,10,0.1,.312,98
+ATLANTA BRAVES,Ozzie Albies,advanced,Batter,Handedness,2022,vs R,7.9%,20.2%,0.39,.236,.298,.373,.670,.137,.270,18,-2.1,.295,86

@@ -1,0 +1,57 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+COLORADO ROCKIES,Connor Joe,advanced,Batter,Handedness,2022,vs L as R,12.0%,19.2%,0.63,.315,.408,.463,.871,.148,.398,22,7.3,.383,135
+COLORADO ROCKIES,Connor Joe,advanced,Batter,Handedness,2022,vs R as R,12.4%,20.5%,0.60,.239,.346,.348,.694,.109,.295,28,1.0,.315,89
+COLORADO ROCKIES,Connor Joe,advanced,Batter,Handedness,2022,vs L,12.0%,19.2%,0.63,.315,.408,.463,.871,.148,.398,22,7.3,.383,135
+COLORADO ROCKIES,Connor Joe,advanced,Batter,Handedness,2022,vs R,12.4%,20.5%,0.60,.239,.346,.348,.694,.109,.295,28,1.0,.315,89
+COLORADO ROCKIES,José Iglesias,advanced,Batter,Handedness,2022,vs L as R,2.2%,10.9%,0.20,.322,.359,.483,.841,.161,.347,15,4.1,.366,123
+COLORADO ROCKIES,José Iglesias,advanced,Batter,Handedness,2022,vs R as R,4.8%,11.2%,0.43,.282,.324,.345,.669,.062,.321,20,-1.8,.298,77
+COLORADO ROCKIES,José Iglesias,advanced,Batter,Handedness,2022,vs L,2.2%,10.9%,0.20,.322,.359,.483,.841,.161,.347,15,4.1,.366,123
+COLORADO ROCKIES,José Iglesias,advanced,Batter,Handedness,2022,vs R,4.8%,11.2%,0.43,.282,.324,.345,.669,.062,.321,20,-1.8,.298,77
+COLORADO ROCKIES,Charlie Blackmon,advanced,Batter,Handedness,2022,vs L as L,3.8%,13.5%,0.29,.296,.330,.449,.779,.153,.337,14,2.2,.337,104
+COLORADO ROCKIES,Charlie Blackmon,advanced,Batter,Handedness,2022,vs R as L,7.9%,19.6%,0.40,.259,.321,.486,.807,.227,.274,35,7.0,.347,110
+COLORADO ROCKIES,Charlie Blackmon,advanced,Batter,Handedness,2022,vs L,3.8%,13.5%,0.29,.296,.330,.449,.779,.153,.337,14,2.2,.337,104
+COLORADO ROCKIES,Charlie Blackmon,advanced,Batter,Handedness,2022,vs R,7.9%,19.6%,0.40,.259,.321,.486,.807,.227,.274,35,7.0,.347,110
+COLORADO ROCKIES,C.J. Cron,advanced,Batter,Handedness,2022,vs L as R,7.3%,30.9%,0.24,.242,.300,.465,.765,.222,.295,14,0.9,.321,92
+COLORADO ROCKIES,C.J. Cron,advanced,Batter,Handedness,2022,vs R as R,5.9%,23.7%,0.25,.313,.365,.578,.943,.265,.367,48,18.5,.402,148
+COLORADO ROCKIES,C.J. Cron,advanced,Batter,Handedness,2022,vs L,7.3%,30.9%,0.24,.242,.300,.465,.765,.222,.295,14,0.9,.321,92
+COLORADO ROCKIES,C.J. Cron,advanced,Batter,Handedness,2022,vs R,5.9%,23.7%,0.25,.313,.365,.578,.943,.265,.367,48,18.5,.402,148
+COLORADO ROCKIES,Brendan Rodgers,advanced,Batter,Handedness,2022,vs L as R,8.7%,12.5%,0.69,.330,.394,.532,.926,.202,.351,20,7.5,.401,147
+COLORADO ROCKIES,Brendan Rodgers,advanced,Batter,Handedness,2022,vs R as R,5.9%,19.5%,0.30,.220,.267,.351,.618,.132,.256,19,-7.0,.271,58
+COLORADO ROCKIES,Brendan Rodgers,advanced,Batter,Handedness,2022,vs L,8.7%,12.5%,0.69,.330,.394,.532,.926,.202,.351,20,7.5,.401,147
+COLORADO ROCKIES,Brendan Rodgers,advanced,Batter,Handedness,2022,vs R,5.9%,19.5%,0.30,.220,.267,.351,.618,.132,.256,19,-7.0,.271,58
+COLORADO ROCKIES,Ryan McMahon,advanced,Batter,Handedness,2022,vs L as L,13.5%,22.1%,0.61,.207,.327,.276,.603,.069,.266,10,-2.4,.282,66
+COLORADO ROCKIES,Ryan McMahon,advanced,Batter,Handedness,2022,vs R as L,10.3%,27.4%,0.38,.249,.329,.411,.741,.163,.331,30,3.0,.326,96
+COLORADO ROCKIES,Ryan McMahon,advanced,Batter,Handedness,2022,vs L,13.5%,22.1%,0.61,.207,.327,.276,.603,.069,.266,10,-2.4,.282,66
+COLORADO ROCKIES,Ryan McMahon,advanced,Batter,Handedness,2022,vs R,10.3%,27.4%,0.38,.249,.329,.411,.741,.163,.331,30,3.0,.326,96
+COLORADO ROCKIES,Randal Grichuk,advanced,Batter,Handedness,2022,vs L as R,4.3%,23.7%,0.18,.295,.323,.511,.834,.216,.349,14,3.4,.356,116
+COLORADO ROCKIES,Randal Grichuk,advanced,Batter,Handedness,2022,vs R as R,4.2%,26.8%,0.16,.213,.258,.320,.578,.107,.268,14,-8.1,.256,49
+COLORADO ROCKIES,Randal Grichuk,advanced,Batter,Handedness,2022,vs L,4.3%,23.7%,0.18,.295,.323,.511,.834,.216,.349,14,3.4,.356,116
+COLORADO ROCKIES,Randal Grichuk,advanced,Batter,Handedness,2022,vs R,4.2%,26.8%,0.16,.213,.258,.320,.578,.107,.268,14,-8.1,.256,49
+COLORADO ROCKIES,Sam Hilliard,advanced,Batter,Handedness,2022,vs L as L,4.8%,28.6%,0.17,.105,.143,.263,.406,.158,.077,0,-2.3,.173,-7
+COLORADO ROCKIES,Sam Hilliard,advanced,Batter,Handedness,2022,vs R as L,10.2%,26.9%,0.38,.177,.259,.281,.541,.104,.239,7,-5.6,.245,41
+COLORADO ROCKIES,Sam Hilliard,advanced,Batter,Handedness,2022,vs L,4.8%,28.6%,0.17,.105,.143,.263,.406,.158,.077,0,-2.3,.173,-7
+COLORADO ROCKIES,Sam Hilliard,advanced,Batter,Handedness,2022,vs R,10.2%,26.9%,0.38,.177,.259,.281,.541,.104,.239,7,-5.6,.245,41
+COLORADO ROCKIES,Elias Díaz,advanced,Batter,Handedness,2022,vs L as R,4.7%,16.3%,0.29,.317,.349,.476,.824,.159,.364,13,3.2,.357,117
+COLORADO ROCKIES,Elias Díaz,advanced,Batter,Handedness,2022,vs R as R,8.7%,23.6%,0.37,.140,.213,.237,.449,.096,.157,4,-10.6,.205,14
+COLORADO ROCKIES,Elias Díaz,advanced,Batter,Handedness,2022,vs L,4.7%,16.3%,0.29,.317,.349,.476,.824,.159,.364,13,3.2,.357,117
+COLORADO ROCKIES,Elias Díaz,advanced,Batter,Handedness,2022,vs R,8.7%,23.6%,0.37,.140,.213,.237,.449,.096,.157,4,-10.6,.205,14
+COLORADO ROCKIES,Brian Serven,advanced,Batter,Handedness,2022,vs L as R,9.5%,9.5%,1.00,.263,.333,.474,.807,.211,.250,3,0.7,.351,113
+COLORADO ROCKIES,Brian Serven,advanced,Batter,Handedness,2022,vs R as R,7.2%,21.7%,0.33,.254,.319,.397,.716,.143,.304,8,0.3,.316,89
+COLORADO ROCKIES,Brian Serven,advanced,Batter,Handedness,2022,vs L,9.5%,9.5%,1.00,.263,.333,.474,.807,.211,.250,3,0.7,.351,113
+COLORADO ROCKIES,Brian Serven,advanced,Batter,Handedness,2022,vs R,7.2%,21.7%,0.33,.254,.319,.397,.716,.143,.304,8,0.3,.316,89
+COLORADO ROCKIES,Elehuris Montero,advanced,Batter,Handedness,2022,vs L as R,5.9%,29.4%,0.20,.125,.176,.188,.364,.063,.182,0,-1.9,.167,-12
+COLORADO ROCKIES,Elehuris Montero,advanced,Batter,Handedness,2022,vs R as R,0.0%,55.6%,0.00,.222,.222,.278,.500,.056,.500,1,-1.3,.218,22
+COLORADO ROCKIES,Elehuris Montero,advanced,Batter,Handedness,2022,vs L,5.9%,29.4%,0.20,.125,.176,.188,.364,.063,.182,0,-1.9,.167,-12
+COLORADO ROCKIES,Elehuris Montero,advanced,Batter,Handedness,2022,vs R,0.0%,55.6%,0.00,.222,.222,.278,.500,.056,.500,1,-1.3,.218,22
+COLORADO ROCKIES,Garrett Hampson,advanced,Batter,Handedness,2022,vs L as R,12.2%,28.6%,0.43,.286,.375,.452,.827,.167,.429,8,2.0,.361,120
+COLORADO ROCKIES,Garrett Hampson,advanced,Batter,Handedness,2022,vs R as R,7.4%,25.0%,0.29,.194,.254,.306,.560,.113,.233,5,-3.2,.251,45
+COLORADO ROCKIES,Garrett Hampson,advanced,Batter,Handedness,2022,vs L,12.2%,28.6%,0.43,.286,.375,.452,.827,.167,.429,8,2.0,.361,120
+COLORADO ROCKIES,Garrett Hampson,advanced,Batter,Handedness,2022,vs R,7.4%,25.0%,0.29,.194,.254,.306,.560,.113,.233,5,-3.2,.251,45
+COLORADO ROCKIES,Yonathan Daza,advanced,Batter,Handedness,2022,vs L as R,5.8%,10.5%,0.56,.338,.372,.413,.785,.075,.375,12,2.3,.344,108
+COLORADO ROCKIES,Yonathan Daza,advanced,Batter,Handedness,2022,vs R as R,7.4%,13.0%,0.57,.267,.333,.301,.635,.034,.310,16,-2.7,.289,71
+COLORADO ROCKIES,Yonathan Daza,advanced,Batter,Handedness,2022,vs L,5.8%,10.5%,0.56,.338,.372,.413,.785,.075,.375,12,2.3,.344,108
+COLORADO ROCKIES,Yonathan Daza,advanced,Batter,Handedness,2022,vs R,7.4%,13.0%,0.57,.267,.333,.301,.635,.034,.310,16,-2.7,.289,71
+COLORADO ROCKIES,Sean Bouchard,advanced,Batter,Handedness,2022,vs L as R,16.7%,16.7%,1.00,.000,.167,.000,.167,.000,.000,0,-0.9,.115,-47
+COLORADO ROCKIES,Sean Bouchard,advanced,Batter,Handedness,2022,vs R as R,33.3%,33.3%,1.00,.000,.333,.000,.333,.000,.000,0,-0.2,.230,31
+COLORADO ROCKIES,Sean Bouchard,advanced,Batter,Handedness,2022,vs L,16.7%,16.7%,1.00,.000,.167,.000,.167,.000,.000,0,-0.9,.115,-47
+COLORADO ROCKIES,Sean Bouchard,advanced,Batter,Handedness,2022,vs R,33.3%,33.3%,1.00,.000,.333,.000,.333,.000,.000,0,-0.2,.230,31

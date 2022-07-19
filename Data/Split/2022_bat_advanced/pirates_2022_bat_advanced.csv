@@ -1,0 +1,75 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+PITTSBURGH PIRATES,Ben Gamel,advanced,Batter,Handedness,2022,vs L as L,12.8%,27.7%,0.46,0.244,0.34,0.317,0.657,0.073,0.357,5,-0.4,0.3,93
+PITTSBURGH PIRATES,Ben Gamel,advanced,Batter,Handedness,2022,vs R as L,10.7%,25.7%,0.42,0.248,0.329,0.408,0.737,0.16,0.318,18,1.6,0.325,110
+PITTSBURGH PIRATES,Ben Gamel,advanced,Batter,Handedness,2022,vs L,12.8%,27.7%,0.46,0.244,0.34,0.317,0.657,0.073,0.357,5,-0.4,0.3,93
+PITTSBURGH PIRATES,Ben Gamel,advanced,Batter,Handedness,2022,vs R,10.7%,25.7%,0.42,0.248,0.329,0.408,0.737,0.16,0.318,18,1.6,0.325,110
+PITTSBURGH PIRATES,Daniel Vogelbach,advanced,Batter,Handedness,2022,vs L as L,13.0%,24.6%,0.53,0.133,0.246,0.15,0.396,0.017,0.186,2,-6.2,0.198,24
+PITTSBURGH PIRATES,Daniel Vogelbach,advanced,Batter,Handedness,2022,vs R as L,13.7%,23.7%,0.58,0.276,0.374,0.564,0.938,0.288,0.308,35,13.4,0.399,160
+PITTSBURGH PIRATES,Daniel Vogelbach,advanced,Batter,Handedness,2022,vs L,13.0%,24.6%,0.53,0.133,0.246,0.15,0.396,0.017,0.186,2,-6.2,0.198,24
+PITTSBURGH PIRATES,Daniel Vogelbach,advanced,Batter,Handedness,2022,vs R,13.7%,23.7%,0.58,0.276,0.374,0.564,0.938,0.288,0.308,35,13.4,0.399,160
+PITTSBURGH PIRATES,Ke'Bryan Hayes,advanced,Batter,Handedness,2022,vs L as R,8.4%,11.2%,0.75,0.33,0.393,0.495,0.887,0.165,0.354,19,6.6,0.387,152
+PITTSBURGH PIRATES,Ke'Bryan Hayes,advanced,Batter,Handedness,2022,vs R as R,9.5%,26.8%,0.35,0.213,0.29,0.29,0.58,0.077,0.297,18,-8.6,0.263,68
+PITTSBURGH PIRATES,Ke'Bryan Hayes,advanced,Batter,Handedness,2022,vs L,8.4%,11.2%,0.75,0.33,0.393,0.495,0.887,0.165,0.354,19,6.6,0.387,152
+PITTSBURGH PIRATES,Ke'Bryan Hayes,advanced,Batter,Handedness,2022,vs R,9.5%,26.8%,0.35,0.213,0.29,0.29,0.58,0.077,0.297,18,-8.6,0.263,68
+PITTSBURGH PIRATES,Yoshi Tsutsugo,advanced,Batter,Handedness,2022,vs L as L,9.6%,32.7%,0.29,0.178,0.25,0.267,0.517,0.089,0.241,3,-3.2,0.232,47
+PITTSBURGH PIRATES,Yoshi Tsutsugo,advanced,Batter,Handedness,2022,vs R as L,13.2%,17.9%,0.74,0.189,0.292,0.256,0.548,0.067,0.222,8,-4.7,0.255,62
+PITTSBURGH PIRATES,Yoshi Tsutsugo,advanced,Batter,Handedness,2022,vs L,9.6%,32.7%,0.29,0.178,0.25,0.267,0.517,0.089,0.241,3,-3.2,0.232,47
+PITTSBURGH PIRATES,Yoshi Tsutsugo,advanced,Batter,Handedness,2022,vs R,13.2%,17.9%,0.74,0.189,0.292,0.256,0.548,0.067,0.222,8,-4.7,0.255,62
+PITTSBURGH PIRATES,Oneil Cruz,advanced,Batter,Handedness,2022,vs L as L,3.0%,57.6%,0.05,0.194,0.212,0.387,0.599,0.194,0.417,2,-1.6,0.251,59
+PITTSBURGH PIRATES,Oneil Cruz,advanced,Batter,Handedness,2022,vs R as L,4.1%,20.4%,0.2,0.234,0.265,0.511,0.776,0.277,0.235,6,0.8,0.33,113
+PITTSBURGH PIRATES,Oneil Cruz,advanced,Batter,Handedness,2022,vs L,3.0%,57.6%,0.05,0.194,0.212,0.387,0.599,0.194,0.417,2,-1.6,0.251,59
+PITTSBURGH PIRATES,Oneil Cruz,advanced,Batter,Handedness,2022,vs R,4.1%,20.4%,0.2,0.234,0.265,0.511,0.776,0.277,0.235,6,0.8,0.33,113
+PITTSBURGH PIRATES,Kevin Newman,advanced,Batter,Handedness,2022,vs L as R,3.3%,6.7%,0.5,0.345,0.367,0.448,0.815,0.103,0.37,5,1.1,0.356,130
+PITTSBURGH PIRATES,Kevin Newman,advanced,Batter,Handedness,2022,vs R as R,6.8%,18.2%,0.38,0.244,0.295,0.341,0.637,0.098,0.303,4,-1.0,0.281,80
+PITTSBURGH PIRATES,Kevin Newman,advanced,Batter,Handedness,2022,vs L,3.3%,6.7%,0.5,0.345,0.367,0.448,0.815,0.103,0.37,5,1.1,0.356,130
+PITTSBURGH PIRATES,Kevin Newman,advanced,Batter,Handedness,2022,vs R,6.8%,18.2%,0.38,0.244,0.295,0.341,0.637,0.098,0.303,4,-1.0,0.281,80
+PITTSBURGH PIRATES,Jack Suwinski,advanced,Batter,Handedness,2022,vs L as L,7.9%,31.5%,0.25,0.15,0.236,0.35,0.586,0.2,0.149,7,-3.5,0.26,66
+PITTSBURGH PIRATES,Jack Suwinski,advanced,Batter,Handedness,2022,vs R as L,9.6%,30.8%,0.31,0.23,0.314,0.482,0.796,0.252,0.28,22,4.0,0.342,121
+PITTSBURGH PIRATES,Jack Suwinski,advanced,Batter,Handedness,2022,vs L,7.9%,31.5%,0.25,0.15,0.236,0.35,0.586,0.2,0.149,7,-3.5,0.26,66
+PITTSBURGH PIRATES,Jack Suwinski,advanced,Batter,Handedness,2022,vs R,9.6%,30.8%,0.31,0.23,0.314,0.482,0.796,0.252,0.28,22,4.0,0.342,121
+PITTSBURGH PIRATES,Michael Perez,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,0.125,0.16,0.375,0.535,0.25,0.077,1,-1.7,0.228,44
+PITTSBURGH PIRATES,Michael Perez,advanced,Batter,Handedness,2022,vs R as L,5.8%,19.8%,0.29,0.16,0.209,0.309,0.518,0.148,0.15,4,-5.6,0.229,44
+PITTSBURGH PIRATES,Michael Perez,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,0.125,0.16,0.375,0.535,0.25,0.077,1,-1.7,0.228,44
+PITTSBURGH PIRATES,Michael Perez,advanced,Batter,Handedness,2022,vs R,5.8%,19.8%,0.29,0.16,0.209,0.309,0.518,0.148,0.15,4,-5.6,0.229,44
+PITTSBURGH PIRATES,Jake Marisnick,advanced,Batter,Handedness,2022,vs L as R,6.5%,19.4%,0.33,0.103,0.161,0.276,0.437,0.172,0.091,1,-2.9,0.193,20
+PITTSBURGH PIRATES,Jake Marisnick,advanced,Batter,Handedness,2022,vs R as R,3.6%,32.1%,0.11,0.308,0.333,0.462,0.795,0.154,0.438,4,0.8,0.345,123
+PITTSBURGH PIRATES,Jake Marisnick,advanced,Batter,Handedness,2022,vs L,6.5%,19.4%,0.33,0.103,0.161,0.276,0.437,0.172,0.091,1,-2.9,0.193,20
+PITTSBURGH PIRATES,Jake Marisnick,advanced,Batter,Handedness,2022,vs R,3.6%,32.1%,0.11,0.308,0.333,0.462,0.795,0.154,0.438,4,0.8,0.345,123
+PITTSBURGH PIRATES,Jason Delay,advanced,Batter,Handedness,2022,vs L as R,6.3%,12.5%,0.5,0.267,0.313,0.4,0.713,0.133,0.308,2,0.0,0.311,100
+PITTSBURGH PIRATES,Jason Delay,advanced,Batter,Handedness,2022,vs R as R,0.0%,50.0%,0.0,0.333,0.333,0.5,0.833,0.167,0.667,1,0.2,0.358,132
+PITTSBURGH PIRATES,Jason Delay,advanced,Batter,Handedness,2022,vs L,6.3%,12.5%,0.5,0.267,0.313,0.4,0.713,0.133,0.308,2,0.0,0.311,100
+PITTSBURGH PIRATES,Jason Delay,advanced,Batter,Handedness,2022,vs R,0.0%,50.0%,0.0,0.333,0.333,0.5,0.833,0.167,0.667,1,0.2,0.358,132
+PITTSBURGH PIRATES,Michael Chavis,advanced,Batter,Handedness,2022,vs L as R,6.5%,31.5%,0.21,0.26,0.306,0.49,0.796,0.23,0.328,15,2.3,0.337,118
+PITTSBURGH PIRATES,Michael Chavis,advanced,Batter,Handedness,2022,vs R as R,4.1%,26.0%,0.16,0.213,0.253,0.36,0.614,0.147,0.26,12,-5.1,0.267,70
+PITTSBURGH PIRATES,Michael Chavis,advanced,Batter,Handedness,2022,vs L,6.5%,31.5%,0.21,0.26,0.306,0.49,0.796,0.23,0.328,15,2.3,0.337,118
+PITTSBURGH PIRATES,Michael Chavis,advanced,Batter,Handedness,2022,vs R,4.1%,26.0%,0.16,0.213,0.253,0.36,0.614,0.147,0.26,12,-5.1,0.267,70
+PITTSBURGH PIRATES,Diego Castillo,advanced,Batter,Handedness,2022,vs L as R,3.5%,27.4%,0.13,0.262,0.292,0.551,0.843,0.29,0.29,17,4.0,0.354,129
+PITTSBURGH PIRATES,Diego Castillo,advanced,Batter,Handedness,2022,vs R as R,5.7%,26.8%,0.21,0.159,0.211,0.221,0.433,0.062,0.2,3,-11.1,0.197,23
+PITTSBURGH PIRATES,Diego Castillo,advanced,Batter,Handedness,2022,vs L,3.5%,27.4%,0.13,0.262,0.292,0.551,0.843,0.29,0.29,17,4.0,0.354,129
+PITTSBURGH PIRATES,Diego Castillo,advanced,Batter,Handedness,2022,vs R,5.7%,26.8%,0.21,0.159,0.211,0.221,0.433,0.062,0.2,3,-11.1,0.197,23
+PITTSBURGH PIRATES,Josh VanMeter,advanced,Batter,Handedness,2022,vs L as L,13.8%,31.0%,0.44,0.04,0.172,0.08,0.252,0.04,0.063,-1,-4.0,0.139,-17
+PITTSBURGH PIRATES,Josh VanMeter,advanced,Batter,Handedness,2022,vs R as L,7.2%,18.9%,0.38,0.235,0.288,0.382,0.671,0.147,0.266,11,-1.5,0.293,88
+PITTSBURGH PIRATES,Josh VanMeter,advanced,Batter,Handedness,2022,vs L,13.8%,31.0%,0.44,0.04,0.172,0.08,0.252,0.04,0.063,-1,-4.0,0.139,-17
+PITTSBURGH PIRATES,Josh VanMeter,advanced,Batter,Handedness,2022,vs R,7.2%,18.9%,0.38,0.235,0.288,0.382,0.671,0.147,0.266,11,-1.5,0.293,88
+PITTSBURGH PIRATES,Roberto Pérez,advanced,Batter,Handedness,2022,vs L as R,12.5%,29.2%,0.43,0.238,0.333,0.429,0.762,0.19,0.308,3,0.5,0.336,117
+PITTSBURGH PIRATES,Roberto Pérez,advanced,Batter,Handedness,2022,vs R as R,13.3%,40.0%,0.33,0.231,0.333,0.333,0.667,0.103,0.4,5,-0.2,0.304,95
+PITTSBURGH PIRATES,Roberto Pérez,advanced,Batter,Handedness,2022,vs L,12.5%,29.2%,0.43,0.238,0.333,0.429,0.762,0.19,0.308,3,0.5,0.336,117
+PITTSBURGH PIRATES,Roberto Pérez,advanced,Batter,Handedness,2022,vs R,13.3%,40.0%,0.33,0.231,0.333,0.333,0.667,0.103,0.4,5,-0.2,0.304,95
+PITTSBURGH PIRATES,Bryan Reynolds,advanced,Batter,Handedness,2022,vs R as L,11.1%,23.5%,0.47,0.251,0.342,0.498,0.839,0.246,0.283,36,9.0,0.359,132
+PITTSBURGH PIRATES,Bryan Reynolds,advanced,Batter,Handedness,2022,vs L as R,8.2%,21.8%,0.38,0.28,0.345,0.4,0.745,0.12,0.342,15,1.8,0.331,114
+PITTSBURGH PIRATES,Bryan Reynolds,advanced,Batter,Handedness,2022,vs L,8.2%,21.8%,0.38,0.28,0.345,0.4,0.745,0.12,0.342,15,1.8,0.331,114
+PITTSBURGH PIRATES,Bryan Reynolds,advanced,Batter,Handedness,2022,vs R,11.1%,23.5%,0.47,0.251,0.342,0.498,0.839,0.246,0.283,36,9.0,0.359,132
+PITTSBURGH PIRATES,Canaan Smith-Njigba,advanced,Batter,Handedness,2022,vs R as L,14.3%,0.0%,1.0,0.2,0.429,0.4,0.829,0.2,0.2,1,0.4,0.382,148
+PITTSBURGH PIRATES,Canaan Smith-Njigba,advanced,Batter,Handedness,2022,vs R,14.3%,0.0%,1.0,0.2,0.429,0.4,0.829,0.2,0.2,1,0.4,0.382,148
+PITTSBURGH PIRATES,Cal Mitchell,advanced,Batter,Handedness,2022,vs L as R,9.9%,21.1%,0.47,.206,.282,.286,.567,.079,.250,5,-3.3,.251,58
+PITTSBURGH PIRATES,Cal Mitchell,advanced,Batter,Handedness,2022,vs R as R,4.8%,23.1%,0.21,.263,.301,.453,.754,.190,.306,19,1.8,.326,110
+PITTSBURGH PIRATES,Cal Mitchell,advanced,Batter,Handedness,2022,vs L,9.9%,21.1%,0.47,.206,.282,.286,.567,.079,.250,5,-3.3,.251,58
+PITTSBURGH PIRATES,Cal Mitchell,advanced,Batter,Handedness,2022,vs R,4.8%,23.1%,0.21,.263,.301,.453,.754,.190,.306,19,1.8,.326,110
+PITTSBURGH PIRATES,Tyler Heineman,advanced,Batter,Handedness,2022,vs L as R,8.7%,31.9%,0.27,.226,.290,.339,.629,.113,.325,6,-1.7,.279,78
+PITTSBURGH PIRATES,Tyler Heineman,advanced,Batter,Handedness,2022,vs R as R,9.4%,30.6%,0.31,.111,.238,.208,.446,.097,.156,3,-6.4,.216,34
+PITTSBURGH PIRATES,Tyler Heineman,advanced,Batter,Handedness,2022,vs L,8.7%,31.9%,0.27,.226,.290,.339,.629,.113,.325,6,-1.7,.279,78
+PITTSBURGH PIRATES,Tyler Heineman,advanced,Batter,Handedness,2022,vs R,9.4%,30.6%,0.31,.111,.238,.208,.446,.097,.156,3,-6.4,.216,34
+PITTSBURGH PIRATES,Nick Mears,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+PITTSBURGH PIRATES,Nick Mears,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+PITTSBURGH PIRATES,Nick Mears,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+PITTSBURGH PIRATES,Nick Mears,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143

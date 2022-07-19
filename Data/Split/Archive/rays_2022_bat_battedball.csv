@@ -1,0 +1,74 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+TAMPA BAY RAYS,Yandy Díaz,batted-ball,Batter,Handedness,2022,vs L as R,1.89,24.7%,49.3%,26.0%,10.5%,10.5%,2.8%,0.0%,37.0%,32.9%,30.1%,9.6%,47.9%,42.5%,337,137,200
+TAMPA BAY RAYS,Yandy Díaz,batted-ball,Batter,Handedness,2022,vs R as R,1.87,18.5%,53.1%,28.4%,17.4%,2.2%,7.0%,0.0%,27.2%,37.0%,35.8%,18.5%,52.5%,29.0%,926,388,538
+TAMPA BAY RAYS,Yandy Díaz,batted-ball,Batter,Handedness,2022,vs L,1.89,24.7%,49.3%,26.0%,10.5%,10.5%,2.8%,0.0%,37.0%,32.9%,30.1%,9.6%,47.9%,42.5%,337,137,200
+TAMPA BAY RAYS,Yandy Díaz,batted-ball,Batter,Handedness,2022,vs R,1.87,18.5%,53.1%,28.4%,17.4%,2.2%,7.0%,0.0%,27.2%,37.0%,35.8%,18.5%,52.5%,29.0%,926,388,538
+TAMPA BAY RAYS,Ji-Man Choi,batted-ball,Batter,Handedness,2022,vs L as L,4.00,41.2%,47.1%,11.8%,0.0%,0.0%,25.0%,100.0%,22.2%,50.0%,27.8%,16.7%,66.7%,16.7%,141,53,88
+TAMPA BAY RAYS,Ji-Man Choi,batted-ball,Batter,Handedness,2022,vs R as L,1.20,22.4%,42.2%,35.3%,4.9%,17.1%,4.1%,0.0%,44.8%,35.3%,19.8%,6.0%,62.1%,31.9%,915,401,514
+TAMPA BAY RAYS,Ji-Man Choi,batted-ball,Batter,Handedness,2022,vs L,4.00,41.2%,47.1%,11.8%,0.0%,0.0%,25.0%,100.0%,22.2%,50.0%,27.8%,16.7%,66.7%,16.7%,141,53,88
+TAMPA BAY RAYS,Ji-Man Choi,batted-ball,Batter,Handedness,2022,vs R,1.20,22.4%,42.2%,35.3%,4.9%,17.1%,4.1%,0.0%,44.8%,35.3%,19.8%,6.0%,62.1%,31.9%,915,401,514
+TAMPA BAY RAYS,Harold Ramírez,batted-ball,Batter,Handedness,2022,vs L as R,2.38,26.7%,51.7%,21.7%,15.4%,7.7%,6.5%,0.0%,35.0%,40.0%,25.0%,15.0%,55.0%,30.0%,286,92,194
+TAMPA BAY RAYS,Harold Ramírez,batted-ball,Batter,Handedness,2022,vs R as R,2.00,19.4%,53.7%,26.9%,5.6%,8.3%,9.7%,0.0%,44.8%,38.1%,17.2%,16.4%,54.5%,29.1%,593,176,417
+TAMPA BAY RAYS,Harold Ramírez,batted-ball,Batter,Handedness,2022,vs L,2.38,26.7%,51.7%,21.7%,15.4%,7.7%,6.5%,0.0%,35.0%,40.0%,25.0%,15.0%,55.0%,30.0%,286,92,194
+TAMPA BAY RAYS,Harold Ramírez,batted-ball,Batter,Handedness,2022,vs R,2.00,19.4%,53.7%,26.9%,5.6%,8.3%,9.7%,0.0%,44.8%,38.1%,17.2%,16.4%,54.5%,29.1%,593,176,417
+TAMPA BAY RAYS,Isaac Paredes,batted-ball,Batter,Handedness,2022,vs L as R,0.70,10.5%,36.8%,52.6%,20.0%,25.0%,7.1%,0.0%,44.7%,36.8%,18.4%,23.7%,50.0%,26.3%,205,69,136
+TAMPA BAY RAYS,Isaac Paredes,batted-ball,Batter,Handedness,2022,vs R as R,1.00,13.3%,43.4%,43.4%,16.7%,22.2%,5.6%,0.0%,55.4%,20.5%,24.1%,9.6%,57.8%,32.5%,484,190,294
+TAMPA BAY RAYS,Isaac Paredes,batted-ball,Batter,Handedness,2022,vs L,0.70,10.5%,36.8%,52.6%,20.0%,25.0%,7.1%,0.0%,44.7%,36.8%,18.4%,23.7%,50.0%,26.3%,205,69,136
+TAMPA BAY RAYS,Isaac Paredes,batted-ball,Batter,Handedness,2022,vs R,1.00,13.3%,43.4%,43.4%,16.7%,22.2%,5.6%,0.0%,55.4%,20.5%,24.1%,9.6%,57.8%,32.5%,484,190,294
+TAMPA BAY RAYS,Randy Arozarena,batted-ball,Batter,Handedness,2022,vs L as R,1.05,15.1%,43.4%,41.5%,18.2%,9.1%,0.0%,0.0%,32.1%,37.7%,30.2%,24.5%,37.7%,37.7%,284,104,180
+TAMPA BAY RAYS,Randy Arozarena,batted-ball,Batter,Handedness,2022,vs R as R,2.17,19.8%,54.9%,25.3%,17.4%,17.4%,13.0%,0.0%,41.2%,36.8%,22.0%,18.1%,51.6%,30.2%,1102,400,702
+TAMPA BAY RAYS,Randy Arozarena,batted-ball,Batter,Handedness,2022,vs L,1.05,15.1%,43.4%,41.5%,18.2%,9.1%,0.0%,0.0%,32.1%,37.7%,30.2%,24.5%,37.7%,37.7%,284,104,180
+TAMPA BAY RAYS,Randy Arozarena,batted-ball,Batter,Handedness,2022,vs R,2.17,19.8%,54.9%,25.3%,17.4%,17.4%,13.0%,0.0%,41.2%,36.8%,22.0%,18.1%,51.6%,30.2%,1102,400,702
+TAMPA BAY RAYS,Taylor Walls,batted-ball,Batter,Handedness,2022,vs R as L,1.05,18.9%,41.4%,39.6%,6.8%,6.8%,6.5%,0.0%,40.2%,33.9%,25.9%,17.9%,58.9%,23.2%,705,258,447
+TAMPA BAY RAYS,Taylor Walls,batted-ball,Batter,Handedness,2022,vs L as R,0.76,22.9%,33.3%,43.8%,4.8%,0.0%,18.8%,0.0%,41.7%,35.4%,22.9%,16.7%,52.1%,31.3%,264,108,156
+TAMPA BAY RAYS,Taylor Walls,batted-ball,Batter,Handedness,2022,vs L,0.76,22.9%,33.3%,43.8%,4.8%,0.0%,18.8%,0.0%,41.7%,35.4%,22.9%,16.7%,52.1%,31.3%,264,108,156
+TAMPA BAY RAYS,Taylor Walls,batted-ball,Batter,Handedness,2022,vs R,1.05,18.9%,41.4%,39.6%,6.8%,6.8%,6.5%,0.0%,40.2%,33.9%,25.9%,17.9%,58.9%,23.2%,705,258,447
+TAMPA BAY RAYS,Josh Lowe,batted-ball,Batter,Handedness,2022,vs L as L,0.78,15.8%,36.8%,47.4%,0.0%,0.0%,0.0%,0.0%,21.1%,42.1%,36.8%,10.5%,57.9%,31.6%,160,62,98
+TAMPA BAY RAYS,Josh Lowe,batted-ball,Batter,Handedness,2022,vs R as L,0.89,23.9%,35.8%,40.3%,0.0%,7.4%,8.3%,0.0%,29.4%,44.1%,26.5%,19.1%,57.4%,23.5%,463,164,299
+TAMPA BAY RAYS,Josh Lowe,batted-ball,Batter,Handedness,2022,vs L,0.78,15.8%,36.8%,47.4%,0.0%,0.0%,0.0%,0.0%,21.1%,42.1%,36.8%,10.5%,57.9%,31.6%,160,62,98
+TAMPA BAY RAYS,Josh Lowe,batted-ball,Batter,Handedness,2022,vs R,0.89,23.9%,35.8%,40.3%,0.0%,7.4%,8.3%,0.0%,29.4%,44.1%,26.5%,19.1%,57.4%,23.5%,463,164,299
+TAMPA BAY RAYS,Francisco Mejía,batted-ball,Batter,Handedness,2022,vs R as L,1.07,21.5%,40.5%,38.0%,6.7%,16.7%,3.1%,0.0%,59.5%,30.4%,10.1%,15.2%,57.0%,27.8%,430,95,335
+TAMPA BAY RAYS,Francisco Mejía,batted-ball,Batter,Handedness,2022,vs L as R,2.10,22.5%,52.5%,25.0%,0.0%,0.0%,0.0%,0.0%,32.5%,35.0%,32.5%,25.0%,60.0%,15.0%,153,44,109
+TAMPA BAY RAYS,Francisco Mejía,batted-ball,Batter,Handedness,2022,vs R as R,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,100.0%,4,2,2
+TAMPA BAY RAYS,Francisco Mejía,batted-ball,Batter,Handedness,2022,vs L,2.10,22.5%,52.5%,25.0%,0.0%,0.0%,0.0%,0.0%,32.5%,35.0%,32.5%,25.0%,60.0%,15.0%,153,44,109
+TAMPA BAY RAYS,Francisco Mejía,batted-ball,Batter,Handedness,2022,vs R,1.10,21.3%,41.3%,37.5%,6.7%,16.7%,3.0%,0.0%,58.8%,31.3%,10.0%,15.0%,56.3%,28.7%,434,97,337
+TAMPA BAY RAYS,Brett Phillips,batted-ball,Batter,Handedness,2022,vs L as L,1.75,15.4%,53.8%,30.8%,0.0%,0.0%,14.3%,0.0%,60.0%,20.0%,20.0%,6.7%,80.0%,13.3%,144,53,91
+TAMPA BAY RAYS,Brett Phillips,batted-ball,Batter,Handedness,2022,vs R as L,0.72,25.7%,31.1%,43.2%,15.6%,12.5%,8.7%,0.0%,46.1%,31.6%,22.4%,13.2%,59.2%,27.6%,644,230,414
+TAMPA BAY RAYS,Brett Phillips,batted-ball,Batter,Handedness,2022,vs L,1.75,15.4%,53.8%,30.8%,0.0%,0.0%,14.3%,0.0%,60.0%,20.0%,20.0%,6.7%,80.0%,13.3%,144,53,91
+TAMPA BAY RAYS,Brett Phillips,batted-ball,Batter,Handedness,2022,vs R,0.72,25.7%,31.1%,43.2%,15.6%,12.5%,8.7%,0.0%,46.1%,31.6%,22.4%,13.2%,59.2%,27.6%,644,230,414
+TAMPA BAY RAYS,Christian Bethancourt,batted-ball,Batter,Handedness,2022,vs L as R,1.88,23.3%,50.0%,26.7%,12.5%,12.5%,3.3%,0.0%,45.9%,27.9%,26.2%,14.8%,49.2%,36.1%,306,100,206
+TAMPA BAY RAYS,Christian Bethancourt,batted-ball,Batter,Handedness,2022,vs R as R,1.07,15.9%,43.5%,40.6%,7.1%,7.1%,10.0%,0.0%,32.9%,45.7%,21.4%,12.9%,51.4%,35.7%,327,90,237
+TAMPA BAY RAYS,Christian Bethancourt,batted-ball,Batter,Handedness,2022,vs L,1.88,23.3%,50.0%,26.7%,12.5%,12.5%,3.3%,0.0%,45.9%,27.9%,26.2%,14.8%,49.2%,36.1%,306,100,206
+TAMPA BAY RAYS,Christian Bethancourt,batted-ball,Batter,Handedness,2022,vs R,1.07,15.9%,43.5%,40.6%,7.1%,7.1%,10.0%,0.0%,32.9%,45.7%,21.4%,12.9%,51.4%,35.7%,327,90,237
+TAMPA BAY RAYS,Jonathan Aranda,batted-ball,Batter,Handedness,2022,vs L as L,0.00,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,,,,,,,3,0,3
+TAMPA BAY RAYS,Jonathan Aranda,batted-ball,Batter,Handedness,2022,vs R as L,7.00,0.0%,87.5%,12.5%,0.0%,0.0%,14.3%,0.0%,37.5%,62.5%,0.0%,0.0%,50.0%,50.0%,28,10,18
+TAMPA BAY RAYS,Jonathan Aranda,batted-ball,Batter,Handedness,2022,vs L,0.00,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,,,,,,,3,0,3
+TAMPA BAY RAYS,Jonathan Aranda,batted-ball,Batter,Handedness,2022,vs R,7.00,0.0%,87.5%,12.5%,0.0%,0.0%,14.3%,0.0%,37.5%,62.5%,0.0%,0.0%,50.0%,50.0%,28,10,18
+TAMPA BAY RAYS,Yu Chang,batted-ball,Batter,Handedness,2022,vs L as R,0.67,13.0%,34.8%,52.2%,0.0%,8.3%,0.0%,0.0%,30.4%,52.2%,17.4%,17.4%,56.5%,26.1%,170,55,115
+TAMPA BAY RAYS,Yu Chang,batted-ball,Batter,Handedness,2022,vs R as R,0.43,0.0%,30.0%,70.0%,0.0%,0.0%,33.3%,0.0%,20.0%,40.0%,40.0%,10.0%,60.0%,30.0%,122,40,82
+TAMPA BAY RAYS,Yu Chang,batted-ball,Batter,Handedness,2022,vs L,0.67,13.0%,34.8%,52.2%,0.0%,8.3%,0.0%,0.0%,30.4%,52.2%,17.4%,17.4%,56.5%,26.1%,170,55,115
+TAMPA BAY RAYS,Yu Chang,batted-ball,Batter,Handedness,2022,vs R,0.43,0.0%,30.0%,70.0%,0.0%,0.0%,33.3%,0.0%,20.0%,40.0%,40.0%,10.0%,60.0%,30.0%,122,40,82
+TAMPA BAY RAYS,Luke Raley,batted-ball,Batter,Handedness,2022,vs L as L,1.00,0.0%,50.0%,50.0%,0.0%,0.0%,0.0%,0.0%,50.0%,50.0%,0.0%,0.0%,100.0%,0.0%,5,0,5
+TAMPA BAY RAYS,Luke Raley,batted-ball,Batter,Handedness,2022,vs R as L,1.00,0.0%,50.0%,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,25.0%,75.0%,25.0%,50.0%,25.0%,45,16,29
+TAMPA BAY RAYS,Luke Raley,batted-ball,Batter,Handedness,2022,vs L,1.00,0.0%,50.0%,50.0%,0.0%,0.0%,0.0%,0.0%,50.0%,50.0%,0.0%,0.0%,100.0%,0.0%,5,0,5
+TAMPA BAY RAYS,Luke Raley,batted-ball,Batter,Handedness,2022,vs R,1.00,0.0%,50.0%,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,25.0%,75.0%,25.0%,50.0%,25.0%,45,16,29
+TAMPA BAY RAYS,Mike Zunino,batted-ball,Batter,Handedness,2022,vs L as R,0.38,12.0%,24.0%,64.0%,6.3%,12.5%,16.7%,0.0%,36.0%,28.0%,36.0%,12.0%,56.0%,32.0%,166,62,104
+TAMPA BAY RAYS,Mike Zunino,batted-ball,Batter,Handedness,2022,vs R as R,0.64,20.0%,31.1%,48.9%,9.1%,13.6%,0.0%,0.0%,46.7%,31.1%,22.2%,13.3%,48.9%,37.8%,316,104,212
+TAMPA BAY RAYS,Mike Zunino,batted-ball,Batter,Handedness,2022,vs L,0.38,12.0%,24.0%,64.0%,6.3%,12.5%,16.7%,0.0%,36.0%,28.0%,36.0%,12.0%,56.0%,32.0%,166,62,104
+TAMPA BAY RAYS,Mike Zunino,batted-ball,Batter,Handedness,2022,vs R,0.64,20.0%,31.1%,48.9%,9.1%,13.6%,0.0%,0.0%,46.7%,31.1%,22.2%,13.3%,48.9%,37.8%,316,104,212
+TAMPA BAY RAYS,Brandon Lowe,batted-ball,Batter,Handedness,2022,vs L as L,0.77,14.8%,37.0%,48.1%,0.0%,23.1%,0.0%,0.0%,40.7%,33.3%,25.9%,11.1%,59.3%,29.6%,112,32,80
+TAMPA BAY RAYS,Brandon Lowe,batted-ball,Batter,Handedness,2022,vs R as L,0.91,24.1%,36.2%,39.7%,13.0%,8.7%,0.0%,0.0%,44.8%,36.2%,19.0%,13.8%,51.7%,34.5%,369,134,235
+TAMPA BAY RAYS,Brandon Lowe,batted-ball,Batter,Handedness,2022,vs L,0.77,14.8%,37.0%,48.1%,0.0%,23.1%,0.0%,0.0%,40.7%,33.3%,25.9%,11.1%,59.3%,29.6%,112,32,80
+TAMPA BAY RAYS,Brandon Lowe,batted-ball,Batter,Handedness,2022,vs R,0.91,24.1%,36.2%,39.7%,13.0%,8.7%,0.0%,0.0%,44.8%,36.2%,19.0%,13.8%,51.7%,34.5%,369,134,235
+TAMPA BAY RAYS,Wander Franco,batted-ball,Batter,Handedness,2022,vs R as L,1.72,25.9%,46.8%,27.2%,7.0%,9.3%,1.4%,0.0%,41.8%,31.6%,26.6%,15.8%,53.2%,31.0%,681,247,434
+TAMPA BAY RAYS,Wander Franco,batted-ball,Batter,Handedness,2022,vs L as R,1.47,19.6%,47.8%,32.6%,13.3%,6.7%,9.1%,0.0%,34.8%,39.1%,26.1%,23.9%,56.5%,19.6%,184,58,126
+TAMPA BAY RAYS,Wander Franco,batted-ball,Batter,Handedness,2022,vs L,1.47,19.6%,47.8%,32.6%,13.3%,6.7%,9.1%,0.0%,34.8%,39.1%,26.1%,23.9%,56.5%,19.6%,184,58,126
+TAMPA BAY RAYS,Wander Franco,batted-ball,Batter,Handedness,2022,vs R,1.72,25.9%,46.8%,27.2%,7.0%,9.3%,1.4%,0.0%,41.8%,31.6%,26.6%,15.8%,53.2%,31.0%,681,247,434
+TAMPA BAY RAYS,Kevin Kiermaier,batted-ball,Batter,Handedness,2022,vs L as L,1.63,30.0%,43.3%,26.7%,0.0%,0.0%,7.7%,0.0%,23.3%,26.7%,50.0%,10.0%,73.3%,16.7%,165,53,112
+TAMPA BAY RAYS,Kevin Kiermaier,batted-ball,Batter,Handedness,2022,vs R as L,1.97,17.4%,54.8%,27.8%,6.3%,21.9%,7.9%,0.0%,35.7%,35.7%,28.7%,19.1%,51.3%,29.6%,664,241,423
+TAMPA BAY RAYS,Kevin Kiermaier,batted-ball,Batter,Handedness,2022,vs L,1.63,30.0%,43.3%,26.7%,0.0%,0.0%,7.7%,0.0%,23.3%,26.7%,50.0%,10.0%,73.3%,16.7%,165,53,112
+TAMPA BAY RAYS,Kevin Kiermaier,batted-ball,Batter,Handedness,2022,vs R,1.97,17.4%,54.8%,27.8%,6.3%,21.9%,7.9%,0.0%,35.7%,35.7%,28.7%,19.1%,51.3%,29.6%,664,241,423
+TAMPA BAY RAYS,Manuel Margot,batted-ball,Batter,Handedness,2022,vs L as R,1.78,32.4%,43.2%,24.3%,11.1%,0.0%,25.0%,100.0%,28.9%,52.6%,18.4%,18.4%,55.3%,26.3%,198,78,120
+TAMPA BAY RAYS,Manuel Margot,batted-ball,Batter,Handedness,2022,vs R as R,1.15,22.2%,41.7%,36.1%,25.6%,7.7%,6.7%,0.0%,34.9%,40.4%,24.8%,21.1%,50.5%,28.4%,572,206,366
+TAMPA BAY RAYS,Manuel Margot,batted-ball,Batter,Handedness,2022,vs L,1.78,32.4%,43.2%,24.3%,11.1%,0.0%,25.0%,100.0%,28.9%,52.6%,18.4%,18.4%,55.3%,26.3%,198,78,120
+TAMPA BAY RAYS,Manuel Margot,batted-ball,Batter,Handedness,2022,vs R,1.15,22.2%,41.7%,36.1%,25.6%,7.7%,6.7%,0.0%,34.9%,40.4%,24.8%,21.1%,50.5%,28.4%,572,206,366

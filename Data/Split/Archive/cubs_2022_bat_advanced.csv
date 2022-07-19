@@ -1,0 +1,70 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+CHICAGO CUBS,Rafael Ortega,advanced,Batter,Handedness,2022,vs L as L,10.5%,10.5%,1.00,.235,.316,.235,.551,.000,.267,1,-0.8,.259,63
+CHICAGO CUBS,Rafael Ortega,advanced,Batter,Handedness,2022,vs R as L,12.6%,21.2%,0.60,.257,.350,.396,.746,.139,.314,29,3.4,.329,111
+CHICAGO CUBS,Rafael Ortega,advanced,Batter,Handedness,2022,vs L,10.5%,10.5%,1.00,.235,.316,.235,.551,.000,.267,1,-0.8,.259,63
+CHICAGO CUBS,Rafael Ortega,advanced,Batter,Handedness,2022,vs R,12.6%,21.2%,0.60,.257,.350,.396,.746,.139,.314,29,3.4,.329,111
+CHICAGO CUBS,Willson Contreras,advanced,Batter,Handedness,2022,vs L as R,8.3%,22.6%,0.37,.296,.405,.704,1.109,.408,.311,20,10.3,.464,202
+CHICAGO CUBS,Willson Contreras,advanced,Batter,Handedness,2022,vs R as R,11.8%,19.7%,0.60,.255,.374,.400,.774,.145,.306,35,7.2,.348,123
+CHICAGO CUBS,Willson Contreras,advanced,Batter,Handedness,2022,vs L,8.3%,22.6%,0.37,.296,.405,.704,1.109,.408,.311,20,10.3,.464,202
+CHICAGO CUBS,Willson Contreras,advanced,Batter,Handedness,2022,vs R,11.8%,19.7%,0.60,.255,.374,.400,.774,.145,.306,35,7.2,.348,123
+CHICAGO CUBS,Ian Happ,advanced,Batter,Handedness,2022,vs R as L,13.1%,19.8%,0.66,.251,.354,.432,.786,.181,.294,38,6.7,.341,119
+CHICAGO CUBS,Ian Happ,advanced,Batter,Handedness,2022,vs L as R,7.5%,25.0%,0.30,.347,.413,.528,.940,.181,.460,16,6.3,.408,164
+CHICAGO CUBS,Ian Happ,advanced,Batter,Handedness,2022,vs R as R,0.0%,0.0%,0.00,.500,.500,.500,1.000,.000,.500,0,0.2,.442,187
+CHICAGO CUBS,Ian Happ,advanced,Batter,Handedness,2022,vs L,7.5%,25.0%,0.30,.347,.413,.528,.940,.181,.460,16,6.3,.408,164
+CHICAGO CUBS,Ian Happ,advanced,Batter,Handedness,2022,vs R,13.0%,19.6%,0.66,.253,.356,.432,.788,.179,.297,38,6.9,.342,119
+CHICAGO CUBS,Seiya Suzuki,advanced,Batter,Handedness,2022,vs L as R,13.1%,14.8%,0.89,.245,.344,.509,.854,.264,.244,9,2.3,.356,129
+CHICAGO CUBS,Seiya Suzuki,advanced,Batter,Handedness,2022,vs R as R,11.6%,32.6%,0.36,.261,.349,.432,.781,.171,.382,18,3.2,.341,119
+CHICAGO CUBS,Seiya Suzuki,advanced,Batter,Handedness,2022,vs L,13.1%,14.8%,0.89,.245,.344,.509,.854,.264,.244,9,2.3,.356,129
+CHICAGO CUBS,Seiya Suzuki,advanced,Batter,Handedness,2022,vs R,11.6%,32.6%,0.36,.261,.349,.432,.781,.171,.382,18,3.2,.341,119
+CHICAGO CUBS,Nico Hoerner,advanced,Batter,Handedness,2022,vs L as R,2.5%,11.3%,0.22,.321,.338,.487,.825,.167,.353,12,2.8,.355,128
+CHICAGO CUBS,Nico Hoerner,advanced,Batter,Handedness,2022,vs R as R,4.7%,10.5%,0.45,.298,.340,.404,.745,.107,.316,24,2.1,.324,107
+CHICAGO CUBS,Nico Hoerner,advanced,Batter,Handedness,2022,vs L,2.5%,11.3%,0.22,.321,.338,.487,.825,.167,.353,12,2.8,.355,128
+CHICAGO CUBS,Nico Hoerner,advanced,Batter,Handedness,2022,vs R,4.7%,10.5%,0.45,.298,.340,.404,.745,.107,.316,24,2.1,.324,107
+CHICAGO CUBS,Patrick Wisdom,advanced,Batter,Handedness,2022,vs L as R,9.5%,32.6%,0.29,.268,.362,.512,.874,.244,.370,16,5.0,.376,142
+CHICAGO CUBS,Patrick Wisdom,advanced,Batter,Handedness,2022,vs R as R,11.0%,35.1%,0.31,.214,.306,.437,.743,.223,.288,31,2.8,.324,107
+CHICAGO CUBS,Patrick Wisdom,advanced,Batter,Handedness,2022,vs L,9.5%,32.6%,0.29,.268,.362,.512,.874,.244,.370,16,5.0,.376,142
+CHICAGO CUBS,Patrick Wisdom,advanced,Batter,Handedness,2022,vs R,11.0%,35.1%,0.31,.214,.306,.437,.743,.223,.288,31,2.8,.324,107
+CHICAGO CUBS,Alfonso Rivas,advanced,Batter,Handedness,2022,vs L as L,8.3%,54.2%,0.15,.048,.125,.048,.173,.000,.111,-1,-4.1,.094,-49
+CHICAGO CUBS,Alfonso Rivas,advanced,Batter,Handedness,2022,vs R as L,10.1%,27.0%,0.38,.269,.351,.377,.728,.108,.364,19,1.5,.323,106
+CHICAGO CUBS,Alfonso Rivas,advanced,Batter,Handedness,2022,vs L,8.3%,54.2%,0.15,.048,.125,.048,.173,.000,.111,-1,-4.1,.094,-49
+CHICAGO CUBS,Alfonso Rivas,advanced,Batter,Handedness,2022,vs R,10.1%,27.0%,0.38,.269,.351,.377,.728,.108,.364,19,1.5,.323,106
+CHICAGO CUBS,Christopher Morel,advanced,Batter,Handedness,2022,vs L as R,8.1%,32.3%,0.25,.204,.262,.370,.633,.167,.265,5,-1.8,.273,73
+CHICAGO CUBS,Christopher Morel,advanced,Batter,Handedness,2022,vs R as R,9.3%,31.7%,0.29,.290,.360,.524,.884,.234,.402,28,9.0,.381,145
+CHICAGO CUBS,Christopher Morel,advanced,Batter,Handedness,2022,vs L,8.1%,32.3%,0.25,.204,.262,.370,.633,.167,.265,5,-1.8,.273,73
+CHICAGO CUBS,Christopher Morel,advanced,Batter,Handedness,2022,vs R,9.3%,31.7%,0.29,.290,.360,.524,.884,.234,.402,28,9.0,.381,145
+CHICAGO CUBS,David Bote,advanced,Batter,Handedness,2022,vs L as R,18.2%,45.5%,0.40,.375,.545,.625,1.170,.250,1.000,3,1.7,.501,227
+CHICAGO CUBS,David Bote,advanced,Batter,Handedness,2022,vs R as R,4.5%,36.4%,0.13,.250,.318,.400,.718,.150,.364,3,0.2,.319,103
+CHICAGO CUBS,David Bote,advanced,Batter,Handedness,2022,vs L,18.2%,45.5%,0.40,.375,.545,.625,1.170,.250,1.000,3,1.7,.501,227
+CHICAGO CUBS,David Bote,advanced,Batter,Handedness,2022,vs R,4.5%,36.4%,0.13,.250,.318,.400,.718,.150,.364,3,0.2,.319,103
+CHICAGO CUBS,Yan Gomes,advanced,Batter,Handedness,2022,vs L as R,1.6%,18.0%,0.09,.169,.180,.237,.418,.068,.188,1,-6.2,.182,11
+CHICAGO CUBS,Yan Gomes,advanced,Batter,Handedness,2022,vs R as R,1.0%,15.0%,0.07,.224,.240,.337,.577,.112,.247,7,-4.7,.251,58
+CHICAGO CUBS,Yan Gomes,advanced,Batter,Handedness,2022,vs L,1.6%,18.0%,0.09,.169,.180,.237,.418,.068,.188,1,-6.2,.182,11
+CHICAGO CUBS,Yan Gomes,advanced,Batter,Handedness,2022,vs R,1.0%,15.0%,0.07,.224,.240,.337,.577,.112,.247,7,-4.7,.251,58
+CHICAGO CUBS,P.J. Higgins,advanced,Batter,Handedness,2022,vs L as R,11.4%,11.4%,1.00,.226,.314,.419,.734,.194,.231,4,0.3,.322,105
+CHICAGO CUBS,P.J. Higgins,advanced,Batter,Handedness,2022,vs R as R,7.7%,21.2%,0.36,.304,.373,.565,.938,.261,.344,10,3.8,.402,160
+CHICAGO CUBS,P.J. Higgins,advanced,Batter,Handedness,2022,vs L,11.4%,11.4%,1.00,.226,.314,.419,.734,.194,.231,4,0.3,.322,105
+CHICAGO CUBS,P.J. Higgins,advanced,Batter,Handedness,2022,vs R,7.7%,21.2%,0.36,.304,.373,.565,.938,.261,.344,10,3.8,.402,160
+CHICAGO CUBS,Andrelton Simmons,advanced,Batter,Handedness,2022,vs L as R,4.3%,21.7%,0.20,.050,.095,.050,.145,.000,.067,-2,-4.3,.075,-62
+CHICAGO CUBS,Andrelton Simmons,advanced,Batter,Handedness,2022,vs R as R,9.7%,12.9%,0.75,.218,.295,.236,.531,.018,.255,4,-3.1,.248,55
+CHICAGO CUBS,Andrelton Simmons,advanced,Batter,Handedness,2022,vs L,4.3%,21.7%,0.20,.050,.095,.050,.145,.000,.067,-2,-4.3,.075,-62
+CHICAGO CUBS,Andrelton Simmons,advanced,Batter,Handedness,2022,vs R,9.7%,12.9%,0.75,.218,.295,.236,.531,.018,.255,4,-3.1,.248,55
+CHICAGO CUBS,Nelson Velázquez,advanced,Batter,Handedness,2022,vs L as R,7.4%,40.7%,0.18,.240,.296,.600,.896,.360,.333,5,1.4,.376,142
+CHICAGO CUBS,Nelson Velázquez,advanced,Batter,Handedness,2022,vs R as R,6.7%,30.0%,0.22,.214,.267,.250,.517,.036,.316,2,-1.8,.236,47
+CHICAGO CUBS,Nelson Velázquez,advanced,Batter,Handedness,2022,vs L,7.4%,40.7%,0.18,.240,.296,.600,.896,.360,.333,5,1.4,.376,142
+CHICAGO CUBS,Nelson Velázquez,advanced,Batter,Handedness,2022,vs R,6.7%,30.0%,0.22,.214,.267,.250,.517,.036,.316,2,-1.8,.236,47
+CHICAGO CUBS,Frank Schwindel,advanced,Batter,Handedness,2022,vs L as R,6.0%,22.4%,0.27,.254,.299,.429,.727,.175,.289,8,0.3,.317,102
+CHICAGO CUBS,Frank Schwindel,advanced,Batter,Handedness,2022,vs R as R,6.2%,19.1%,0.32,.230,.275,.370,.645,.139,.258,16,-4.4,.279,77
+CHICAGO CUBS,Frank Schwindel,advanced,Batter,Handedness,2022,vs L,6.0%,22.4%,0.27,.254,.299,.429,.727,.175,.289,8,0.3,.317,102
+CHICAGO CUBS,Frank Schwindel,advanced,Batter,Handedness,2022,vs R,6.2%,19.1%,0.32,.230,.275,.370,.645,.139,.258,16,-4.4,.279,77
+CHICAGO CUBS,Nick Madrigal,advanced,Batter,Handedness,2022,vs L as R,0.0%,7.0%,0.00,.238,.238,.262,.500,.024,.256,2,-3.1,.220,36
+CHICAGO CUBS,Nick Madrigal,advanced,Batter,Handedness,2022,vs R as R,6.9%,19.4%,0.36,.212,.278,.242,.520,.030,.269,4,-4.0,.240,50
+CHICAGO CUBS,Nick Madrigal,advanced,Batter,Handedness,2022,vs L,0.0%,7.0%,0.00,.238,.238,.262,.500,.024,.256,2,-3.1,.220,36
+CHICAGO CUBS,Nick Madrigal,advanced,Batter,Handedness,2022,vs R,6.9%,19.4%,0.36,.212,.278,.242,.520,.030,.269,4,-4.0,.240,50
+CHICAGO CUBS,Michael Hermosillo,advanced,Batter,Handedness,2022,vs L as R,10.7%,46.4%,0.23,.045,.250,.091,.341,.045,.111,1,-2.5,.196,20
+CHICAGO CUBS,Michael Hermosillo,advanced,Batter,Handedness,2022,vs R as R,14.3%,14.3%,1.00,.167,.286,.167,.452,.000,.200,0,-0.5,.225,40
+CHICAGO CUBS,Michael Hermosillo,advanced,Batter,Handedness,2022,vs L,10.7%,46.4%,0.23,.045,.250,.091,.341,.045,.111,1,-2.5,.196,20
+CHICAGO CUBS,Michael Hermosillo,advanced,Batter,Handedness,2022,vs R,14.3%,14.3%,1.00,.167,.286,.167,.452,.000,.200,0,-0.5,.225,40
+CHICAGO CUBS,Jason Heyward,advanced,Batter,Handedness,2022,vs L as L,0.0%,26.1%,0.00,.217,.217,.217,.435,.000,.294,0,-2.2,.192,18
+CHICAGO CUBS,Jason Heyward,advanced,Batter,Handedness,2022,vs R as L,8.6%,20.3%,0.42,.202,.289,.289,.579,.088,.253,10,-4.6,.265,67
+CHICAGO CUBS,Jason Heyward,advanced,Batter,Handedness,2022,vs L,0.0%,26.1%,0.00,.217,.217,.217,.435,.000,.294,0,-2.2,.192,18
+CHICAGO CUBS,Jason Heyward,advanced,Batter,Handedness,2022,vs R,8.6%,20.3%,0.42,.202,.289,.289,.579,.088,.253,10,-4.6,.265,67

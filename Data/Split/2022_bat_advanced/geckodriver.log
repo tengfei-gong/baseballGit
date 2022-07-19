@@ -1,0 +1,190 @@
+1657945244964	geckodriver	INFO	Listening on 127.0.0.1:53359
+1657945247970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tengf\\AppData\\Local\\Temp\\rust_mozprofile2iTTOH"
+1657945248244	Marionette	INFO	Marionette enabled
+1657945248249	Marionette	INFO	Listening on port 53371
+Read port: 53371
+1657945248320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tengf\\AppData\\Local\\Temp\\rust_mozprofile2iTTOH\\search.json.mozlz4", (void 0)))
+1657945249475	Marionette	INFO	Stopped listening on port 53371
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1657959057954	geckodriver	INFO	Listening on 127.0.0.1:56739
+1657959060950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tengf\\AppData\\Local\\Temp\\rust_mozprofilefExvDV"
+1657959061250	Marionette	INFO	Marionette enabled
+1657959061255	Marionette	INFO	Listening on port 56752
+Read port: 56752
+1657959061334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tengf\\AppData\\Local\\Temp\\rust_mozprofilefExvDV\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/spenser-watkins/17489/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/tyler-wells/20000/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/dean-kremer/19350/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/jorge-lopez/14527/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/jarren-duran/24617/splits?position=OF&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 7341 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/tyler-wells/20000/splits?position=P&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/tyler-wells/20000/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/austin-voth/15047/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/felix-bautista/20666/splits?position=P&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/felix-bautista/20666/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/cionel-perez/19614/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com//players/bryan-baker/19804/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 4323 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.fangraphs.com/players/travis-lakins-sr/18600/splits?position=P&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/alexander-wells/19845/splits?position=P&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.fangraphs.com/players/derek-lowe/199/splits?position=PB&season=2022 line 1 > injectedScript, line 1: TypeError: window[("cnx" + n)] is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 7749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 7635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=US, line 1: Error: NO
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 7563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657959249735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 3333 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://native.sharethrough.com/assets/sfp.js, line 2: SecurityError: Permission denied to access property "origin" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657959271567	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k_X99N4Bu7LAEiAV5XH-2E-AmSxVmuYLUAxNMPpeAtI.js line 2 > eval line 864 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=US, line 1: Error: NO
+1657963260877	Marionette	INFO	Stopped listening on port 56752
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

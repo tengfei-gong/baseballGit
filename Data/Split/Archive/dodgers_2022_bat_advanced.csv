@@ -1,0 +1,61 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+LOS ANGELES DODGERS,Mookie Betts,advanced,Batter,Handedness,2022,vs L as R,9.9%,16.5%,0.60,.309,.374,.556,.929,.247,.323,17,6.3,.397,160
+LOS ANGELES DODGERS,Mookie Betts,advanced,Batter,Handedness,2022,vs R as R,9.8%,17.8%,0.55,.256,.338,.533,.870,.276,.248,37,11.3,.373,144
+LOS ANGELES DODGERS,Mookie Betts,advanced,Batter,Handedness,2022,vs L,9.9%,16.5%,0.60,.309,.374,.556,.929,.247,.323,17,6.3,.397,160
+LOS ANGELES DODGERS,Mookie Betts,advanced,Batter,Handedness,2022,vs R,9.8%,17.8%,0.55,.256,.338,.533,.870,.276,.248,37,11.3,.373,144
+LOS ANGELES DODGERS,Trea Turner,advanced,Batter,Handedness,2022,vs L as R,8.7%,18.3%,0.47,.293,.365,.500,.865,.207,.329,17,5.0,.371,143
+LOS ANGELES DODGERS,Trea Turner,advanced,Batter,Handedness,2022,vs R as R,6.2%,19.9%,0.31,.307,.347,.476,.823,.169,.361,42,9.9,.355,132
+LOS ANGELES DODGERS,Trea Turner,advanced,Batter,Handedness,2022,vs L,8.7%,18.3%,0.47,.293,.365,.500,.865,.207,.329,17,5.0,.371,143
+LOS ANGELES DODGERS,Trea Turner,advanced,Batter,Handedness,2022,vs R,6.2%,19.9%,0.31,.307,.347,.476,.823,.169,.361,42,9.9,.355,132
+LOS ANGELES DODGERS,Freddie Freeman,advanced,Batter,Handedness,2022,vs L as L,9.9%,24.8%,0.40,.283,.364,.453,.816,.170,.365,18,4.5,.357,133
+LOS ANGELES DODGERS,Freddie Freeman,advanced,Batter,Handedness,2022,vs R as L,10.9%,13.1%,0.83,.323,.397,.536,.933,.213,.347,49,18.3,.396,160
+LOS ANGELES DODGERS,Freddie Freeman,advanced,Batter,Handedness,2022,vs L,9.9%,24.8%,0.40,.283,.364,.453,.816,.170,.365,18,4.5,.357,133
+LOS ANGELES DODGERS,Freddie Freeman,advanced,Batter,Handedness,2022,vs R,10.9%,13.1%,0.83,.323,.397,.536,.933,.213,.347,49,18.3,.396,160
+LOS ANGELES DODGERS,Will Smith,advanced,Batter,Handedness,2022,vs L as R,12.7%,8.5%,1.50,.317,.423,.550,.973,.233,.300,14,6.1,.418,175
+LOS ANGELES DODGERS,Will Smith,advanced,Batter,Handedness,2022,vs R as R,11.3%,17.4%,0.65,.244,.330,.423,.753,.179,.260,30,3.8,.331,115
+LOS ANGELES DODGERS,Will Smith,advanced,Batter,Handedness,2022,vs L,12.7%,8.5%,1.50,.317,.423,.550,.973,.233,.300,14,6.1,.418,175
+LOS ANGELES DODGERS,Will Smith,advanced,Batter,Handedness,2022,vs R,11.3%,17.4%,0.65,.244,.330,.423,.753,.179,.260,30,3.8,.331,115
+LOS ANGELES DODGERS,Justin Turner,advanced,Batter,Handedness,2022,vs L as R,10.5%,22.1%,0.48,.229,.305,.325,.631,.096,.274,9,-2.4,.278,80
+LOS ANGELES DODGERS,Justin Turner,advanced,Batter,Handedness,2022,vs R as R,9.4%,15.3%,0.61,.255,.323,.428,.751,.173,.276,30,3.0,.326,112
+LOS ANGELES DODGERS,Justin Turner,advanced,Batter,Handedness,2022,vs L,10.5%,22.1%,0.48,.229,.305,.325,.631,.096,.274,9,-2.4,.278,80
+LOS ANGELES DODGERS,Justin Turner,advanced,Batter,Handedness,2022,vs R,9.4%,15.3%,0.61,.255,.323,.428,.751,.173,.276,30,3.0,.326,112
+LOS ANGELES DODGERS,Cody Bellinger,advanced,Batter,Handedness,2022,vs L as L,5.0%,29.0%,0.17,.191,.230,.287,.517,.096,.262,5,-6.5,.228,46
+LOS ANGELES DODGERS,Cody Bellinger,advanced,Batter,Handedness,2022,vs R as L,8.7%,30.6%,0.28,.217,.288,.429,.717,.212,.270,25,0.2,.311,102
+LOS ANGELES DODGERS,Cody Bellinger,advanced,Batter,Handedness,2022,vs L,5.0%,29.0%,0.17,.191,.230,.287,.517,.096,.262,5,-6.5,.228,46
+LOS ANGELES DODGERS,Cody Bellinger,advanced,Batter,Handedness,2022,vs R,8.7%,30.6%,0.28,.217,.288,.429,.717,.212,.270,25,0.2,.311,102
+LOS ANGELES DODGERS,Max Muncy,advanced,Batter,Handedness,2022,vs L as L,14.9%,18.9%,0.79,.148,.270,.311,.582,.164,.130,6,-2.8,.263,70
+LOS ANGELES DODGERS,Max Muncy,advanced,Batter,Handedness,2022,vs R as L,19.0%,25.2%,0.75,.166,.329,.308,.636,.142,.207,22,-2.5,.295,91
+LOS ANGELES DODGERS,Max Muncy,advanced,Batter,Handedness,2022,vs L,14.9%,18.9%,0.79,.148,.270,.311,.582,.164,.130,6,-2.8,.263,70
+LOS ANGELES DODGERS,Max Muncy,advanced,Batter,Handedness,2022,vs R,19.0%,25.2%,0.75,.166,.329,.308,.636,.142,.207,22,-2.5,.295,91
+LOS ANGELES DODGERS,Jake Lamb,advanced,Batter,Handedness,2022,vs R as L,13.8%,31.0%,0.44,.250,.379,.625,1.004,.375,.308,6,2.6,.422,177
+LOS ANGELES DODGERS,Jake Lamb,advanced,Batter,Handedness,2022,vs R,13.8%,31.0%,0.44,.250,.379,.625,1.004,.375,.308,6,2.6,.422,177
+LOS ANGELES DODGERS,Gavin Lux,advanced,Batter,Handedness,2022,vs L as L,9.4%,23.4%,0.40,.293,.359,.345,.704,.052,.395,8,0.4,.317,106
+LOS ANGELES DODGERS,Gavin Lux,advanced,Batter,Handedness,2022,vs R as L,11.1%,16.7%,0.67,.305,.380,.442,.822,.137,.359,33,8.5,.360,135
+LOS ANGELES DODGERS,Gavin Lux,advanced,Batter,Handedness,2022,vs L,9.4%,23.4%,0.40,.293,.359,.345,.704,.052,.395,8,0.4,.317,106
+LOS ANGELES DODGERS,Gavin Lux,advanced,Batter,Handedness,2022,vs R,11.1%,16.7%,0.67,.305,.380,.442,.822,.137,.359,33,8.5,.360,135
+LOS ANGELES DODGERS,Austin Barnes,advanced,Batter,Handedness,2022,vs L as R,18.6%,18.6%,1.00,.114,.279,.257,.536,.143,.115,3,-1.9,.256,65
+LOS ANGELES DODGERS,Austin Barnes,advanced,Batter,Handedness,2022,vs R as R,10.4%,17.9%,0.58,.193,.299,.368,.667,.175,.186,7,-0.7,.297,93
+LOS ANGELES DODGERS,Austin Barnes,advanced,Batter,Handedness,2022,vs L,18.6%,18.6%,1.00,.114,.279,.257,.536,.143,.115,3,-1.9,.256,65
+LOS ANGELES DODGERS,Austin Barnes,advanced,Batter,Handedness,2022,vs R,10.4%,17.9%,0.58,.193,.299,.368,.667,.175,.186,7,-0.7,.297,93
+LOS ANGELES DODGERS,Hanser Alberto,advanced,Batter,Handedness,2022,vs L as R,0.0%,19.3%,0.00,.246,.246,.333,.579,.088,.289,4,-2.7,.251,62
+LOS ANGELES DODGERS,Hanser Alberto,advanced,Batter,Handedness,2022,vs R as R,4.0%,16.0%,0.25,.167,.200,.375,.575,.208,.158,2,-1.3,.247,58
+LOS ANGELES DODGERS,Hanser Alberto,advanced,Batter,Handedness,2022,vs L,0.0%,19.3%,0.00,.246,.246,.333,.579,.088,.289,4,-2.7,.251,62
+LOS ANGELES DODGERS,Hanser Alberto,advanced,Batter,Handedness,2022,vs R,4.0%,16.0%,0.25,.167,.200,.375,.575,.208,.158,2,-1.3,.247,58
+LOS ANGELES DODGERS,Zach McKinstry,advanced,Batter,Handedness,2022,vs R as L,0.0%,42.9%,0.00,.143,.143,.571,.714,.429,.000,1,-0.1,.295,91
+LOS ANGELES DODGERS,Zach McKinstry,advanced,Batter,Handedness,2022,vs R,0.0%,42.9%,0.00,.143,.143,.571,.714,.429,.000,1,-0.1,.295,91
+LOS ANGELES DODGERS,Trayce Thompson,advanced,Batter,Handedness,2022,vs L as R,3.4%,41.4%,0.08,.185,.241,.370,.612,.185,.286,2,-1.0,.268,75
+LOS ANGELES DODGERS,Trayce Thompson,advanced,Batter,Handedness,2022,vs R as R,14.3%,28.6%,0.50,.267,.371,.433,.805,.167,.368,5,1.3,.356,133
+LOS ANGELES DODGERS,Trayce Thompson,advanced,Batter,Handedness,2022,vs L,3.4%,41.4%,0.08,.185,.241,.370,.612,.185,.286,2,-1.0,.268,75
+LOS ANGELES DODGERS,Trayce Thompson,advanced,Batter,Handedness,2022,vs R,14.3%,28.6%,0.50,.267,.371,.433,.805,.167,.368,5,1.3,.356,133
+LOS ANGELES DODGERS,Edwin Ríos,advanced,Batter,Handedness,2022,vs L as L,0.0%,30.8%,0.00,.231,.231,.692,.923,.462,.143,2,0.8,.386,153
+LOS ANGELES DODGERS,Edwin Ríos,advanced,Batter,Handedness,2022,vs R as L,6.3%,40.5%,0.16,.247,.304,.466,.770,.219,.361,10,1.2,.329,115
+LOS ANGELES DODGERS,Edwin Ríos,advanced,Batter,Handedness,2022,vs L,0.0%,30.8%,0.00,.231,.231,.692,.923,.462,.143,2,0.8,.386,153
+LOS ANGELES DODGERS,Edwin Ríos,advanced,Batter,Handedness,2022,vs R,6.3%,40.5%,0.16,.247,.304,.466,.770,.219,.361,10,1.2,.329,115
+LOS ANGELES DODGERS,Kevin Pillar,advanced,Batter,Handedness,2022,vs L as R,25.0%,25.0%,1.00,.333,.500,.667,1.167,.333,.500,1,0.6,.488,222
+LOS ANGELES DODGERS,Kevin Pillar,advanced,Batter,Handedness,2022,vs R as R,0.0%,33.3%,0.00,.000,.000,.000,.000,.000,.000,-1,-2.2,.000,-100
+LOS ANGELES DODGERS,Kevin Pillar,advanced,Batter,Handedness,2022,vs L,25.0%,25.0%,1.00,.333,.500,.667,1.167,.333,.500,1,0.6,.488,222
+LOS ANGELES DODGERS,Kevin Pillar,advanced,Batter,Handedness,2022,vs R,0.0%,33.3%,0.00,.000,.000,.000,.000,.000,.000,-1,-2.2,.000,-100
+LOS ANGELES DODGERS,Chris Taylor,advanced,Batter,Handedness,2022,vs L as R,13.4%,31.7%,0.42,.239,.341,.408,.750,.169,.349,10,0.8,.323,110
+LOS ANGELES DODGERS,Chris Taylor,advanced,Batter,Handedness,2022,vs R as R,8.9%,36.9%,0.24,.238,.310,.409,.719,.171,.375,24,0.6,.314,104
+LOS ANGELES DODGERS,Chris Taylor,advanced,Batter,Handedness,2022,vs L,13.4%,31.7%,0.42,.239,.341,.408,.750,.169,.349,10,0.8,.323,110
+LOS ANGELES DODGERS,Chris Taylor,advanced,Batter,Handedness,2022,vs R,8.9%,36.9%,0.24,.238,.310,.409,.719,.171,.375,24,0.6,.314,104

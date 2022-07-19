@@ -1,0 +1,53 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+TORONTO BLUE JAYS,George Springer,batted-ball,Batter,Handedness,2022,vs L as R,1.05,12.2%,44.9%,42.9%,9.5%,14.3%,0.0%,0.0%,36.7%,40.8%,22.4%,16.3%,42.9%,40.8%,306,124,182
+TORONTO BLUE JAYS,George Springer,batted-ball,Batter,Handedness,2022,vs R as R,1.13,18.8%,43.1%,38.1%,11.6%,20.3%,9.0%,0.0%,51.4%,24.3%,24.3%,21.0%,49.7%,29.3%,967,361,606
+TORONTO BLUE JAYS,George Springer,batted-ball,Batter,Handedness,2022,vs L,1.05,12.2%,44.9%,42.9%,9.5%,14.3%,0.0%,0.0%,36.7%,40.8%,22.4%,16.3%,42.9%,40.8%,306,124,182
+TORONTO BLUE JAYS,George Springer,batted-ball,Batter,Handedness,2022,vs R,1.14,18.7%,43.4%,37.9%,11.6%,20.3%,8.9%,0.0%,51.4%,24.3%,24.3%,21.0%,49.7%,29.3%,968,361,607
+TORONTO BLUE JAYS,Bo Bichette,batted-ball,Batter,Handedness,2022,vs L as R,1.27,17.1%,46.3%,36.6%,6.7%,13.3%,10.5%,0.0%,41.5%,26.8%,31.7%,14.6%,56.1%,29.3%,246,80,166
+TORONTO BLUE JAYS,Bo Bichette,batted-ball,Batter,Handedness,2022,vs R as R,1.61,19.6%,49.6%,30.9%,4.2%,16.9%,1.8%,0.0%,31.3%,39.6%,29.1%,9.6%,55.2%,35.2%,1168,376,792
+TORONTO BLUE JAYS,Bo Bichette,batted-ball,Batter,Handedness,2022,vs L,1.27,17.1%,46.3%,36.6%,6.7%,13.3%,10.5%,0.0%,41.5%,26.8%,31.7%,14.6%,56.1%,29.3%,246,80,166
+TORONTO BLUE JAYS,Bo Bichette,batted-ball,Batter,Handedness,2022,vs R,1.61,19.6%,49.6%,30.9%,4.2%,16.9%,1.8%,0.0%,31.3%,39.6%,29.1%,9.6%,55.2%,35.2%,1168,376,792
+TORONTO BLUE JAYS,Vladimir Guerrero Jr.,batted-ball,Batter,Handedness,2022,vs L as R,1.93,18.0%,54.0%,28.0%,7.1%,28.6%,0.0%,0.0%,26.0%,54.0%,20.0%,12.0%,50.0%,38.0%,227,91,136
+TORONTO BLUE JAYS,Vladimir Guerrero Jr.,batted-ball,Batter,Handedness,2022,vs R as R,1.53,17.7%,49.8%,32.6%,11.4%,21.4%,5.6%,0.0%,37.7%,38.6%,23.7%,17.2%,45.6%,37.2%,1189,453,736
+TORONTO BLUE JAYS,Vladimir Guerrero Jr.,batted-ball,Batter,Handedness,2022,vs L,1.93,18.0%,54.0%,28.0%,7.1%,28.6%,0.0%,0.0%,26.0%,54.0%,20.0%,12.0%,50.0%,38.0%,227,91,136
+TORONTO BLUE JAYS,Vladimir Guerrero Jr.,batted-ball,Batter,Handedness,2022,vs R,1.53,17.7%,49.8%,32.6%,11.4%,21.4%,5.6%,0.0%,37.7%,38.6%,23.7%,17.2%,45.6%,37.2%,1189,453,736
+TORONTO BLUE JAYS,Alejandro Kirk,batted-ball,Batter,Handedness,2022,vs L as R,1.56,13.2%,52.8%,34.0%,11.1%,11.1%,7.1%,0.0%,37.7%,24.5%,37.7%,11.3%,50.9%,37.7%,251,91,160
+TORONTO BLUE JAYS,Alejandro Kirk,batted-ball,Batter,Handedness,2022,vs R as R,1.28,23.1%,43.2%,33.7%,10.5%,14.0%,8.2%,0.0%,41.4%,29.6%,29.0%,14.2%,49.7%,36.1%,898,356,542
+TORONTO BLUE JAYS,Alejandro Kirk,batted-ball,Batter,Handedness,2022,vs L,1.56,13.2%,52.8%,34.0%,11.1%,11.1%,7.1%,0.0%,37.7%,24.5%,37.7%,11.3%,50.9%,37.7%,251,91,160
+TORONTO BLUE JAYS,Alejandro Kirk,batted-ball,Batter,Handedness,2022,vs R,1.28,23.1%,43.2%,33.7%,10.5%,14.0%,8.2%,0.0%,41.4%,29.6%,29.0%,14.2%,49.7%,36.1%,898,356,542
+TORONTO BLUE JAYS,Teoscar Hernández,batted-ball,Batter,Handedness,2022,vs L as R,0.93,18.2%,39.4%,42.4%,28.6%,21.4%,0.0%,0.0%,48.5%,27.3%,24.2%,15.2%,39.4%,45.5%,167,52,115
+TORONTO BLUE JAYS,Teoscar Hernández,batted-ball,Batter,Handedness,2022,vs R as R,1.57,21.2%,48.2%,30.7%,2.4%,14.3%,9.1%,0.0%,43.8%,31.4%,24.8%,9.5%,50.4%,40.1%,826,296,530
+TORONTO BLUE JAYS,Teoscar Hernández,batted-ball,Batter,Handedness,2022,vs L,0.93,18.2%,39.4%,42.4%,28.6%,21.4%,0.0%,0.0%,48.5%,27.3%,24.2%,15.2%,39.4%,45.5%,167,52,115
+TORONTO BLUE JAYS,Teoscar Hernández,batted-ball,Batter,Handedness,2022,vs R,1.57,21.2%,48.2%,30.7%,2.4%,14.3%,9.1%,0.0%,43.8%,31.4%,24.8%,9.5%,50.4%,40.1%,826,296,530
+TORONTO BLUE JAYS,Lourdes Gurriel Jr.,batted-ball,Batter,Handedness,2022,vs L as R,2.50,22.2%,55.6%,22.2%,10.0%,0.0%,4.0%,0.0%,35.6%,37.8%,26.7%,11.1%,51.1%,37.8%,222,68,154
+TORONTO BLUE JAYS,Lourdes Gurriel Jr.,batted-ball,Batter,Handedness,2022,vs R as R,1.06,21.3%,40.4%,38.3%,8.3%,6.9%,10.5%,0.0%,42.0%,29.3%,28.7%,14.9%,49.5%,35.6%,929,324,605
+TORONTO BLUE JAYS,Lourdes Gurriel Jr.,batted-ball,Batter,Handedness,2022,vs L,2.50,22.2%,55.6%,22.2%,10.0%,0.0%,4.0%,0.0%,35.6%,37.8%,26.7%,11.1%,51.1%,37.8%,222,68,154
+TORONTO BLUE JAYS,Lourdes Gurriel Jr.,batted-ball,Batter,Handedness,2022,vs R,1.06,21.3%,40.4%,38.3%,8.3%,6.9%,10.5%,0.0%,42.0%,29.3%,28.7%,14.9%,49.5%,35.6%,929,324,605
+TORONTO BLUE JAYS,Matt Chapman,batted-ball,Batter,Handedness,2022,vs L as R,0.85,22.9%,35.4%,41.7%,10.0%,10.0%,0.0%,0.0%,43.8%,39.6%,16.7%,10.4%,50.0%,39.6%,276,112,164
+TORONTO BLUE JAYS,Matt Chapman,batted-ball,Batter,Handedness,2022,vs R as R,0.57,14.9%,31.1%,54.0%,19.5%,12.6%,8.0%,0.0%,42.9%,33.5%,23.6%,18.6%,40.4%,41.0%,1067,417,650
+TORONTO BLUE JAYS,Matt Chapman,batted-ball,Batter,Handedness,2022,vs L,0.85,22.9%,35.4%,41.7%,10.0%,10.0%,0.0%,0.0%,43.8%,39.6%,16.7%,10.4%,50.0%,39.6%,276,112,164
+TORONTO BLUE JAYS,Matt Chapman,batted-ball,Batter,Handedness,2022,vs R,0.57,14.9%,31.1%,54.0%,19.5%,12.6%,8.0%,0.0%,42.9%,33.5%,23.6%,18.6%,40.4%,41.0%,1067,417,650
+TORONTO BLUE JAYS,Santiago Espinal,batted-ball,Batter,Handedness,2022,vs L as R,1.30,28.1%,40.6%,31.3%,10.0%,15.0%,3.8%,0.0%,50.0%,34.4%,15.6%,15.6%,53.1%,31.3%,311,111,200
+TORONTO BLUE JAYS,Santiago Espinal,batted-ball,Batter,Handedness,2022,vs R as R,1.15,25.1%,40.0%,34.9%,10.3%,4.4%,5.1%,0.0%,37.4%,36.9%,25.6%,19.5%,53.3%,27.2%,985,352,633
+TORONTO BLUE JAYS,Santiago Espinal,batted-ball,Batter,Handedness,2022,vs L,1.30,28.1%,40.6%,31.3%,10.0%,15.0%,3.8%,0.0%,50.0%,34.4%,15.6%,15.6%,53.1%,31.3%,311,111,200
+TORONTO BLUE JAYS,Santiago Espinal,batted-ball,Batter,Handedness,2022,vs R,1.15,25.1%,40.0%,34.9%,10.3%,4.4%,5.1%,0.0%,37.4%,36.9%,25.6%,19.5%,53.3%,27.2%,985,352,633
+TORONTO BLUE JAYS,Danny Jansen,batted-ball,Batter,Handedness,2022,vs L as R,0.71,7.7%,38.5%,53.8%,42.9%,0.0%,20.0%,0.0%,46.2%,23.1%,30.8%,38.5%,38.5%,23.1%,59,22,37
+TORONTO BLUE JAYS,Danny Jansen,batted-ball,Batter,Handedness,2022,vs R as R,0.67,5.4%,37.8%,56.8%,9.5%,33.3%,14.3%,0.0%,59.5%,29.7%,10.8%,18.9%,32.4%,48.6%,186,67,119
+TORONTO BLUE JAYS,Danny Jansen,batted-ball,Batter,Handedness,2022,vs L,0.71,7.7%,38.5%,53.8%,42.9%,0.0%,20.0%,0.0%,46.2%,23.1%,30.8%,38.5%,38.5%,23.1%,59,22,37
+TORONTO BLUE JAYS,Danny Jansen,batted-ball,Batter,Handedness,2022,vs R,0.67,5.4%,37.8%,56.8%,9.5%,33.3%,14.3%,0.0%,59.5%,29.7%,10.8%,18.9%,32.4%,48.6%,186,67,119
+TORONTO BLUE JAYS,Zack Collins,batted-ball,Batter,Handedness,2022,vs L as L,3.00,20.0%,60.0%,20.0%,0.0%,0.0%,0.0%,0.0%,80.0%,20.0%,0.0%,0.0%,80.0%,20.0%,45,18,27
+TORONTO BLUE JAYS,Zack Collins,batted-ball,Batter,Handedness,2022,vs R as L,0.14,27.3%,9.1%,63.6%,4.8%,19.0%,0.0%,0.0%,48.5%,24.2%,27.3%,6.1%,57.6%,36.4%,276,116,160
+TORONTO BLUE JAYS,Zack Collins,batted-ball,Batter,Handedness,2022,vs L,3.00,20.0%,60.0%,20.0%,0.0%,0.0%,0.0%,0.0%,80.0%,20.0%,0.0%,0.0%,80.0%,20.0%,45,18,27
+TORONTO BLUE JAYS,Zack Collins,batted-ball,Batter,Handedness,2022,vs R,0.14,27.3%,9.1%,63.6%,4.8%,19.0%,0.0%,0.0%,48.5%,24.2%,27.3%,6.1%,57.6%,36.4%,276,116,160
+TORONTO BLUE JAYS,Cavan Biggio,batted-ball,Batter,Handedness,2022,vs L as L,0.60,27.3%,27.3%,45.5%,20.0%,0.0%,33.3%,0.0%,63.6%,18.2%,18.2%,18.2%,45.5%,36.4%,105,48,57
+TORONTO BLUE JAYS,Cavan Biggio,batted-ball,Batter,Handedness,2022,vs R as L,0.83,23.2%,34.8%,42.0%,3.4%,6.9%,4.2%,0.0%,40.8%,38.0%,21.1%,12.7%,56.3%,31.0%,556,217,339
+TORONTO BLUE JAYS,Cavan Biggio,batted-ball,Batter,Handedness,2022,vs L,0.60,27.3%,27.3%,45.5%,20.0%,0.0%,33.3%,0.0%,63.6%,18.2%,18.2%,18.2%,45.5%,36.4%,105,48,57
+TORONTO BLUE JAYS,Cavan Biggio,batted-ball,Batter,Handedness,2022,vs R,0.83,23.2%,34.8%,42.0%,3.4%,6.9%,4.2%,0.0%,40.8%,38.0%,21.1%,12.7%,56.3%,31.0%,556,217,339
+TORONTO BLUE JAYS,Raimel Tapia,batted-ball,Batter,Handedness,2022,vs L as L,5.00,45.5%,45.5%,9.1%,0.0%,0.0%,10.0%,0.0%,31.8%,27.3%,40.9%,27.3%,45.5%,27.3%,126,33,93
+TORONTO BLUE JAYS,Raimel Tapia,batted-ball,Batter,Handedness,2022,vs R as L,1.75,20.0%,50.9%,29.1%,8.3%,8.3%,7.1%,0.0%,35.7%,39.9%,24.4%,17.9%,51.2%,31.0%,745,227,518
+TORONTO BLUE JAYS,Raimel Tapia,batted-ball,Batter,Handedness,2022,vs L,5.00,45.5%,45.5%,9.1%,0.0%,0.0%,10.0%,0.0%,31.8%,27.3%,40.9%,27.3%,45.5%,27.3%,126,33,93
+TORONTO BLUE JAYS,Raimel Tapia,batted-ball,Batter,Handedness,2022,vs R,1.75,20.0%,50.9%,29.1%,8.3%,8.3%,7.1%,0.0%,35.7%,39.9%,24.4%,17.9%,51.2%,31.0%,745,227,518
+TORONTO BLUE JAYS,Bradley Zimmer,batted-ball,Batter,Handedness,2022,vs L as L,5.00,14.3%,71.4%,14.3%,100.0%,0.0%,0.0%,50.0%,44.4%,44.4%,11.1%,33.3%,55.6%,11.1%,76,23,53
+TORONTO BLUE JAYS,Bradley Zimmer,batted-ball,Batter,Handedness,2022,vs R as L,0.87,6.7%,43.3%,50.0%,6.7%,13.3%,7.7%,50.0%,31.3%,43.8%,25.0%,12.5%,53.1%,34.4%,223,79,144
+TORONTO BLUE JAYS,Bradley Zimmer,batted-ball,Batter,Handedness,2022,vs L,5.00,14.3%,71.4%,14.3%,100.0%,0.0%,0.0%,50.0%,44.4%,44.4%,11.1%,33.3%,55.6%,11.1%,76,23,53
+TORONTO BLUE JAYS,Bradley Zimmer,batted-ball,Batter,Handedness,2022,vs R,0.87,6.7%,43.3%,50.0%,6.7%,13.3%,7.7%,50.0%,31.3%,43.8%,25.0%,12.5%,53.1%,34.4%,223,79,144

@@ -1,0 +1,5 @@
+Player,Date,Team,Opp,GS,W,L,ERA,G,GS2,CG,ShO,SV,HLD,BS,IP,TBF,H,R,ER,HR,BB,IBB,HBP,WP,BK,SO,GSv2
+Jackson Tetreault,2022-07-02,WSN,MIA,1,0,1,9.00,1,1,0,0,0,0,0,4.0,21,4,4,4,1,5,0,0,0,0,1,28
+Jackson Tetreault,2022-06-26,WSN,@TEX,1,1,0,1.50,1,1,0,0,0,0,0,6.0,23,4,1,1,0,2,0,0,0,0,4,64
+Jackson Tetreault,2022-06-19,WSN,PHI,1,1,0,0.00,1,1,0,0,0,0,0,7.0,30,6,3,0,0,2,0,0,0,0,2,58
+Jackson Tetreault,2022-06-14,WSN,ATL,1,0,1,15.75,1,1,0,0,0,0,0,4.0,22,9,7,7,3,1,0,0,0,0,2,6

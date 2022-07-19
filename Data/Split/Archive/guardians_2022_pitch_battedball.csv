@@ -1,0 +1,31 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+CLEVELAND GUARDIANS,Ernie Clement,batted-ball,Pitcher,Handedness,2022,vs L,0.00,33.3%,0.0%,66.7%,0.0%,50.0%,0.0%,0.0%,33.3%,0.0%,66.7%,0.0%,33.3%,66.7%,10,5,5
+CLEVELAND GUARDIANS,Ernie Clement,batted-ball,Pitcher,Handedness,2022,vs R,5.00,25.0%,62.5%,12.5%,0.0%,100.0%,0.0%,0.0%,50.0%,12.5%,37.5%,0.0%,75.0%,25.0%,32,11,21
+CLEVELAND GUARDIANS,Shane Bieber,batted-ball,Pitcher,Handedness,2022,vs L,1.33,18.4%,46.5%,35.1%,5.0%,7.5%,5.7%,0.0%,42.6%,27.8%,29.6%,12.2%,50.4%,37.4%,676,224,452
+CLEVELAND GUARDIANS,Shane Bieber,batted-ball,Pitcher,Handedness,2022,vs R,1.43,26.7%,43.2%,30.1%,7.5%,7.5%,5.3%,0.0%,38.4%,39.0%,22.6%,14.7%,54.8%,30.5%,878,299,579
+CLEVELAND GUARDIANS,Aaron Civale,batted-ball,Pitcher,Handedness,2022,vs L,0.96,25.8%,36.4%,37.9%,4.0%,12.0%,8.3%,0.0%,55.2%,31.3%,13.4%,16.4%,52.2%,31.3%,420,147,273
+CLEVELAND GUARDIANS,Aaron Civale,batted-ball,Pitcher,Handedness,2022,vs R,1.03,20.6%,40.2%,39.2%,15.8%,13.2%,5.1%,0.0%,45.4%,32.0%,22.7%,14.4%,57.7%,27.8%,519,190,329
+CLEVELAND GUARDIANS,Triston McKenzie,batted-ball,Pitcher,Handedness,2022,vs L,0.51,15.9%,28.4%,55.7%,16.3%,12.2%,12.0%,0.0%,37.1%,34.8%,28.1%,13.5%,42.7%,43.8%,593,225,368
+CLEVELAND GUARDIANS,Triston McKenzie,batted-ball,Pitcher,Handedness,2022,vs R,0.69,17.0%,34.0%,49.1%,9.0%,12.8%,1.9%,33.3%,38.3%,38.9%,22.8%,11.7%,50.6%,37.7%,796,272,524
+CLEVELAND GUARDIANS,Zach Plesac,batted-ball,Pitcher,Handedness,2022,vs L,0.84,21.7%,35.7%,42.7%,4.9%,11.5%,3.9%,50.0%,49.0%,28.3%,22.8%,11.7%,55.9%,32.4%,675,241,434
+CLEVELAND GUARDIANS,Zach Plesac,batted-ball,Pitcher,Handedness,2022,vs R,1.38,21.4%,45.5%,33.1%,6.3%,8.3%,3.0%,0.0%,47.6%,31.0%,21.4%,13.1%,54.5%,32.4%,742,238,504
+CLEVELAND GUARDIANS,Cal Quantrill,batted-ball,Pitcher,Handedness,2022,vs L,0.94,23.4%,37.1%,39.5%,12.2%,12.2%,4.3%,0.0%,29.6%,35.2%,35.2%,10.4%,54.4%,35.2%,677,260,417
+CLEVELAND GUARDIANS,Cal Quantrill,batted-ball,Pitcher,Handedness,2022,vs R,1.17,22.1%,42.0%,35.9%,10.8%,9.2%,3.9%,50.0%,41.0%,34.4%,24.6%,19.7%,51.9%,28.4%,797,257,540
+CLEVELAND GUARDIANS,Emmanuel Clase,batted-ball,Pitcher,Handedness,2022,vs L,3.29,16.7%,63.9%,19.4%,28.6%,28.6%,0.0%,50.0%,47.4%,42.1%,10.5%,26.3%,60.5%,13.2%,188,39,149
+CLEVELAND GUARDIANS,Emmanuel Clase,batted-ball,Pitcher,Handedness,2022,vs R,3.20,23.6%,58.2%,18.2%,0.0%,0.0%,6.3%,0.0%,36.4%,36.4%,27.3%,10.9%,67.3%,21.8%,276,78,198
+CLEVELAND GUARDIANS,Trevor Stephan,batted-ball,Pitcher,Handedness,2022,vs L,2.22,23.7%,52.6%,23.7%,0.0%,11.1%,10.0%,0.0%,39.5%,18.4%,42.1%,15.8%,55.3%,28.9%,210,74,136
+CLEVELAND GUARDIANS,Trevor Stephan,batted-ball,Pitcher,Handedness,2022,vs R,0.77,13.2%,37.7%,49.1%,11.5%,3.8%,0.0%,0.0%,35.2%,37.0%,27.8%,11.1%,63.0%,25.9%,310,110,200
+CLEVELAND GUARDIANS,Eli Morgan,batted-ball,Pitcher,Handedness,2022,vs L,0.48,15.0%,27.5%,57.5%,26.1%,17.4%,9.1%,0.0%,40.0%,27.5%,32.5%,22.5%,42.5%,35.0%,201,55,146
+CLEVELAND GUARDIANS,Eli Morgan,batted-ball,Pitcher,Handedness,2022,vs R,0.76,21.3%,34.0%,44.7%,9.5%,9.5%,6.3%,0.0%,37.5%,33.3%,29.2%,14.6%,50.0%,35.4%,361,119,242
+CLEVELAND GUARDIANS,Bryan Shaw,batted-ball,Pitcher,Handedness,2022,vs L,3.67,9.7%,71.0%,19.4%,16.7%,0.0%,9.1%,0.0%,41.9%,32.3%,25.8%,19.4%,54.8%,25.8%,179,67,112
+CLEVELAND GUARDIANS,Bryan Shaw,batted-ball,Pitcher,Handedness,2022,vs R,1.43,13.6%,50.8%,35.6%,9.5%,33.3%,6.7%,0.0%,28.8%,44.1%,27.1%,8.5%,59.3%,32.2%,303,111,192
+CLEVELAND GUARDIANS,Sam Hentges,batted-ball,Pitcher,Handedness,2022,vs L,2.67,24.1%,55.2%,20.7%,16.7%,0.0%,6.3%,0.0%,46.7%,36.7%,16.7%,13.3%,53.3%,33.3%,204,68,136
+CLEVELAND GUARDIANS,Sam Hentges,batted-ball,Pitcher,Handedness,2022,vs R,2.23,16.0%,58.0%,26.0%,7.7%,23.1%,6.9%,0.0%,38.0%,42.0%,20.0%,22.0%,42.0%,36.0%,305,116,189
+CLEVELAND GUARDIANS,James Karinchak,batted-ball,Pitcher,Handedness,2022,vs L,0.00,33.3%,0.0%,66.7%,0.0%,0.0%,0.0%,0.0%,66.7%,33.3%,0.0%,0.0%,33.3%,66.7%,29,10,19
+CLEVELAND GUARDIANS,James Karinchak,batted-ball,Pitcher,Handedness,2022,vs R,1.00,33.3%,33.3%,33.3%,0.0%,0.0%,0.0%,0.0%,33.3%,33.3%,33.3%,11.1%,33.3%,55.6%,72,32,40
+CLEVELAND GUARDIANS,Nick Sandlin,batted-ball,Pitcher,Handedness,2022,vs L,3.20,12.5%,66.7%,20.8%,0.0%,0.0%,18.8%,100.0%,40.0%,40.0%,20.0%,28.0%,40.0%,32.0%,155,67,88
+CLEVELAND GUARDIANS,Nick Sandlin,batted-ball,Pitcher,Handedness,2022,vs R,1.43,5.6%,55.6%,38.9%,14.3%,14.3%,0.0%,0.0%,44.4%,33.3%,22.2%,27.8%,58.3%,13.9%,281,112,169
+CLEVELAND GUARDIANS,Enyel De Los Santos,batted-ball,Pitcher,Handedness,2022,vs L,0.64,28.0%,28.0%,44.0%,0.0%,9.1%,0.0%,0.0%,36.0%,36.0%,28.0%,8.0%,52.0%,40.0%,140,61,79
+CLEVELAND GUARDIANS,Enyel De Los Santos,batted-ball,Pitcher,Handedness,2022,vs R,2.00,28.9%,47.4%,23.7%,11.1%,11.1%,5.6%,0.0%,43.6%,30.8%,25.6%,20.5%,43.6%,35.9%,287,85,202
+CLEVELAND GUARDIANS,Anthony Gose,batted-ball,Pitcher,Handedness,2022,vs L,0.86,27.8%,33.3%,38.9%,28.6%,28.6%,0.0%,0.0%,33.3%,38.9%,27.8%,16.7%,38.9%,44.4%,131,52,79
+CLEVELAND GUARDIANS,Anthony Gose,batted-ball,Pitcher,Handedness,2022,vs R,0.39,19.4%,22.6%,58.1%,11.1%,11.1%,0.0%,0.0%,41.9%,45.2%,12.9%,9.7%,54.8%,35.5%,262,109,153

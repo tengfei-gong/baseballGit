@@ -1,0 +1,53 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+WASHINGTON NATIONALS,Luis García,batted-ball,Batter,Handedness,2022,vs L as L,7.33,26.5%,64.7%,8.8%,0.0%,0.0%,4.5%,0.0%,41.2%,38.2%,20.6%,26.5%,50.0%,23.5%,152,41,111
+WASHINGTON NATIONALS,Luis García,batted-ball,Batter,Handedness,2022,vs R as L,1.36,16.5%,48.1%,35.4%,0.0%,7.1%,0.0%,0.0%,30.4%,45.6%,24.1%,6.3%,55.7%,38.0%,357,99,258
+WASHINGTON NATIONALS,Luis García,batted-ball,Batter,Handedness,2022,vs L,7.33,26.5%,64.7%,8.8%,0.0%,0.0%,4.5%,0.0%,41.2%,38.2%,20.6%,26.5%,50.0%,23.5%,152,41,111
+WASHINGTON NATIONALS,Luis García,batted-ball,Batter,Handedness,2022,vs R,1.36,16.5%,48.1%,35.4%,0.0%,7.1%,0.0%,0.0%,30.4%,45.6%,24.1%,6.3%,55.7%,38.0%,357,99,258
+WASHINGTON NATIONALS,Josh Bell,batted-ball,Batter,Handedness,2022,vs R as L,1.67,19.0%,50.6%,30.4%,7.8%,13.7%,4.7%,0.0%,44.6%,33.9%,21.4%,17.9%,51.2%,31.0%,866,340,526
+WASHINGTON NATIONALS,Josh Bell,batted-ball,Batter,Handedness,2022,vs L as R,1.47,22.5%,46.1%,31.4%,9.4%,15.6%,2.1%,0.0%,35.3%,34.3%,30.4%,11.8%,62.7%,25.5%,476,187,289
+WASHINGTON NATIONALS,Josh Bell,batted-ball,Batter,Handedness,2022,vs L,1.47,22.5%,46.1%,31.4%,9.4%,15.6%,2.1%,0.0%,35.3%,34.3%,30.4%,11.8%,62.7%,25.5%,476,187,289
+WASHINGTON NATIONALS,Josh Bell,batted-ball,Batter,Handedness,2022,vs R,1.67,19.0%,50.6%,30.4%,7.8%,13.7%,4.7%,0.0%,44.6%,33.9%,21.4%,17.9%,51.2%,31.0%,866,340,526
+WASHINGTON NATIONALS,Juan Soto,batted-ball,Batter,Handedness,2022,vs L as L,1.21,14.8%,46.6%,38.6%,11.8%,14.7%,0.0%,0.0%,31.8%,40.9%,27.3%,21.6%,51.1%,27.3%,574,249,325
+WASHINGTON NATIONALS,Juan Soto,batted-ball,Batter,Handedness,2022,vs R as L,1.48,13.4%,51.7%,34.9%,3.8%,23.1%,5.2%,100.0%,34.7%,39.3%,26.0%,24.0%,48.0%,28.0%,967,444,523
+WASHINGTON NATIONALS,Juan Soto,batted-ball,Batter,Handedness,2022,vs L,1.21,14.8%,46.6%,38.6%,11.8%,14.7%,0.0%,0.0%,31.8%,40.9%,27.3%,21.6%,51.1%,27.3%,574,249,325
+WASHINGTON NATIONALS,Juan Soto,batted-ball,Batter,Handedness,2022,vs R,1.48,13.4%,51.7%,34.9%,3.8%,23.1%,5.2%,100.0%,34.7%,39.3%,26.0%,24.0%,48.0%,28.0%,967,444,523
+WASHINGTON NATIONALS,Nelson Cruz,batted-ball,Batter,Handedness,2022,vs L as R,1.90,21.8%,51.3%,26.9%,0.0%,14.3%,7.5%,0.0%,38.5%,35.9%,25.6%,15.4%,57.7%,26.9%,448,174,274
+WASHINGTON NATIONALS,Nelson Cruz,batted-ball,Batter,Handedness,2022,vs R as R,1.60,18.2%,50.3%,31.5%,15.6%,11.1%,6.9%,0.0%,35.0%,34.3%,30.8%,15.4%,48.3%,36.4%,890,323,567
+WASHINGTON NATIONALS,Nelson Cruz,batted-ball,Batter,Handedness,2022,vs L,1.90,21.8%,51.3%,26.9%,0.0%,14.3%,7.5%,0.0%,38.5%,35.9%,25.6%,15.4%,57.7%,26.9%,448,174,274
+WASHINGTON NATIONALS,Nelson Cruz,batted-ball,Batter,Handedness,2022,vs R,1.60,18.2%,50.3%,31.5%,15.6%,11.1%,6.9%,0.0%,35.0%,34.3%,30.8%,15.4%,48.3%,36.4%,890,323,567
+WASHINGTON NATIONALS,Yadiel Hernandez,batted-ball,Batter,Handedness,2022,vs L as L,2.25,25.7%,51.4%,22.9%,0.0%,0.0%,0.0%,0.0%,31.4%,40.0%,28.6%,22.9%,60.0%,17.1%,173,56,117
+WASHINGTON NATIONALS,Yadiel Hernandez,batted-ball,Batter,Handedness,2022,vs R as L,1.92,21.6%,51.5%,26.9%,0.0%,16.7%,4.3%,0.0%,32.1%,41.0%,26.9%,13.4%,51.5%,35.1%,792,279,513
+WASHINGTON NATIONALS,Yadiel Hernandez,batted-ball,Batter,Handedness,2022,vs L,2.25,25.7%,51.4%,22.9%,0.0%,0.0%,0.0%,0.0%,31.4%,40.0%,28.6%,22.9%,60.0%,17.1%,173,56,117
+WASHINGTON NATIONALS,Yadiel Hernandez,batted-ball,Batter,Handedness,2022,vs R,1.92,21.6%,51.5%,26.9%,0.0%,16.7%,4.3%,0.0%,32.1%,41.0%,26.9%,13.4%,51.5%,35.1%,792,279,513
+WASHINGTON NATIONALS,César Hernández,batted-ball,Batter,Handedness,2022,vs R as L,1.58,24.9%,46.0%,29.1%,14.5%,0.0%,9.2%,50.0%,35.4%,31.8%,32.8%,24.1%,54.9%,21.0%,992,365,627
+WASHINGTON NATIONALS,César Hernández,batted-ball,Batter,Handedness,2022,vs L as R,2.05,23.8%,51.2%,25.0%,9.5%,0.0%,4.7%,33.3%,42.5%,39.1%,18.4%,17.2%,49.4%,33.3%,424,151,273
+WASHINGTON NATIONALS,César Hernández,batted-ball,Batter,Handedness,2022,vs L,2.05,23.8%,51.2%,25.0%,9.5%,0.0%,4.7%,33.3%,42.5%,39.1%,18.4%,17.2%,49.4%,33.3%,424,151,273
+WASHINGTON NATIONALS,César Hernández,batted-ball,Batter,Handedness,2022,vs R,1.58,24.9%,46.0%,29.1%,14.5%,0.0%,9.2%,50.0%,35.4%,31.8%,32.8%,24.1%,54.9%,21.0%,992,365,627
+WASHINGTON NATIONALS,Keibert Ruiz,batted-ball,Batter,Handedness,2022,vs R as L,1.00,26.5%,36.7%,36.7%,13.1%,4.9%,4.9%,0.0%,50.6%,33.1%,16.3%,14.5%,57.8%,27.7%,701,252,449
+WASHINGTON NATIONALS,Keibert Ruiz,batted-ball,Batter,Handedness,2022,vs L as R,1.24,29.6%,38.9%,31.5%,5.9%,0.0%,9.5%,0.0%,47.3%,40.0%,12.7%,18.2%,67.3%,14.5%,251,94,157
+WASHINGTON NATIONALS,Keibert Ruiz,batted-ball,Batter,Handedness,2022,vs L,1.24,29.6%,38.9%,31.5%,5.9%,0.0%,9.5%,0.0%,47.3%,40.0%,12.7%,18.2%,67.3%,14.5%,251,94,157
+WASHINGTON NATIONALS,Keibert Ruiz,batted-ball,Batter,Handedness,2022,vs R,1.00,26.5%,36.7%,36.7%,13.1%,4.9%,4.9%,0.0%,50.6%,33.1%,16.3%,14.5%,57.8%,27.7%,701,252,449
+WASHINGTON NATIONALS,Maikel Franco,batted-ball,Batter,Handedness,2022,vs L as R,2.13,25.4%,50.7%,23.9%,12.5%,6.3%,2.9%,0.0%,40.3%,38.8%,20.9%,22.4%,52.2%,25.4%,372,118,254
+WASHINGTON NATIONALS,Maikel Franco,batted-ball,Batter,Handedness,2022,vs R as R,0.96,20.6%,38.9%,40.6%,15.1%,8.2%,2.9%,0.0%,47.8%,31.1%,21.1%,21.1%,48.3%,30.6%,792,240,552
+WASHINGTON NATIONALS,Maikel Franco,batted-ball,Batter,Handedness,2022,vs L,2.13,25.4%,50.7%,23.9%,12.5%,6.3%,2.9%,0.0%,40.3%,38.8%,20.9%,22.4%,52.2%,25.4%,372,118,254
+WASHINGTON NATIONALS,Maikel Franco,batted-ball,Batter,Handedness,2022,vs R,0.96,20.6%,38.9%,40.6%,15.1%,8.2%,2.9%,0.0%,47.8%,31.1%,21.1%,21.1%,48.3%,30.6%,792,240,552
+WASHINGTON NATIONALS,Lane Thomas,batted-ball,Batter,Handedness,2022,vs L as R,1.07,23.5%,39.5%,37.0%,13.3%,16.7%,15.6%,0.0%,35.8%,33.3%,30.9%,29.6%,45.7%,24.7%,384,128,256
+WASHINGTON NATIONALS,Lane Thomas,batted-ball,Batter,Handedness,2022,vs R as R,1.17,11.9%,47.5%,40.6%,19.5%,9.8%,8.3%,0.0%,40.6%,39.6%,19.8%,22.8%,48.5%,28.7%,646,233,413
+WASHINGTON NATIONALS,Lane Thomas,batted-ball,Batter,Handedness,2022,vs L,1.07,23.5%,39.5%,37.0%,13.3%,16.7%,15.6%,0.0%,35.8%,33.3%,30.9%,29.6%,45.7%,24.7%,384,128,256
+WASHINGTON NATIONALS,Lane Thomas,batted-ball,Batter,Handedness,2022,vs R,1.17,11.9%,47.5%,40.6%,19.5%,9.8%,8.3%,0.0%,40.6%,39.6%,19.8%,22.8%,48.5%,28.7%,646,233,413
+WASHINGTON NATIONALS,Tres Barrera,batted-ball,Batter,Handedness,2022,vs L as R,0.67,16.7%,33.3%,50.0%,33.3%,0.0%,0.0%,0.0%,66.7%,33.3%,0.0%,33.3%,50.0%,16.7%,29,9,20
+WASHINGTON NATIONALS,Tres Barrera,batted-ball,Batter,Handedness,2022,vs R as R,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,100.0%,0.0%,1,0,1
+WASHINGTON NATIONALS,Tres Barrera,batted-ball,Batter,Handedness,2022,vs L,0.67,16.7%,33.3%,50.0%,33.3%,0.0%,0.0%,0.0%,66.7%,33.3%,0.0%,33.3%,50.0%,16.7%,29,9,20
+WASHINGTON NATIONALS,Tres Barrera,batted-ball,Batter,Handedness,2022,vs R,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,100.0%,0.0%,1,0,1
+WASHINGTON NATIONALS,Alcides Escobar,batted-ball,Batter,Handedness,2022,vs L as R,0.62,25.0%,28.6%,46.4%,15.4%,0.0%,0.0%,100.0%,31.0%,37.9%,31.0%,34.5%,55.2%,10.3%,161,50,111
+WASHINGTON NATIONALS,Alcides Escobar,batted-ball,Batter,Handedness,2022,vs R as R,1.41,32.8%,39.3%,27.9%,5.9%,0.0%,0.0%,0.0%,26.2%,45.9%,27.9%,23.0%,65.6%,11.5%,339,98,241
+WASHINGTON NATIONALS,Alcides Escobar,batted-ball,Batter,Handedness,2022,vs L,0.62,25.0%,28.6%,46.4%,15.4%,0.0%,0.0%,100.0%,31.0%,37.9%,31.0%,34.5%,55.2%,10.3%,161,50,111
+WASHINGTON NATIONALS,Alcides Escobar,batted-ball,Batter,Handedness,2022,vs R,1.41,32.8%,39.3%,27.9%,5.9%,0.0%,0.0%,0.0%,26.2%,45.9%,27.9%,23.0%,65.6%,11.5%,339,98,241
+WASHINGTON NATIONALS,Ehire Adrianza,batted-ball,Batter,Handedness,2022,vs R as L,1.11,24.0%,40.0%,36.0%,22.2%,0.0%,0.0%,0.0%,44.0%,32.0%,24.0%,20.0%,64.0%,16.0%,137,46,91
+WASHINGTON NATIONALS,Ehire Adrianza,batted-ball,Batter,Handedness,2022,vs L as R,2.50,12.5%,62.5%,25.0%,25.0%,0.0%,10.0%,50.0%,44.4%,44.4%,11.1%,11.1%,66.7%,22.2%,112,37,75
+WASHINGTON NATIONALS,Ehire Adrianza,batted-ball,Batter,Handedness,2022,vs L,2.50,12.5%,62.5%,25.0%,25.0%,0.0%,10.0%,50.0%,44.4%,44.4%,11.1%,11.1%,66.7%,22.2%,112,37,75
+WASHINGTON NATIONALS,Ehire Adrianza,batted-ball,Batter,Handedness,2022,vs R,1.11,24.0%,40.0%,36.0%,22.2%,0.0%,0.0%,0.0%,44.0%,32.0%,24.0%,20.0%,64.0%,16.0%,137,46,91
+WASHINGTON NATIONALS,Victor Robles,batted-ball,Batter,Handedness,2022,vs L as R,1.06,28.3%,37.0%,34.8%,18.8%,0.0%,0.0%,12.5%,38.9%,37.0%,24.1%,20.4%,55.6%,24.1%,262,93,169
+WASHINGTON NATIONALS,Victor Robles,batted-ball,Batter,Handedness,2022,vs R as R,1.25,19.2%,44.9%,35.9%,14.3%,3.6%,8.6%,33.3%,47.8%,26.7%,25.6%,25.6%,56.7%,17.8%,505,165,340
+WASHINGTON NATIONALS,Victor Robles,batted-ball,Batter,Handedness,2022,vs L,1.06,28.3%,37.0%,34.8%,18.8%,0.0%,0.0%,12.5%,38.9%,37.0%,24.1%,20.4%,55.6%,24.1%,262,93,169
+WASHINGTON NATIONALS,Victor Robles,batted-ball,Batter,Handedness,2022,vs R,1.25,19.2%,44.9%,35.9%,14.3%,3.6%,8.6%,33.3%,47.8%,26.7%,25.6%,25.6%,56.7%,17.8%,505,165,340

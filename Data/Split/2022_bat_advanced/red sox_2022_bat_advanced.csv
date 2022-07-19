@@ -1,0 +1,81 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+BOSTON RED SOX,Jarren Duran,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,0.16,0.192,0.2,0.392,0.04,0.25,0,-2.8,0.177,4
+BOSTON RED SOX,Jarren Duran,advanced,Batter,Handedness,2022,vs R as L,7.7%,21.8%,0.35,0.31,0.372,0.507,0.879,0.197,0.396,13,4.3,0.379,145
+BOSTON RED SOX,Jarren Duran,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,0.16,0.192,0.2,0.392,0.04,0.25,0,-2.8,0.177,4
+BOSTON RED SOX,Jarren Duran,advanced,Batter,Handedness,2022,vs R,7.7%,21.8%,0.35,0.31,0.372,0.507,0.879,0.197,0.396,13,4.3,0.379,145
+BOSTON RED SOX,Rafael Devers,advanced,Batter,Handedness,2022,vs L as L,3.2%,25.5%,0.13,0.315,0.351,0.494,0.845,0.18,0.403,15,4.2,0.367,137
+BOSTON RED SOX,Rafael Devers,advanced,Batter,Handedness,2022,vs R as L,8.0%,15.2%,0.53,0.331,0.394,0.623,1.017,0.293,0.344,55,24.9,0.428,180
+BOSTON RED SOX,Rafael Devers,advanced,Batter,Handedness,2022,vs L,3.2%,25.5%,0.13,0.315,0.351,0.494,0.845,0.18,0.403,15,4.2,0.367,137
+BOSTON RED SOX,Rafael Devers,advanced,Batter,Handedness,2022,vs R,8.0%,15.2%,0.53,0.331,0.394,0.623,1.017,0.293,0.344,55,24.9,0.428,180
+BOSTON RED SOX,J.D. Martinez,advanced,Batter,Handedness,2022,vs L as R,16.4%,16.4%,1.0,0.393,0.493,0.639,1.132,0.246,0.468,18,9.9,0.48,216
+BOSTON RED SOX,J.D. Martinez,advanced,Batter,Handedness,2022,vs R as R,6.8%,25.0%,0.27,0.293,0.348,0.464,0.813,0.172,0.373,39,8.9,0.352,127
+BOSTON RED SOX,J.D. Martinez,advanced,Batter,Handedness,2022,vs L,16.4%,16.4%,1.0,0.393,0.493,0.639,1.132,0.246,0.468,18,9.9,0.48,216
+BOSTON RED SOX,J.D. Martinez,advanced,Batter,Handedness,2022,vs R,6.8%,25.0%,0.27,0.293,0.348,0.464,0.813,0.172,0.373,39,8.9,0.352,127
+BOSTON RED SOX,Xander Bogaerts,advanced,Batter,Handedness,2022,vs L as R,15.2%,13.9%,1.09,0.364,0.468,0.545,1.014,0.182,0.415,17,8.1,0.438,187
+BOSTON RED SOX,Xander Bogaerts,advanced,Batter,Handedness,2022,vs R as R,8.6%,21.5%,0.4,0.297,0.366,0.423,0.788,0.126,0.368,40,7.8,0.345,122
+BOSTON RED SOX,Xander Bogaerts,advanced,Batter,Handedness,2022,vs L,15.2%,13.9%,1.09,0.364,0.468,0.545,1.014,0.182,0.415,17,8.1,0.438,187
+BOSTON RED SOX,Xander Bogaerts,advanced,Batter,Handedness,2022,vs R,8.6%,21.5%,0.4,0.297,0.366,0.423,0.788,0.126,0.368,40,7.8,0.345,122
+BOSTON RED SOX,Alex Verdugo,advanced,Batter,Handedness,2022,vs L as L,8.9%,8.9%,1.0,0.296,0.356,0.383,0.738,0.086,0.324,12,1.2,0.327,108
+BOSTON RED SOX,Alex Verdugo,advanced,Batter,Handedness,2022,vs R as L,5.5%,10.6%,0.52,0.258,0.299,0.381,0.681,0.123,0.267,26,-3.2,0.294,86
+BOSTON RED SOX,Alex Verdugo,advanced,Batter,Handedness,2022,vs L,8.9%,8.9%,1.0,0.296,0.356,0.383,0.738,0.086,0.324,12,1.2,0.327,108
+BOSTON RED SOX,Alex Verdugo,advanced,Batter,Handedness,2022,vs R,5.5%,10.6%,0.52,0.258,0.299,0.381,0.681,0.123,0.267,26,-3.2,0.294,86
+BOSTON RED SOX,Trevor Story,advanced,Batter,Handedness,2022,vs L as R,8.3%,34.5%,0.24,0.237,0.31,0.539,0.849,0.303,0.293,12,2.7,0.35,125
+BOSTON RED SOX,Trevor Story,advanced,Batter,Handedness,2022,vs R as R,8.1%,29.5%,0.28,0.216,0.283,0.385,0.668,0.169,0.273,26,-4.1,0.29,83
+BOSTON RED SOX,Trevor Story,advanced,Batter,Handedness,2022,vs L,8.3%,34.5%,0.24,0.237,0.31,0.539,0.849,0.303,0.293,12,2.7,0.35,125
+BOSTON RED SOX,Trevor Story,advanced,Batter,Handedness,2022,vs R,8.1%,29.5%,0.28,0.216,0.283,0.385,0.668,0.169,0.273,26,-4.1,0.29,83
+BOSTON RED SOX,Franchy Cordero,advanced,Batter,Handedness,2022,vs L as L,10.5%,39.5%,0.27,0.152,0.263,0.242,0.506,0.091,0.235,2,-2.2,0.239,47
+BOSTON RED SOX,Franchy Cordero,advanced,Batter,Handedness,2022,vs R as L,9.5%,27.8%,0.34,0.255,0.323,0.423,0.746,0.168,0.347,21,1.9,0.325,107
+BOSTON RED SOX,Franchy Cordero,advanced,Batter,Handedness,2022,vs L,10.5%,39.5%,0.27,0.152,0.263,0.242,0.506,0.091,0.235,2,-2.2,0.239,47
+BOSTON RED SOX,Franchy Cordero,advanced,Batter,Handedness,2022,vs R,9.5%,27.8%,0.34,0.255,0.323,0.423,0.746,0.168,0.347,21,1.9,0.325,107
+BOSTON RED SOX,Christian Vázquez,advanced,Batter,Handedness,2022,vs L as R,7.4%,16.2%,0.45,0.302,0.353,0.476,0.829,0.175,0.353,11,2.7,0.36,132
+BOSTON RED SOX,Christian Vázquez,advanced,Batter,Handedness,2022,vs R as R,5.1%,16.9%,0.3,0.279,0.323,0.402,0.725,0.123,0.317,24,1.0,0.317,102
+BOSTON RED SOX,Christian Vázquez,advanced,Batter,Handedness,2022,vs L,7.4%,16.2%,0.45,0.302,0.353,0.476,0.829,0.175,0.353,11,2.7,0.36,132
+BOSTON RED SOX,Christian Vázquez,advanced,Batter,Handedness,2022,vs R,5.1%,16.9%,0.3,0.279,0.323,0.402,0.725,0.123,0.317,24,1.0,0.317,102
+BOSTON RED SOX,Jackie Bradley Jr.,advanced,Batter,Handedness,2022,vs L as L,9.3%,23.3%,0.4,0.154,0.233,0.256,0.489,0.103,0.179,2,-3.0,0.224,36
+BOSTON RED SOX,Jackie Bradley Jr.,advanced,Batter,Handedness,2022,vs R as L,5.9%,19.8%,0.3,0.223,0.27,0.314,0.584,0.09,0.284,15,-8.2,0.259,61
+BOSTON RED SOX,Jackie Bradley Jr.,advanced,Batter,Handedness,2022,vs L,9.3%,23.3%,0.4,0.154,0.233,0.256,0.489,0.103,0.179,2,-3.0,0.224,36
+BOSTON RED SOX,Jackie Bradley Jr.,advanced,Batter,Handedness,2022,vs R,5.9%,19.8%,0.3,0.223,0.27,0.314,0.584,0.09,0.284,15,-8.2,0.259,61
+BOSTON RED SOX,Kevin Plawecki,advanced,Batter,Handedness,2022,vs L as R,4.2%,20.8%,0.2,0.045,0.125,0.045,0.17,0.0,0.059,-1,-4.1,0.096,-53
+BOSTON RED SOX,Kevin Plawecki,advanced,Batter,Handedness,2022,vs R as R,13.4%,17.9%,0.75,0.2,0.318,0.291,0.609,0.091,0.233,6,-1.5,0.282,77
+BOSTON RED SOX,Kevin Plawecki,advanced,Batter,Handedness,2022,vs L,4.2%,20.8%,0.2,0.045,0.125,0.045,0.17,0.0,0.059,-1,-4.1,0.096,-53
+BOSTON RED SOX,Kevin Plawecki,advanced,Batter,Handedness,2022,vs R,13.4%,17.9%,0.75,0.2,0.318,0.291,0.609,0.091,0.233,6,-1.5,0.282,77
+BOSTON RED SOX,Bobby Dalbec,advanced,Batter,Handedness,2022,vs L as R,15.4%,32.1%,0.48,0.234,0.372,0.391,0.762,0.156,0.333,11,2.2,0.345,121
+BOSTON RED SOX,Bobby Dalbec,advanced,Batter,Handedness,2022,vs R as R,6.8%,29.0%,0.23,0.196,0.253,0.318,0.571,0.122,0.26,11,-7.5,0.252,56
+BOSTON RED SOX,Bobby Dalbec,advanced,Batter,Handedness,2022,vs L,15.4%,32.1%,0.48,0.234,0.372,0.391,0.762,0.156,0.333,11,2.2,0.345,121
+BOSTON RED SOX,Bobby Dalbec,advanced,Batter,Handedness,2022,vs R,6.8%,29.0%,0.23,0.196,0.253,0.318,0.571,0.122,0.26,11,-7.5,0.252,56
+BOSTON RED SOX,Jeter Downs,advanced,Batter,Handedness,2022,vs L as R,16.7%,33.3%,0.5,0.5,0.6,0.5,1.1,0.0,1.0,2,0.9,0.492,224
+BOSTON RED SOX,Jeter Downs,advanced,Batter,Handedness,2022,vs R as R,0.0%,50.0%,0.0,0.25,0.25,0.25,0.5,0.0,0.5,0,-0.3,0.221,35
+BOSTON RED SOX,Jeter Downs,advanced,Batter,Handedness,2022,vs L,16.7%,33.3%,0.5,0.5,0.6,0.5,1.1,0.0,1.0,2,0.9,0.492,224
+BOSTON RED SOX,Jeter Downs,advanced,Batter,Handedness,2022,vs R,0.0%,50.0%,0.0,0.25,0.25,0.25,0.5,0.0,0.5,0,-0.3,0.221,35
+BOSTON RED SOX,Rob Refsnyder,advanced,Batter,Handedness,2022,vs L as R,7.9%,13.2%,0.6,0.441,0.474,0.706,1.18,0.265,0.464,10,5.6,0.496,227
+BOSTON RED SOX,Rob Refsnyder,advanced,Batter,Handedness,2022,vs R as R,11.6%,18.6%,0.63,0.229,0.349,0.371,0.72,0.143,0.259,5,0.5,0.323,106
+BOSTON RED SOX,Rob Refsnyder,advanced,Batter,Handedness,2022,vs L,7.9%,13.2%,0.6,0.441,0.474,0.706,1.18,0.265,0.464,10,5.6,0.496,227
+BOSTON RED SOX,Rob Refsnyder,advanced,Batter,Handedness,2022,vs R,11.6%,18.6%,0.63,0.229,0.349,0.371,0.72,0.143,0.259,5,0.5,0.323,106
+BOSTON RED SOX,Christian Arroyo,advanced,Batter,Handedness,2022,vs L as R,2.0%,22.0%,0.09,0.174,0.204,0.304,0.508,0.13,0.2,2,-3.6,0.22,34
+BOSTON RED SOX,Christian Arroyo,advanced,Batter,Handedness,2022,vs R as R,6.5%,10.4%,0.63,0.257,0.325,0.4,0.725,0.143,0.254,10,0.7,0.321,105
+BOSTON RED SOX,Christian Arroyo,advanced,Batter,Handedness,2022,vs L,2.0%,22.0%,0.09,0.174,0.204,0.304,0.508,0.13,0.2,2,-3.6,0.22,34
+BOSTON RED SOX,Christian Arroyo,advanced,Batter,Handedness,2022,vs R,6.5%,10.4%,0.63,0.257,0.325,0.4,0.725,0.143,0.254,10,0.7,0.321,105
+BOSTON RED SOX,Enrique Hernández,advanced,Batter,Handedness,2022,vs L as R,10.3%,17.2%,0.6,0.25,0.328,0.5,0.828,0.25,0.256,9,2.2,0.357,130
+BOSTON RED SOX,Enrique Hernández,advanced,Batter,Handedness,2022,vs R as R,6.7%,15.6%,0.43,0.196,0.256,0.288,0.544,0.092,0.226,11,-9.6,0.243,50
+BOSTON RED SOX,Enrique Hernández,advanced,Batter,Handedness,2022,vs L,10.3%,17.2%,0.6,0.25,0.328,0.5,0.828,0.25,0.256,9,2.2,0.357,130
+BOSTON RED SOX,Enrique Hernández,advanced,Batter,Handedness,2022,vs R,6.7%,15.6%,0.43,0.196,0.256,0.288,0.544,0.092,0.226,11,-9.6,0.243,50
+BOSTON RED SOX,Josh Winckowski,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+BOSTON RED SOX,Josh Winckowski,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+BOSTON RED SOX,Josh Winckowski,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+BOSTON RED SOX,Josh Winckowski,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+BOSTON RED SOX,Matt Barnes,advanced,Batter,Handedness,2022,vs L as L,3.0%,26.3%,0.12,.309,.343,.489,.833,.181,.400,15,4.0,.361,133
+BOSTON RED SOX,Matt Barnes,advanced,Batter,Handedness,2022,vs R as L,7.9%,15.0%,0.53,.335,.397,.636,1.033,.302,.346,57,26.5,.435,185
+BOSTON RED SOX,Matt Barnes,advanced,Batter,Handedness,2022,vs L,3.0%,26.3%,0.12,.309,.343,.489,.833,.181,.400,15,4.0,.361,133
+BOSTON RED SOX,Matt Barnes,advanced,Batter,Handedness,2022,vs R,7.9%,15.0%,0.53,.335,.397,.636,1.033,.302,.346,57,26.5,.435,185
+BOSTON RED SOX,Tyler Danish,advanced,Batter,Handedness,2022,vs L as R,15.8%,17.1%,0.92,.375,.474,.609,1.083,.234,.449,18,9.1,.461,203
+BOSTON RED SOX,Tyler Danish,advanced,Batter,Handedness,2022,vs R as R,7.1%,25.3%,0.28,.288,.346,.457,.803,.169,.368,39,8.2,.349,124
+BOSTON RED SOX,Tyler Danish,advanced,Batter,Handedness,2022,vs L,15.8%,17.1%,0.92,.375,.474,.609,1.083,.234,.449,18,9.1,.461,203
+BOSTON RED SOX,Tyler Danish,advanced,Batter,Handedness,2022,vs R,7.1%,25.3%,0.28,.288,.346,.457,.803,.169,.368,39,8.2,.349,124
+BOSTON RED SOX,Matt Strahm,advanced,Batter,Handedness,2022,vs L as R,14.6%,13.4%,1.09,.377,.476,.551,1.026,.174,.429,18,8.7,.444,191
+BOSTON RED SOX,Matt Strahm,advanced,Batter,Handedness,2022,vs R as R,8.5%,21.6%,0.39,.300,.367,.432,.799,.132,.372,41,8.8,.350,125
+BOSTON RED SOX,Matt Strahm,advanced,Batter,Handedness,2022,vs L,14.6%,13.4%,1.09,.377,.476,.551,1.026,.174,.429,18,8.7,.444,191
+BOSTON RED SOX,Matt Strahm,advanced,Batter,Handedness,2022,vs R,8.5%,21.6%,0.39,.300,.367,.432,.799,.132,.372,41,8.8,.350,125
+BOSTON RED SOX,Josh Taylor,advanced,Batter,Handedness,2022,vs L as L,8.6%,9.7%,0.89,.310,.366,.405,.770,.095,.342,13,2.1,.339,117
+BOSTON RED SOX,Josh Taylor,advanced,Batter,Handedness,2022,vs R as L,5.4%,10.9%,0.50,.254,.295,.375,.670,.121,.263,26,-4.2,.290,83
+BOSTON RED SOX,Josh Taylor,advanced,Batter,Handedness,2022,vs L,8.6%,9.7%,0.89,.310,.366,.405,.770,.095,.342,13,2.1,.339,117
+BOSTON RED SOX,Josh Taylor,advanced,Batter,Handedness,2022,vs R,5.4%,10.9%,0.50,.254,.295,.375,.670,.121,.263,26,-4.2,.290,83

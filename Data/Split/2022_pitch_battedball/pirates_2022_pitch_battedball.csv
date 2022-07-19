@@ -1,0 +1,43 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+PITTSBURGH PIRATES,Diego Castillo,batted-ball,Pitcher,Handedness,2022,vs L,5.0,0.0%,83.3%,16.7%,0.0%,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,66.7%,33.3%,26,13,13
+PITTSBURGH PIRATES,Diego Castillo,batted-ball,Pitcher,Handedness,2022,vs R,2.0,25.0%,50.0%,25.0%,0.0%,0.0%,50.0%,0.0%,75.0%,25.0%,0.0%,25.0%,50.0%,25.0%,34,21,13
+PITTSBURGH PIRATES,Josh VanMeter,batted-ball,Pitcher,Handedness,2022,vs L,2.0,40.0%,40.0%,20.0%,0.0%,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,40.0%,60.0%,25,12,13
+PITTSBURGH PIRATES,Josh VanMeter,batted-ball,Pitcher,Handedness,2022,vs R,0.67,25.0%,30.0%,45.0%,11.1%,44.4%,16.7%,0.0%,55.0%,20.0%,25.0%,20.0%,35.0%,45.0%,49,15,34
+PITTSBURGH PIRATES,José Quintana,batted-ball,Pitcher,Handedness,2022,vs L,1.63,34.4%,40.6%,25.0%,12.5%,0.0%,7.7%,0.0%,40.6%,31.3%,28.1%,25.0%,59.4%,15.6%,221,84,137
+PITTSBURGH PIRATES,José Quintana,batted-ball,Pitcher,Handedness,2022,vs R,1.26,22.3%,43.3%,34.4%,7.8%,9.1%,4.1%,100.0%,39.1%,39.6%,21.3%,19.6%,49.3%,31.1%,1243,470,773
+PITTSBURGH PIRATES,Mitch Keller,batted-ball,Pitcher,Handedness,2022,vs L,1.7,17.4%,52.1%,30.6%,13.5%,8.1%,4.8%,100.0%,40.2%,31.1%,28.7%,18.9%,58.2%,23.0%,706,264,442
+PITTSBURGH PIRATES,Mitch Keller,batted-ball,Pitcher,Handedness,2022,vs R,1.72,20.9%,50.0%,29.1%,10.3%,12.8%,4.5%,0.0%,29.9%,45.5%,24.6%,16.4%,50.0%,33.6%,722,284,438
+PITTSBURGH PIRATES,JT Brubaker,batted-ball,Pitcher,Handedness,2022,vs L,0.78,17.7%,36.2%,46.2%,8.3%,8.3%,4.3%,0.0%,40.0%,30.8%,29.2%,13.8%,51.5%,34.6%,745,272,473
+PITTSBURGH PIRATES,JT Brubaker,batted-ball,Pitcher,Handedness,2022,vs R,1.63,22.2%,48.1%,29.6%,15.0%,10.0%,10.8%,0.0%,48.9%,34.1%,17.0%,19.3%,55.6%,25.2%,713,262,451
+PITTSBURGH PIRATES,Zach Thompson,batted-ball,Pitcher,Handedness,2022,vs L,1.22,18.4%,44.9%,36.7%,19.4%,13.9%,11.4%,100.0%,40.4%,35.4%,24.2%,19.2%,52.5%,28.3%,564,225,339
+PITTSBURGH PIRATES,Zach Thompson,batted-ball,Pitcher,Handedness,2022,vs R,1.53,22.1%,47.1%,30.8%,9.4%,25.0%,2.0%,0.0%,59.6%,21.2%,19.2%,15.4%,51.9%,32.7%,523,185,338
+PITTSBURGH PIRATES,David Bednar,batted-ball,Pitcher,Handedness,2022,vs L,1.15,22.2%,41.7%,36.1%,7.7%,7.7%,20.0%,0.0%,61.1%,22.2%,16.7%,5.6%,63.9%,30.6%,296,103,193
+PITTSBURGH PIRATES,David Bednar,batted-ball,Pitcher,Handedness,2022,vs R,0.52,24.2%,25.8%,50.0%,6.5%,9.7%,6.3%,0.0%,29.0%,48.4%,22.6%,16.1%,59.7%,24.2%,372,128,244
+PITTSBURGH PIRATES,Yerry De Los Santos,batted-ball,Pitcher,Handedness,2022,vs L,1.11,5.0%,50.0%,45.0%,11.1%,22.2%,0.0%,0.0%,45.0%,45.0%,10.0%,20.0%,50.0%,30.0%,133,56,77
+PITTSBURGH PIRATES,Yerry De Los Santos,batted-ball,Pitcher,Handedness,2022,vs R,1.83,5.6%,61.1%,33.3%,16.7%,16.7%,0.0%,0.0%,47.4%,36.8%,15.8%,21.1%,63.2%,15.8%,131,39,92
+PITTSBURGH PIRATES,Wil Crowe,batted-ball,Pitcher,Handedness,2022,vs L,2.0,17.6%,54.9%,27.5%,21.4%,7.1%,10.7%,0.0%,55.8%,26.9%,17.3%,30.8%,53.8%,15.4%,379,151,228
+PITTSBURGH PIRATES,Wil Crowe,batted-ball,Pitcher,Handedness,2022,vs R,1.26,14.6%,47.6%,37.8%,3.2%,3.2%,2.6%,0.0%,42.2%,31.3%,26.5%,10.8%,71.1%,18.1%,535,209,326
+PITTSBURGH PIRATES,Chris Stratton,batted-ball,Pitcher,Handedness,2022,vs L,1.79,22.0%,50.0%,28.0%,7.1%,14.3%,12.0%,50.0%,44.2%,30.8%,25.0%,7.7%,61.5%,30.8%,259,94,165
+PITTSBURGH PIRATES,Chris Stratton,batted-ball,Pitcher,Handedness,2022,vs R,0.73,23.5%,32.4%,44.1%,13.3%,6.7%,9.1%,0.0%,33.8%,44.1%,22.1%,16.2%,45.6%,38.2%,407,138,269
+PITTSBURGH PIRATES,Duane Underwood Jr.,batted-ball,Pitcher,Handedness,2022,vs L,1.57,25.0%,45.8%,29.2%,14.3%,0.0%,9.1%,0.0%,56.0%,28.0%,16.0%,32.0%,44.0%,24.0%,153,47,106
+PITTSBURGH PIRATES,Duane Underwood Jr.,batted-ball,Pitcher,Handedness,2022,vs R,2.38,25.0%,52.8%,22.2%,12.5%,0.0%,0.0%,0.0%,52.8%,25.0%,22.2%,33.3%,50.0%,16.7%,204,82,122
+PITTSBURGH PIRATES,Dillon Peters,batted-ball,Pitcher,Handedness,2022,vs L,1.5,13.0%,52.2%,34.8%,0.0%,12.5%,0.0%,0.0%,33.3%,33.3%,33.3%,29.2%,45.8%,25.0%,141,49,92
+PITTSBURGH PIRATES,Dillon Peters,batted-ball,Pitcher,Handedness,2022,vs R,1.16,18.0%,44.0%,38.0%,15.8%,0.0%,4.5%,0.0%,54.0%,32.0%,14.0%,18.0%,60.0%,22.0%,305,130,175
+PITTSBURGH PIRATES,Chase De Jong,batted-ball,Pitcher,Handedness,2022,vs L,0.55,20.9%,27.9%,51.2%,9.1%,13.6%,0.0%,0.0%,41.9%,39.5%,18.6%,16.3%,51.2%,32.6%,228,87,141
+PITTSBURGH PIRATES,Chase De Jong,batted-ball,Pitcher,Handedness,2022,vs R,0.58,20.8%,29.2%,50.0%,25.0%,12.5%,0.0%,0.0%,45.8%,37.5%,16.7%,33.3%,41.7%,25.0%,306,122,184
+PITTSBURGH PIRATES,Manny Bañuelos,batted-ball,Pitcher,Handedness,2022,vs L,1.0,20.0%,40.0%,40.0%,0.0%,0.0%,0.0%,0.0%,0.0%,60.0%,40.0%,60.0%,40.0%,0.0%,51,20,31
+PITTSBURGH PIRATES,Manny Bañuelos,batted-ball,Pitcher,Handedness,2022,vs R,2.33,16.7%,58.3%,25.0%,0.0%,16.7%,7.1%,0.0%,45.8%,41.7%,12.5%,16.7%,50.0%,33.3%,142,60,82
+PITTSBURGH PIRATES,Tyler Beede,batted-ball,Pitcher,Handedness,2022,vs L,1.05,26.8%,37.5%,35.7%,10.0%,10.0%,0.0%,100.0%,43.9%,29.8%,26.3%,12.3%,52.6%,35.1%,281,112,169
+PITTSBURGH PIRATES,Tyler Beede,batted-ball,Pitcher,Handedness,2022,vs R,2.46,21.1%,56.1%,22.8%,23.1%,7.7%,6.3%,0.0%,41.4%,34.5%,24.1%,12.1%,69.0%,19.0%,279,108,171
+PITTSBURGH PIRATES,Max Kranick,batted-ball,Pitcher,Handedness,2022,vs L,0.33,20.0%,20.0%,60.0%,66.7%,0.0%,0.0%,0.0%,20.0%,60.0%,20.0%,60.0%,40.0%,0.0%,33,13,20
+PITTSBURGH PIRATES,Max Kranick,batted-ball,Pitcher,Handedness,2022,vs R,0.67,28.6%,28.6%,42.9%,33.3%,0.0%,0.0%,0.0%,57.1%,14.3%,28.6%,28.6%,71.4%,0.0%,43,24,19
+PITTSBURGH PIRATES,Roberto Pérez,batted-ball,Pitcher,Handedness,2022,vs L,2.31,21.8%,54.5%,23.6%,0.0%,15.4%,3.3%,0.0%,43.6%,38.2%,18.2%,7.3%,56.4%,36.4%,356,145,211
+PITTSBURGH PIRATES,Roberto Pérez,batted-ball,Pitcher,Handedness,2022,vs R,0.89,26.7%,34.4%,38.9%,5.7%,25.7%,12.9%,0.0%,32.2%,37.8%,30.0%,12.2%,50.0%,37.8%,476,178,298
+PITTSBURGH PIRATES,Greg Allen,batted-ball,Pitcher,Handedness,2022,vs L,3.00,33.3%,50.0%,16.7%,0.0%,0.0%,0.0%,0.0%,33.3%,33.3%,33.3%,16.7%,50.0%,33.3%,28,15,13
+PITTSBURGH PIRATES,Greg Allen,batted-ball,Pitcher,Handedness,2022,vs R,1.25,10.0%,50.0%,40.0%,0.0%,0.0%,20.0%,0.0%,40.0%,40.0%,20.0%,20.0%,70.0%,10.0%,55,25,30
+PITTSBURGH PIRATES,Bryan Reynolds,batted-ball,Pitcher,Handedness,2022,vs L,1.00,14.3%,42.9%,42.9%,0.0%,0.0%,0.0%,0.0%,57.1%,28.6%,14.3%,14.3%,57.1%,28.6%,36,13,23
+PITTSBURGH PIRATES,Bryan Reynolds,batted-ball,Pitcher,Handedness,2022,vs R,1.17,27.8%,38.9%,33.3%,33.3%,0.0%,14.3%,0.0%,55.6%,27.8%,16.7%,33.3%,44.4%,22.2%,99,34,65
+PITTSBURGH PIRATES,Canaan Smith-Njigba,batted-ball,Pitcher,Handedness,2022,vs L,0.54,28.6%,25.0%,46.4%,7.7%,7.7%,0.0%,0.0%,46.4%,32.1%,21.4%,17.9%,39.3%,42.9%,169,66,103
+PITTSBURGH PIRATES,Canaan Smith-Njigba,batted-ball,Pitcher,Handedness,2022,vs R,0.52,20.5%,27.3%,52.3%,0.0%,13.0%,16.7%,0.0%,48.9%,31.1%,20.0%,6.7%,48.9%,44.4%,281,110,171
+PITTSBURGH PIRATES,Blake Cederlind,batted-ball,Pitcher,Handedness,2022,vs L,2.00,0.0%,66.7%,33.3%,0.0%,100.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,66.7%,33.3%,18,7,11
+PITTSBURGH PIRATES,Blake Cederlind,batted-ball,Pitcher,Handedness,2022,vs R,0.50,14.3%,28.6%,57.1%,0.0%,25.0%,0.0%,0.0%,57.1%,0.0%,42.9%,0.0%,57.1%,42.9%,48,9,39

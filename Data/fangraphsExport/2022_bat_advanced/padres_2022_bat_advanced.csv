@@ -1,0 +1,71 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+SAN DIEGO PADRES,Trent Grisham,advanced,Batter,Handedness,2022,vs L as L,7.1%,25.3%,0.28,0.198,0.263,0.337,0.6,0.14,0.237,8,-3.5,0.266,72
+SAN DIEGO PADRES,Trent Grisham,advanced,Batter,Handedness,2022,vs R as L,13.5%,25.2%,0.53,0.191,0.307,0.325,0.632,0.134,0.242,22,-4.2,0.287,87
+SAN DIEGO PADRES,Trent Grisham,advanced,Batter,Handedness,2022,vs L,7.1%,25.3%,0.28,0.198,0.263,0.337,0.6,0.14,0.237,8,-3.5,0.266,72
+SAN DIEGO PADRES,Trent Grisham,advanced,Batter,Handedness,2022,vs R,13.5%,25.2%,0.53,0.191,0.307,0.325,0.632,0.134,0.242,22,-4.2,0.287,87
+SAN DIEGO PADRES,Jake Cronenworth,advanced,Batter,Handedness,2022,vs L as L,7.6%,25.2%,0.3,0.254,0.344,0.377,0.721,0.123,0.329,16,1.3,0.323,111
+SAN DIEGO PADRES,Jake Cronenworth,advanced,Batter,Handedness,2022,vs R as L,10.8%,17.3%,0.62,0.23,0.327,0.387,0.714,0.158,0.264,31,1.1,0.315,106
+SAN DIEGO PADRES,Jake Cronenworth,advanced,Batter,Handedness,2022,vs L,7.6%,25.2%,0.3,0.254,0.344,0.377,0.721,0.123,0.329,16,1.3,0.323,111
+SAN DIEGO PADRES,Jake Cronenworth,advanced,Batter,Handedness,2022,vs R,10.8%,17.3%,0.62,0.23,0.327,0.387,0.714,0.158,0.264,31,1.1,0.315,106
+SAN DIEGO PADRES,Manny Machado,advanced,Batter,Handedness,2022,vs L as R,12.6%,13.7%,0.92,0.268,0.358,0.598,0.955,0.329,0.226,18,6.6,0.397,162
+SAN DIEGO PADRES,Manny Machado,advanced,Batter,Handedness,2022,vs R as R,9.7%,21.9%,0.44,0.319,0.388,0.502,0.891,0.183,0.396,41,13.6,0.382,151
+SAN DIEGO PADRES,Manny Machado,advanced,Batter,Handedness,2022,vs L,12.6%,13.7%,0.92,0.268,0.358,0.598,0.955,0.329,0.226,18,6.6,0.397,162
+SAN DIEGO PADRES,Manny Machado,advanced,Batter,Handedness,2022,vs R,9.7%,21.9%,0.44,0.319,0.388,0.502,0.891,0.183,0.396,41,13.6,0.382,151
+SAN DIEGO PADRES,Nomar Mazara,advanced,Batter,Handedness,2022,vs L as L,6.7%,26.7%,0.25,0.429,0.467,0.5,0.967,0.071,0.6,3,1.4,0.425,180
+SAN DIEGO PADRES,Nomar Mazara,advanced,Batter,Handedness,2022,vs R as L,5.6%,17.8%,0.31,0.298,0.344,0.429,0.773,0.131,0.348,12,2.1,0.339,122
+SAN DIEGO PADRES,Nomar Mazara,advanced,Batter,Handedness,2022,vs L,6.7%,26.7%,0.25,0.429,0.467,0.5,0.967,0.071,0.6,3,1.4,0.425,180
+SAN DIEGO PADRES,Nomar Mazara,advanced,Batter,Handedness,2022,vs R,5.6%,17.8%,0.31,0.298,0.344,0.429,0.773,0.131,0.348,12,2.1,0.339,122
+SAN DIEGO PADRES,Luke Voit,advanced,Batter,Handedness,2022,vs L as R,15.4%,37.4%,0.41,0.184,0.319,0.25,0.569,0.066,0.333,7,-3.2,0.266,73
+SAN DIEGO PADRES,Luke Voit,advanced,Batter,Handedness,2022,vs R as R,10.3%,31.3%,0.33,0.238,0.313,0.471,0.784,0.233,0.298,27,4.1,0.337,120
+SAN DIEGO PADRES,Luke Voit,advanced,Batter,Handedness,2022,vs L,15.4%,37.4%,0.41,0.184,0.319,0.25,0.569,0.066,0.333,7,-3.2,0.266,73
+SAN DIEGO PADRES,Luke Voit,advanced,Batter,Handedness,2022,vs R,10.3%,31.3%,0.33,0.238,0.313,0.471,0.784,0.233,0.298,27,4.1,0.337,120
+SAN DIEGO PADRES,Eric Hosmer,advanced,Batter,Handedness,2022,vs L as L,4.4%,16.5%,0.27,0.345,0.374,0.448,0.822,0.103,0.4,14,3.6,0.36,136
+SAN DIEGO PADRES,Eric Hosmer,advanced,Batter,Handedness,2022,vs R as L,9.6%,16.6%,0.58,0.243,0.314,0.354,0.669,0.112,0.279,23,-3.8,0.289,88
+SAN DIEGO PADRES,Eric Hosmer,advanced,Batter,Handedness,2022,vs L,4.4%,16.5%,0.27,0.345,0.374,0.448,0.822,0.103,0.4,14,3.6,0.36,136
+SAN DIEGO PADRES,Eric Hosmer,advanced,Batter,Handedness,2022,vs R,9.6%,16.6%,0.58,0.243,0.314,0.354,0.669,0.112,0.279,23,-3.8,0.289,88
+SAN DIEGO PADRES,Jorge Alfaro,advanced,Batter,Handedness,2022,vs L as R,5.7%,43.4%,0.13,0.28,0.321,0.54,0.861,0.26,0.435,9,2.5,0.369,142
+SAN DIEGO PADRES,Jorge Alfaro,advanced,Batter,Handedness,2022,vs R as R,3.6%,31.4%,0.12,0.264,0.292,0.388,0.68,0.124,0.372,14,-1.7,0.295,92
+SAN DIEGO PADRES,Jorge Alfaro,advanced,Batter,Handedness,2022,vs L,5.7%,43.4%,0.13,0.28,0.321,0.54,0.861,0.26,0.435,9,2.5,0.369,142
+SAN DIEGO PADRES,Jorge Alfaro,advanced,Batter,Handedness,2022,vs R,3.6%,31.4%,0.12,0.264,0.292,0.388,0.68,0.124,0.372,14,-1.7,0.295,92
+SAN DIEGO PADRES,Ha-Seong Kim,advanced,Batter,Handedness,2022,vs L as R,17.4%,9.2%,1.9,0.307,0.431,0.466,0.897,0.159,0.325,20,7.4,0.395,160
+SAN DIEGO PADRES,Ha-Seong Kim,advanced,Batter,Handedness,2022,vs R as R,6.7%,24.2%,0.28,0.205,0.273,0.313,0.586,0.108,0.26,15,-7.3,0.263,70
+SAN DIEGO PADRES,Ha-Seong Kim,advanced,Batter,Handedness,2022,vs L,17.4%,9.2%,1.9,0.307,0.431,0.466,0.897,0.159,0.325,20,7.4,0.395,160
+SAN DIEGO PADRES,Ha-Seong Kim,advanced,Batter,Handedness,2022,vs R,6.7%,24.2%,0.28,0.205,0.273,0.313,0.586,0.108,0.26,15,-7.3,0.263,70
+SAN DIEGO PADRES,Esteury Ruiz,advanced,Batter,Handedness,2022,vs L as R,0.0%,0.0%,0.0,0.5,0.5,0.5,1.0,0.0,0.5,1,0.4,0.442,192
+SAN DIEGO PADRES,Esteury Ruiz,advanced,Batter,Handedness,2022,vs L,0.0%,0.0%,0.0,0.5,0.5,0.5,1.0,0.0,0.5,1,0.4,0.442,192
+SAN DIEGO PADRES,Austin Nola,advanced,Batter,Handedness,2022,vs L as R,6.5%,11.8%,0.55,0.241,0.301,0.313,0.614,0.072,0.26,8,-2.9,0.271,76
+SAN DIEGO PADRES,Austin Nola,advanced,Batter,Handedness,2022,vs R as R,8.9%,17.0%,0.52,0.233,0.311,0.293,0.604,0.06,0.271,12,-3.9,0.274,78
+SAN DIEGO PADRES,Austin Nola,advanced,Batter,Handedness,2022,vs L,6.5%,11.8%,0.55,0.241,0.301,0.313,0.614,0.072,0.26,8,-2.9,0.271,76
+SAN DIEGO PADRES,Austin Nola,advanced,Batter,Handedness,2022,vs R,8.9%,17.0%,0.52,0.233,0.311,0.293,0.604,0.06,0.271,12,-3.9,0.274,78
+SAN DIEGO PADRES,C.J. Abrams,advanced,Batter,Handedness,2022,vs L as L,0.0%,28.6%,0.0,0.111,0.143,0.148,0.291,0.037,0.158,-1,-3.9,0.134,-17
+SAN DIEGO PADRES,C.J. Abrams,advanced,Batter,Handedness,2022,vs R as L,4.2%,16.8%,0.25,0.274,0.323,0.393,0.715,0.119,0.309,11,0.2,0.313,105
+SAN DIEGO PADRES,C.J. Abrams,advanced,Batter,Handedness,2022,vs L,0.0%,28.6%,0.0,0.111,0.143,0.148,0.291,0.037,0.158,-1,-3.9,0.134,-17
+SAN DIEGO PADRES,C.J. Abrams,advanced,Batter,Handedness,2022,vs R,4.2%,16.8%,0.25,0.274,0.323,0.393,0.715,0.119,0.309,11,0.2,0.313,105
+SAN DIEGO PADRES,Matthew Batten,advanced,Batter,Handedness,2022,vs L as R,0.0%,0.0%,0.0,0.2,0.2,0.2,0.4,0.0,0.2,0,-0.5,0.177,12
+SAN DIEGO PADRES,Matthew Batten,advanced,Batter,Handedness,2022,vs R as R,50.0%,50.0%,1.0,0.0,0.5,0.0,0.5,0.0,0.0,0,0.1,0.345,126
+SAN DIEGO PADRES,Matthew Batten,advanced,Batter,Handedness,2022,vs L,0.0%,0.0%,0.0,0.2,0.2,0.2,0.4,0.0,0.2,0,-0.5,0.177,12
+SAN DIEGO PADRES,Matthew Batten,advanced,Batter,Handedness,2022,vs R,50.0%,50.0%,1.0,0.0,0.5,0.0,0.5,0.0,0.0,0,0.1,0.345,126
+SAN DIEGO PADRES,José Azocar,advanced,Batter,Handedness,2022,vs L as R,3.8%,21.5%,0.18,0.227,0.253,0.36,0.613,0.133,0.288,6,-3.0,0.263,71
+SAN DIEGO PADRES,José Azocar,advanced,Batter,Handedness,2022,vs R as R,9.7%,24.2%,0.4,0.232,0.306,0.268,0.574,0.036,0.317,5,-2.3,0.264,71
+SAN DIEGO PADRES,José Azocar,advanced,Batter,Handedness,2022,vs L,3.8%,21.5%,0.18,0.227,0.253,0.36,0.613,0.133,0.288,6,-3.0,0.263,71
+SAN DIEGO PADRES,José Azocar,advanced,Batter,Handedness,2022,vs R,9.7%,24.2%,0.4,0.232,0.306,0.268,0.574,0.036,0.317,5,-2.3,0.264,71
+SAN DIEGO PADRES,Matt Beaty,advanced,Batter,Handedness,2022,vs L as L,0.0%,50.0%,0.0,0.5,0.5,1.5,2.0,1.0,1.0,1,0.8,0.8,434
+SAN DIEGO PADRES,Matt Beaty,advanced,Batter,Handedness,2022,vs R as L,5.3%,13.2%,0.4,0.086,0.158,0.114,0.272,0.029,0.1,-1,-5.3,0.135,-16
+SAN DIEGO PADRES,Matt Beaty,advanced,Batter,Handedness,2022,vs L,0.0%,50.0%,0.0,0.5,0.5,1.5,2.0,1.0,1.0,1,0.8,0.8,434
+SAN DIEGO PADRES,Matt Beaty,advanced,Batter,Handedness,2022,vs R,5.3%,13.2%,0.4,0.086,0.158,0.114,0.272,0.029,0.1,-1,-5.3,0.135,-16
+SAN DIEGO PADRES,Wil Myers,advanced,Batter,Handedness,2022,vs L as R,4.8%,28.6%,0.17,0.205,0.238,0.308,0.546,0.103,0.259,2,-2.4,0.238,54
+SAN DIEGO PADRES,Wil Myers,advanced,Batter,Handedness,2022,vs R as R,6.5%,28.3%,0.23,0.247,0.293,0.306,0.599,0.059,0.35,7,-3.5,0.263,70
+SAN DIEGO PADRES,Wil Myers,advanced,Batter,Handedness,2022,vs L,4.8%,28.6%,0.17,0.205,0.238,0.308,0.546,0.103,0.259,2,-2.4,0.238,54
+SAN DIEGO PADRES,Wil Myers,advanced,Batter,Handedness,2022,vs R,6.5%,28.3%,0.23,0.247,0.293,0.306,0.599,0.059,0.35,7,-3.5,0.263,70
+SAN DIEGO PADRES,Jurickson Profar,advanced,Batter,Handedness,2022,vs R as L,12.3%,16.0%,0.77,0.248,0.346,0.414,0.76,0.167,0.277,33,5.0,0.336,120
+SAN DIEGO PADRES,Jurickson Profar,advanced,Batter,Handedness,2022,vs L as R,13.6%,11.0%,1.23,0.23,0.339,0.36,0.699,0.13,0.244,14,0.4,0.314,105
+SAN DIEGO PADRES,Jurickson Profar,advanced,Batter,Handedness,2022,vs L,13.6%,11.0%,1.23,0.23,0.339,0.36,0.699,0.13,0.244,14,0.4,0.314,105
+SAN DIEGO PADRES,Jurickson Profar,advanced,Batter,Handedness,2022,vs R,12.3%,16.0%,0.77,0.248,0.346,0.414,0.76,0.167,0.277,33,5.0,0.336,120
+SAN DIEGO PADRES,Craig Stammen,advanced,Batter,Handedness,2022,vs L as L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+SAN DIEGO PADRES,Craig Stammen,advanced,Batter,Handedness,2022,vs R as L,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+SAN DIEGO PADRES,Craig Stammen,advanced,Batter,Handedness,2022,vs L,3.8%,34.6%,0.11,.160,.192,.200,.392,.040,.250,0,-2.8,.177,3
+SAN DIEGO PADRES,Craig Stammen,advanced,Batter,Handedness,2022,vs R,7.4%,21.0%,0.35,.311,.370,.500,.870,.189,.393,14,4.2,.376,143
+SAN DIEGO PADRES,Robert Suarez,advanced,Batter,Handedness,2022,vs L as L,3.0%,26.3%,0.12,.309,.343,.489,.833,.181,.400,15,4.0,.361,133
+SAN DIEGO PADRES,Robert Suarez,advanced,Batter,Handedness,2022,vs R as L,7.9%,15.0%,0.53,.335,.397,.636,1.033,.302,.346,57,26.5,.435,185
+SAN DIEGO PADRES,Robert Suarez,advanced,Batter,Handedness,2022,vs L,3.0%,26.3%,0.12,.309,.343,.489,.833,.181,.400,15,4.0,.361,133
+SAN DIEGO PADRES,Robert Suarez,advanced,Batter,Handedness,2022,vs R,7.9%,15.0%,0.53,.335,.397,.636,1.033,.302,.346,57,26.5,.435,185

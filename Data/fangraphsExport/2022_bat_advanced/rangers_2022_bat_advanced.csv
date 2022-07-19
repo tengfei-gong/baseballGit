@@ -1,0 +1,66 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+TEXAS RANGERS,Josh H. Smith,advanced,Batter,Handedness,2022,vs L as L,12.5%,12.5%,1.0,0.091,0.313,0.364,0.676,0.273,0.0,2,-0.1,0.306,99
+TEXAS RANGERS,Josh H. Smith,advanced,Batter,Handedness,2022,vs R as L,14.1%,15.5%,0.91,0.293,0.4,0.345,0.745,0.052,0.354,10,1.7,0.34,123
+TEXAS RANGERS,Josh H. Smith,advanced,Batter,Handedness,2022,vs L,12.5%,12.5%,1.0,0.091,0.313,0.364,0.676,0.273,0.0,2,-0.1,0.306,99
+TEXAS RANGERS,Josh H. Smith,advanced,Batter,Handedness,2022,vs R,14.1%,15.5%,0.91,0.293,0.4,0.345,0.745,0.052,0.354,10,1.7,0.34,123
+TEXAS RANGERS,Marcus Semien,advanced,Batter,Handedness,2022,vs L as R,10.2%,14.3%,0.71,0.259,0.337,0.471,0.807,0.212,0.261,14,2.9,0.347,129
+TEXAS RANGERS,Marcus Semien,advanced,Batter,Handedness,2022,vs R as R,6.1%,17.3%,0.35,0.23,0.278,0.375,0.653,0.145,0.251,26,-5.5,0.285,85
+TEXAS RANGERS,Marcus Semien,advanced,Batter,Handedness,2022,vs L,10.2%,14.3%,0.71,0.259,0.337,0.471,0.807,0.212,0.261,14,2.9,0.347,129
+TEXAS RANGERS,Marcus Semien,advanced,Batter,Handedness,2022,vs R,6.1%,17.3%,0.35,0.23,0.278,0.375,0.653,0.145,0.251,26,-5.5,0.285,85
+TEXAS RANGERS,Corey Seager,advanced,Batter,Handedness,2022,vs L as L,9.5%,15.2%,0.63,0.258,0.333,0.548,0.882,0.29,0.229,18,5.5,0.376,149
+TEXAS RANGERS,Corey Seager,advanced,Batter,Handedness,2022,vs R as L,9.2%,16.0%,0.57,0.239,0.313,0.436,0.749,0.197,0.238,32,1.9,0.319,109
+TEXAS RANGERS,Corey Seager,advanced,Batter,Handedness,2022,vs L,9.5%,15.2%,0.63,0.258,0.333,0.548,0.882,0.29,0.229,18,5.5,0.376,149
+TEXAS RANGERS,Corey Seager,advanced,Batter,Handedness,2022,vs R,9.2%,16.0%,0.57,0.239,0.313,0.436,0.749,0.197,0.238,32,1.9,0.319,109
+TEXAS RANGERS,Adolis García,advanced,Batter,Handedness,2022,vs L as R,6.5%,31.5%,0.21,0.186,0.239,0.384,0.623,0.198,0.226,7,-3.3,0.266,71
+TEXAS RANGERS,Adolis García,advanced,Batter,Handedness,2022,vs R as R,5.0%,26.5%,0.19,0.257,0.296,0.473,0.769,0.216,0.309,34,3.7,0.328,115
+TEXAS RANGERS,Adolis García,advanced,Batter,Handedness,2022,vs L,6.5%,31.5%,0.21,0.186,0.239,0.384,0.623,0.198,0.226,7,-3.3,0.266,71
+TEXAS RANGERS,Adolis García,advanced,Batter,Handedness,2022,vs R,5.0%,26.5%,0.19,0.257,0.296,0.473,0.769,0.216,0.309,34,3.7,0.328,115
+TEXAS RANGERS,Nathaniel Lowe,advanced,Batter,Handedness,2022,vs L as L,7.1%,20.0%,0.35,0.291,0.341,0.608,0.949,0.316,0.304,16,6.2,0.402,167
+TEXAS RANGERS,Nathaniel Lowe,advanced,Batter,Handedness,2022,vs R as L,7.5%,24.7%,0.31,0.271,0.326,0.385,0.711,0.113,0.346,28,0.6,0.313,105
+TEXAS RANGERS,Nathaniel Lowe,advanced,Batter,Handedness,2022,vs L,7.1%,20.0%,0.35,0.291,0.341,0.608,0.949,0.316,0.304,16,6.2,0.402,167
+TEXAS RANGERS,Nathaniel Lowe,advanced,Batter,Handedness,2022,vs R,7.5%,24.7%,0.31,0.271,0.326,0.385,0.711,0.113,0.346,28,0.6,0.313,105
+TEXAS RANGERS,Jonah Heim,advanced,Batter,Handedness,2022,vs R as L,5.3%,20.7%,0.26,0.247,0.284,0.418,0.702,0.171,0.271,19,-0.9,0.303,98
+TEXAS RANGERS,Jonah Heim,advanced,Batter,Handedness,2022,vs L as R,12.5%,15.6%,0.8,0.321,0.406,0.643,1.049,0.321,0.317,14,6.9,0.445,197
+TEXAS RANGERS,Jonah Heim,advanced,Batter,Handedness,2022,vs L,12.5%,15.6%,0.8,0.321,0.406,0.643,1.049,0.321,0.317,14,6.9,0.445,197
+TEXAS RANGERS,Jonah Heim,advanced,Batter,Handedness,2022,vs R,5.3%,20.7%,0.26,0.247,0.284,0.418,0.702,0.171,0.271,19,-0.9,0.303,98
+TEXAS RANGERS,Kole Calhoun,advanced,Batter,Handedness,2022,vs L as L,7.4%,23.5%,0.31,0.242,0.309,0.435,0.744,0.194,0.279,9,0.8,0.325,113
+TEXAS RANGERS,Kole Calhoun,advanced,Batter,Handedness,2022,vs R as L,6.2%,27.1%,0.23,0.232,0.284,0.406,0.69,0.174,0.286,24,-1.8,0.3,95
+TEXAS RANGERS,Kole Calhoun,advanced,Batter,Handedness,2022,vs L,7.4%,23.5%,0.31,0.242,0.309,0.435,0.744,0.194,0.279,9,0.8,0.325,113
+TEXAS RANGERS,Kole Calhoun,advanced,Batter,Handedness,2022,vs R,6.2%,27.1%,0.23,0.232,0.284,0.406,0.69,0.174,0.286,24,-1.8,0.3,95
+TEXAS RANGERS,Leody Taveras,advanced,Batter,Handedness,2022,vs R as L,3.6%,21.8%,0.17,0.308,0.327,0.519,0.847,0.212,0.359,9,2.2,0.36,137
+TEXAS RANGERS,Leody Taveras,advanced,Batter,Handedness,2022,vs L as R,6.3%,43.8%,0.14,0.4,0.438,0.467,0.904,0.067,0.75,3,1.1,0.398,165
+TEXAS RANGERS,Leody Taveras,advanced,Batter,Handedness,2022,vs L,6.3%,43.8%,0.14,0.4,0.438,0.467,0.904,0.067,0.75,3,1.1,0.398,165
+TEXAS RANGERS,Leody Taveras,advanced,Batter,Handedness,2022,vs R,3.6%,21.8%,0.17,0.308,0.327,0.519,0.847,0.212,0.359,9,2.2,0.36,137
+TEXAS RANGERS,Brad Miller,advanced,Batter,Handedness,2022,vs L as L,0.0%,50.0%,0.0,0.111,0.111,0.278,0.389,0.167,0.125,0,-2.1,0.164,0
+TEXAS RANGERS,Brad Miller,advanced,Batter,Handedness,2022,vs R as L,7.0%,25.6%,0.27,0.22,0.273,0.346,0.619,0.126,0.264,15,-5.0,0.274,77
+TEXAS RANGERS,Brad Miller,advanced,Batter,Handedness,2022,vs L,0.0%,50.0%,0.0,0.111,0.111,0.278,0.389,0.167,0.125,0,-2.1,0.164,0
+TEXAS RANGERS,Brad Miller,advanced,Batter,Handedness,2022,vs R,7.0%,25.6%,0.27,0.22,0.273,0.346,0.619,0.126,0.264,15,-5.0,0.274,77
+TEXAS RANGERS,Sam Huff,advanced,Batter,Handedness,2022,vs L as R,6.5%,25.8%,0.25,0.207,0.258,0.345,0.603,0.138,0.25,2,-1.4,0.252,62
+TEXAS RANGERS,Sam Huff,advanced,Batter,Handedness,2022,vs R as R,6.1%,34.7%,0.18,0.304,0.347,0.326,0.673,0.022,0.483,5,-0.3,0.303,97
+TEXAS RANGERS,Sam Huff,advanced,Batter,Handedness,2022,vs L,6.5%,25.8%,0.25,0.207,0.258,0.345,0.603,0.138,0.25,2,-1.4,0.252,62
+TEXAS RANGERS,Sam Huff,advanced,Batter,Handedness,2022,vs R,6.1%,34.7%,0.18,0.304,0.347,0.326,0.673,0.022,0.483,5,-0.3,0.303,97
+TEXAS RANGERS,Meibrys Viloria,advanced,Batter,Handedness,2022,vs L as L,0.0%,100.0%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-0.5,0.0,-100
+TEXAS RANGERS,Meibrys Viloria,advanced,Batter,Handedness,2022,vs R as L,27.3%,18.2%,1.5,0.25,0.455,0.25,0.705,0.0,0.333,2,0.3,0.349,130
+TEXAS RANGERS,Meibrys Viloria,advanced,Batter,Handedness,2022,vs L,0.0%,100.0%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-0.5,0.0,-100
+TEXAS RANGERS,Meibrys Viloria,advanced,Batter,Handedness,2022,vs R,27.3%,18.2%,1.5,0.25,0.455,0.25,0.705,0.0,0.333,2,0.3,0.349,130
+TEXAS RANGERS,Charlie Culberson,advanced,Batter,Handedness,2022,vs L as R,3.6%,23.6%,0.15,0.275,0.302,0.314,0.616,0.039,0.368,5,-1.6,0.274,77
+TEXAS RANGERS,Charlie Culberson,advanced,Batter,Handedness,2022,vs R as R,8.0%,32.0%,0.25,0.227,0.292,0.227,0.519,0.0,0.357,2,-1.4,0.242,55
+TEXAS RANGERS,Charlie Culberson,advanced,Batter,Handedness,2022,vs L,3.6%,23.6%,0.15,0.275,0.302,0.314,0.616,0.039,0.368,5,-1.6,0.274,77
+TEXAS RANGERS,Charlie Culberson,advanced,Batter,Handedness,2022,vs R,8.0%,32.0%,0.25,0.227,0.292,0.227,0.519,0.0,0.357,2,-1.4,0.242,55
+TEXAS RANGERS,Steven Duggar,advanced,Batter,Handedness,2022,vs L as L,16.7%,66.7%,0.25,0.0,0.167,0.0,0.167,0.0,0.0,0,-0.9,0.115,-29
+TEXAS RANGERS,Steven Duggar,advanced,Batter,Handedness,2022,vs R as L,5.9%,45.1%,0.13,0.213,0.255,0.277,0.531,0.064,0.4,3,-3.0,0.236,51
+TEXAS RANGERS,Steven Duggar,advanced,Batter,Handedness,2022,vs R as R,0.0%,100.0%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-0.2,0.0,-100
+TEXAS RANGERS,Steven Duggar,advanced,Batter,Handedness,2022,vs L,16.7%,66.7%,0.25,0.0,0.167,0.0,0.167,0.0,0.0,0,-0.9,0.115,-29
+TEXAS RANGERS,Steven Duggar,advanced,Batter,Handedness,2022,vs R,5.8%,46.2%,0.13,0.208,0.25,0.271,0.521,0.063,0.4,3,-3.3,0.232,48
+TEXAS RANGERS,Mitch Garver,advanced,Batter,Handedness,2022,vs L as R,15.6%,15.6%,1.0,0.269,0.391,0.635,1.025,0.365,0.216,13,6.1,0.429,186
+TEXAS RANGERS,Mitch Garver,advanced,Batter,Handedness,2022,vs R as R,8.6%,28.5%,0.3,0.184,0.258,0.316,0.574,0.132,0.233,11,-6.4,0.257,65
+TEXAS RANGERS,Mitch Garver,advanced,Batter,Handedness,2022,vs L,15.6%,15.6%,1.0,0.269,0.391,0.635,1.025,0.365,0.216,13,6.1,0.429,186
+TEXAS RANGERS,Mitch Garver,advanced,Batter,Handedness,2022,vs R,8.6%,28.5%,0.3,0.184,0.258,0.316,0.574,0.132,0.233,11,-6.4,0.257,65
+TEXAS RANGERS,Eli White,advanced,Batter,Handedness,2022,vs L as R,10.9%,32.7%,0.33,0.204,0.291,0.306,0.597,0.102,0.3,5,-1.7,0.271,75
+TEXAS RANGERS,Eli White,advanced,Batter,Handedness,2022,vs R as R,8.1%,37.1%,0.22,0.196,0.258,0.304,0.562,0.107,0.281,4,-2.9,0.251,61
+TEXAS RANGERS,Eli White,advanced,Batter,Handedness,2022,vs L,10.9%,32.7%,0.33,0.204,0.291,0.306,0.597,0.102,0.3,5,-1.7,0.271,75
+TEXAS RANGERS,Eli White,advanced,Batter,Handedness,2022,vs R,8.1%,37.1%,0.22,0.196,0.258,0.304,0.562,0.107,0.281,4,-2.9,0.251,61
+TEXAS RANGERS,Elier Hernandez,advanced,Batter,Handedness,2022,vs L as R,6.5%,29.0%,0.22,.250,.323,.429,.751,.179,.333,4,0.5,.330,114
+TEXAS RANGERS,Elier Hernandez,advanced,Batter,Handedness,2022,vs R as R,5.8%,40.6%,0.14,.254,.304,.317,.622,.063,.444,6,-2.1,.271,73
+TEXAS RANGERS,Elier Hernandez,advanced,Batter,Handedness,2022,vs L,6.5%,29.0%,0.22,.250,.323,.429,.751,.179,.333,4,0.5,.330,114
+TEXAS RANGERS,Elier Hernandez,advanced,Batter,Handedness,2022,vs R,5.8%,40.6%,0.14,.254,.304,.317,.622,.063,.444,6,-2.1,.271,73

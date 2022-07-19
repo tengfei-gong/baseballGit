@@ -1,0 +1,61 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,IFH%,BUH%,Pull%,Cent%,Oppo%,Soft%,Med%,Hard%,Pitches,Balls,Strikes
+OAKLAND ATHLETICS,Vimael Machín,batted-ball,Batter,Handedness,2022,vs L as L,1.00,50.0%,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,50.0%,0.0%,100.0%,0.0%,7,3,4
+OAKLAND ATHLETICS,Vimael Machín,batted-ball,Batter,Handedness,2022,vs R as L,1.38,9.5%,52.4%,38.1%,0.0%,12.5%,9.1%,0.0%,28.6%,52.4%,19.0%,4.8%,47.6%,47.6%,113,35,78
+OAKLAND ATHLETICS,Vimael Machín,batted-ball,Batter,Handedness,2022,vs L,1.00,50.0%,50.0%,0.0%,0.0%,0.0%,0.0%,0.0%,50.0%,0.0%,50.0%,0.0%,100.0%,0.0%,7,3,4
+OAKLAND ATHLETICS,Vimael Machín,batted-ball,Batter,Handedness,2022,vs R,1.38,9.5%,52.4%,38.1%,0.0%,12.5%,9.1%,0.0%,28.6%,52.4%,19.0%,4.8%,47.6%,47.6%,113,35,78
+OAKLAND ATHLETICS,Ramón Laureano,batted-ball,Batter,Handedness,2022,vs L as R,1.46,27.3%,43.2%,29.5%,0.0%,15.4%,0.0%,0.0%,43.2%,18.2%,38.6%,11.4%,50.0%,38.6%,269,107,162
+OAKLAND ATHLETICS,Ramón Laureano,batted-ball,Batter,Handedness,2022,vs R as R,1.67,13.5%,54.1%,32.4%,13.9%,13.9%,10.0%,0.0%,45.9%,30.6%,23.4%,13.5%,54.1%,32.4%,687,246,441
+OAKLAND ATHLETICS,Ramón Laureano,batted-ball,Batter,Handedness,2022,vs L,1.46,27.3%,43.2%,29.5%,0.0%,15.4%,0.0%,0.0%,43.2%,18.2%,38.6%,11.4%,50.0%,38.6%,269,107,162
+OAKLAND ATHLETICS,Ramón Laureano,batted-ball,Batter,Handedness,2022,vs R,1.67,13.5%,54.1%,32.4%,13.9%,13.9%,10.0%,0.0%,45.9%,30.6%,23.4%,13.5%,54.1%,32.4%,687,246,441
+OAKLAND ATHLETICS,Sean Murphy,batted-ball,Batter,Handedness,2022,vs L as R,0.89,17.7%,38.7%,43.5%,7.4%,14.8%,0.0%,0.0%,41.9%,35.5%,22.6%,14.5%,43.5%,41.9%,391,148,243
+OAKLAND ATHLETICS,Sean Murphy,batted-ball,Batter,Handedness,2022,vs R as R,0.92,24.4%,36.3%,39.4%,11.1%,7.9%,6.9%,0.0%,39.4%,40.0%,20.6%,18.1%,53.8%,28.1%,801,249,552
+OAKLAND ATHLETICS,Sean Murphy,batted-ball,Batter,Handedness,2022,vs L,0.89,17.7%,38.7%,43.5%,7.4%,14.8%,0.0%,0.0%,41.9%,35.5%,22.6%,14.5%,43.5%,41.9%,391,148,243
+OAKLAND ATHLETICS,Sean Murphy,batted-ball,Batter,Handedness,2022,vs R,0.92,24.4%,36.3%,39.4%,11.1%,7.9%,6.9%,0.0%,39.4%,40.0%,20.6%,18.1%,53.8%,28.1%,801,249,552
+OAKLAND ATHLETICS,Seth Brown,batted-ball,Batter,Handedness,2022,vs L as L,1.56,25.8%,45.2%,29.0%,22.2%,11.1%,0.0%,0.0%,41.9%,22.6%,35.5%,25.8%,51.6%,22.6%,166,58,108
+OAKLAND ATHLETICS,Seth Brown,batted-ball,Batter,Handedness,2022,vs R as L,0.81,24.1%,34.0%,42.0%,11.8%,13.2%,1.8%,100.0%,44.2%,33.1%,22.7%,17.2%,44.2%,38.7%,954,337,617
+OAKLAND ATHLETICS,Seth Brown,batted-ball,Batter,Handedness,2022,vs L,1.56,25.8%,45.2%,29.0%,22.2%,11.1%,0.0%,0.0%,41.9%,22.6%,35.5%,25.8%,51.6%,22.6%,166,58,108
+OAKLAND ATHLETICS,Seth Brown,batted-ball,Batter,Handedness,2022,vs R,0.81,24.1%,34.0%,42.0%,11.8%,13.2%,1.8%,100.0%,44.2%,33.1%,22.7%,17.2%,44.2%,38.7%,954,337,617
+OAKLAND ATHLETICS,Elvis Andrus,batted-ball,Batter,Handedness,2022,vs L as R,1.33,17.6%,47.1%,35.3%,12.5%,8.3%,0.0%,0.0%,30.4%,34.8%,34.8%,14.5%,62.3%,23.2%,369,134,235
+OAKLAND ATHLETICS,Elvis Andrus,batted-ball,Batter,Handedness,2022,vs R as R,1.02,15.8%,42.4%,41.8%,13.6%,6.1%,1.5%,0.0%,41.8%,32.3%,25.9%,20.9%,52.5%,26.6%,789,290,499
+OAKLAND ATHLETICS,Elvis Andrus,batted-ball,Batter,Handedness,2022,vs L,1.33,17.6%,47.1%,35.3%,12.5%,8.3%,0.0%,0.0%,30.4%,34.8%,34.8%,14.5%,62.3%,23.2%,369,134,235
+OAKLAND ATHLETICS,Elvis Andrus,batted-ball,Batter,Handedness,2022,vs R,1.02,15.8%,42.4%,41.8%,13.6%,6.1%,1.5%,0.0%,41.8%,32.3%,25.9%,20.9%,52.5%,26.6%,789,290,499
+OAKLAND ATHLETICS,Stephen Piscotty,batted-ball,Batter,Handedness,2022,vs L as R,1.50,28.6%,42.9%,28.6%,0.0%,0.0%,0.0%,0.0%,14.3%,50.0%,35.7%,14.3%,57.1%,28.6%,113,43,70
+OAKLAND ATHLETICS,Stephen Piscotty,batted-ball,Batter,Handedness,2022,vs R as R,2.00,25.0%,50.0%,25.0%,0.0%,22.2%,0.0%,0.0%,47.2%,36.1%,16.7%,11.1%,69.4%,19.4%,214,66,148
+OAKLAND ATHLETICS,Stephen Piscotty,batted-ball,Batter,Handedness,2022,vs L,1.50,28.6%,42.9%,28.6%,0.0%,0.0%,0.0%,0.0%,14.3%,50.0%,35.7%,14.3%,57.1%,28.6%,113,43,70
+OAKLAND ATHLETICS,Stephen Piscotty,batted-ball,Batter,Handedness,2022,vs R,2.00,25.0%,50.0%,25.0%,0.0%,22.2%,0.0%,0.0%,47.2%,36.1%,16.7%,11.1%,69.4%,19.4%,214,66,148
+OAKLAND ATHLETICS,Tony Kemp,batted-ball,Batter,Handedness,2022,vs L as L,1.30,25.8%,41.9%,32.3%,10.0%,0.0%,7.7%,25.0%,40.0%,48.6%,11.4%,11.4%,74.3%,14.3%,243,86,157
+OAKLAND ATHLETICS,Tony Kemp,batted-ball,Batter,Handedness,2022,vs R as L,0.95,17.5%,40.2%,42.3%,17.5%,2.5%,3.9%,50.0%,42.6%,33.0%,24.4%,18.8%,62.9%,18.3%,936,311,625
+OAKLAND ATHLETICS,Tony Kemp,batted-ball,Batter,Handedness,2022,vs L,1.30,25.8%,41.9%,32.3%,10.0%,0.0%,7.7%,25.0%,40.0%,48.6%,11.4%,11.4%,74.3%,14.3%,243,86,157
+OAKLAND ATHLETICS,Tony Kemp,batted-ball,Batter,Handedness,2022,vs R,0.95,17.5%,40.2%,42.3%,17.5%,2.5%,3.9%,50.0%,42.6%,33.0%,24.4%,18.8%,62.9%,18.3%,936,311,625
+OAKLAND ATHLETICS,Skye Bolt,batted-ball,Batter,Handedness,2022,vs R as L,1.33,6.7%,53.3%,40.0%,16.7%,0.0%,0.0%,0.0%,40.0%,20.0%,40.0%,13.3%,46.7%,40.0%,84,25,59
+OAKLAND ATHLETICS,Skye Bolt,batted-ball,Batter,Handedness,2022,vs L as R,1.50,16.7%,50.0%,33.3%,50.0%,0.0%,0.0%,0.0%,50.0%,16.7%,33.3%,33.3%,33.3%,33.3%,35,10,25
+OAKLAND ATHLETICS,Skye Bolt,batted-ball,Batter,Handedness,2022,vs L,1.50,16.7%,50.0%,33.3%,50.0%,0.0%,0.0%,0.0%,50.0%,16.7%,33.3%,33.3%,33.3%,33.3%,35,10,25
+OAKLAND ATHLETICS,Skye Bolt,batted-ball,Batter,Handedness,2022,vs R,1.33,6.7%,53.3%,40.0%,16.7%,0.0%,0.0%,0.0%,40.0%,20.0%,40.0%,13.3%,46.7%,40.0%,84,25,59
+OAKLAND ATHLETICS,Nick Allen,batted-ball,Batter,Handedness,2022,vs L as R,1.60,7.1%,57.1%,35.7%,10.0%,10.0%,6.3%,0.0%,35.7%,21.4%,42.9%,10.7%,60.7%,28.6%,129,39,90
+OAKLAND ATHLETICS,Nick Allen,batted-ball,Batter,Handedness,2022,vs R as R,1.46,20.0%,47.5%,32.5%,15.4%,0.0%,10.5%,100.0%,26.2%,31.0%,42.9%,19.0%,69.0%,11.9%,230,86,144
+OAKLAND ATHLETICS,Nick Allen,batted-ball,Batter,Handedness,2022,vs L,1.60,7.1%,57.1%,35.7%,10.0%,10.0%,6.3%,0.0%,35.7%,21.4%,42.9%,10.7%,60.7%,28.6%,129,39,90
+OAKLAND ATHLETICS,Nick Allen,batted-ball,Batter,Handedness,2022,vs R,1.46,20.0%,47.5%,32.5%,15.4%,0.0%,10.5%,100.0%,26.2%,31.0%,42.9%,19.0%,69.0%,11.9%,230,86,144
+OAKLAND ATHLETICS,Stephen Vogt,batted-ball,Batter,Handedness,2022,vs L as L,0.00,66.7%,0.0%,33.3%,0.0%,0.0%,0.0%,0.0%,66.7%,33.3%,0.0%,0.0%,0.0%,100.0%,13,5,8
+OAKLAND ATHLETICS,Stephen Vogt,batted-ball,Batter,Handedness,2022,vs R as L,0.52,22.2%,26.7%,51.1%,17.4%,17.4%,0.0%,0.0%,47.8%,32.6%,19.6%,13.0%,65.2%,21.7%,269,91,178
+OAKLAND ATHLETICS,Stephen Vogt,batted-ball,Batter,Handedness,2022,vs L,0.00,66.7%,0.0%,33.3%,0.0%,0.0%,0.0%,0.0%,66.7%,33.3%,0.0%,0.0%,0.0%,100.0%,13,5,8
+OAKLAND ATHLETICS,Stephen Vogt,batted-ball,Batter,Handedness,2022,vs R,0.52,22.2%,26.7%,51.1%,17.4%,17.4%,0.0%,0.0%,47.8%,32.6%,19.6%,13.0%,65.2%,21.7%,269,91,178
+OAKLAND ATHLETICS,Dermis Garcia,batted-ball,Batter,Handedness,2022,vs L as R,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,100.0%,0.0%,3,0,3
+OAKLAND ATHLETICS,Dermis Garcia,batted-ball,Batter,Handedness,2022,vs R as R,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,100.0%,7,3,4
+OAKLAND ATHLETICS,Dermis Garcia,batted-ball,Batter,Handedness,2022,vs L,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,100.0%,0.0%,3,0,3
+OAKLAND ATHLETICS,Dermis Garcia,batted-ball,Batter,Handedness,2022,vs R,1.00,0.0%,100.0%,0.0%,0.0%,0.0%,100.0%,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,100.0%,7,3,4
+OAKLAND ATHLETICS,Sheldon Neuse,batted-ball,Batter,Handedness,2022,vs L as R,6.25,7.9%,79.4%,12.7%,0.0%,0.0%,6.0%,0.0%,33.3%,36.5%,30.2%,14.3%,54.0%,31.7%,301,97,204
+OAKLAND ATHLETICS,Sheldon Neuse,batted-ball,Batter,Handedness,2022,vs R as R,2.55,25.3%,53.7%,21.1%,5.0%,15.0%,7.8%,0.0%,26.3%,36.8%,36.8%,14.7%,56.8%,28.4%,642,222,420
+OAKLAND ATHLETICS,Sheldon Neuse,batted-ball,Batter,Handedness,2022,vs L,6.25,7.9%,79.4%,12.7%,0.0%,0.0%,6.0%,0.0%,33.3%,36.5%,30.2%,14.3%,54.0%,31.7%,301,97,204
+OAKLAND ATHLETICS,Sheldon Neuse,batted-ball,Batter,Handedness,2022,vs R,2.55,25.3%,53.7%,21.1%,5.0%,15.0%,7.8%,0.0%,26.3%,36.8%,36.8%,14.7%,56.8%,28.4%,642,222,420
+OAKLAND ATHLETICS,Chad Pinder,batted-ball,Batter,Handedness,2022,vs L as R,2.13,16.7%,56.7%,26.7%,12.5%,25.0%,8.8%,0.0%,50.8%,31.1%,18.0%,19.7%,50.8%,29.5%,333,113,220
+OAKLAND ATHLETICS,Chad Pinder,batted-ball,Batter,Handedness,2022,vs R as R,1.64,23.7%,47.4%,28.9%,4.5%,13.6%,2.8%,0.0%,35.5%,38.2%,26.3%,15.8%,55.3%,28.9%,483,160,323
+OAKLAND ATHLETICS,Chad Pinder,batted-ball,Batter,Handedness,2022,vs L,2.13,16.7%,56.7%,26.7%,12.5%,25.0%,8.8%,0.0%,50.8%,31.1%,18.0%,19.7%,50.8%,29.5%,333,113,220
+OAKLAND ATHLETICS,Chad Pinder,batted-ball,Batter,Handedness,2022,vs R,1.64,23.7%,47.4%,28.9%,4.5%,13.6%,2.8%,0.0%,35.5%,38.2%,26.3%,15.8%,55.3%,28.9%,483,160,323
+OAKLAND ATHLETICS,Jonah Bride,batted-ball,Batter,Handedness,2022,vs L as R,1.50,9.1%,54.5%,36.4%,0.0%,0.0%,0.0%,0.0%,18.2%,63.6%,18.2%,9.1%,72.7%,18.2%,57,19,38
+OAKLAND ATHLETICS,Jonah Bride,batted-ball,Batter,Handedness,2022,vs R as R,0.92,14.8%,40.7%,44.4%,8.3%,0.0%,0.0%,0.0%,40.7%,37.0%,22.2%,11.1%,44.4%,44.4%,136,53,83
+OAKLAND ATHLETICS,Jonah Bride,batted-ball,Batter,Handedness,2022,vs L,1.50,9.1%,54.5%,36.4%,0.0%,0.0%,0.0%,0.0%,18.2%,63.6%,18.2%,9.1%,72.7%,18.2%,57,19,38
+OAKLAND ATHLETICS,Jonah Bride,batted-ball,Batter,Handedness,2022,vs R,0.92,14.8%,40.7%,44.4%,8.3%,0.0%,0.0%,0.0%,40.7%,37.0%,22.2%,11.1%,44.4%,44.4%,136,53,83
+OAKLAND ATHLETICS,Jed Lowrie,batted-ball,Batter,Handedness,2022,vs R as L,0.75,13.6%,37.0%,49.4%,7.5%,7.5%,6.7%,100.0%,48.8%,31.7%,19.5%,18.3%,62.2%,19.5%,472,194,278
+OAKLAND ATHLETICS,Jed Lowrie,batted-ball,Batter,Handedness,2022,vs L as R,1.50,24.2%,45.5%,30.3%,0.0%,0.0%,0.0%,0.0%,48.5%,27.3%,24.2%,15.2%,60.6%,24.2%,181,67,114
+OAKLAND ATHLETICS,Jed Lowrie,batted-ball,Batter,Handedness,2022,vs L,1.50,24.2%,45.5%,30.3%,0.0%,0.0%,0.0%,0.0%,48.5%,27.3%,24.2%,15.2%,60.6%,24.2%,181,67,114
+OAKLAND ATHLETICS,Jed Lowrie,batted-ball,Batter,Handedness,2022,vs R,0.75,13.6%,37.0%,49.4%,7.5%,7.5%,6.7%,100.0%,48.8%,31.7%,19.5%,18.3%,62.2%,19.5%,472,194,278

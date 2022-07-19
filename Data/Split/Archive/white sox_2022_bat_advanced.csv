@@ -1,0 +1,65 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+CHICAGO WHITE SOX,Tim Anderson,advanced,Batter,Handedness,2022,vs L as R,2.3%,9.3%,0.25,.452,.465,.643,1.108,.190,.472,11,5.8,.479,221
+CHICAGO WHITE SOX,Tim Anderson,advanced,Batter,Handedness,2022,vs R as R,4.5%,14.7%,0.30,.282,.330,.368,.699,.086,.324,26,-0.2,.309,102
+CHICAGO WHITE SOX,Tim Anderson,advanced,Batter,Handedness,2022,vs L,2.3%,9.3%,0.25,.452,.465,.643,1.108,.190,.472,11,5.8,.479,221
+CHICAGO WHITE SOX,Tim Anderson,advanced,Batter,Handedness,2022,vs R,4.5%,14.7%,0.30,.282,.330,.368,.699,.086,.324,26,-0.2,.309,102
+CHICAGO WHITE SOX,Yoán Moncada,advanced,Batter,Handedness,2022,vs R as L,3.7%,27.2%,0.14,.186,.228,.295,.523,.109,.236,7,-8.5,.232,48
+CHICAGO WHITE SOX,Yoán Moncada,advanced,Batter,Handedness,2022,vs L as R,6.9%,27.6%,0.25,.185,.241,.296,.538,.111,.222,1,-2.0,.225,43
+CHICAGO WHITE SOX,Yoán Moncada,advanced,Batter,Handedness,2022,vs L,6.9%,27.6%,0.25,.185,.241,.296,.538,.111,.222,1,-2.0,.225,43
+CHICAGO WHITE SOX,Yoán Moncada,advanced,Batter,Handedness,2022,vs R,3.7%,27.2%,0.14,.186,.228,.295,.523,.109,.236,7,-8.5,.232,48
+CHICAGO WHITE SOX,Luis Robert,advanced,Batter,Handedness,2022,vs L as R,6.3%,21.9%,0.29,.373,.406,.559,.966,.186,.442,12,5.1,.410,172
+CHICAGO WHITE SOX,Luis Robert,advanced,Batter,Handedness,2022,vs R as R,3.2%,18.9%,0.17,.269,.301,.408,.709,.139,.306,29,-0.1,.310,102
+CHICAGO WHITE SOX,Luis Robert,advanced,Batter,Handedness,2022,vs L,6.3%,21.9%,0.29,.373,.406,.559,.966,.186,.442,12,5.1,.410,172
+CHICAGO WHITE SOX,Luis Robert,advanced,Batter,Handedness,2022,vs R,3.2%,18.9%,0.17,.269,.301,.408,.709,.139,.306,29,-0.1,.310,102
+CHICAGO WHITE SOX,José Abreu,advanced,Batter,Handedness,2022,vs L as R,11.9%,23.9%,0.50,.288,.373,.559,.932,.271,.333,13,4.8,.400,165
+CHICAGO WHITE SOX,José Abreu,advanced,Batter,Handedness,2022,vs R as R,10.8%,13.8%,0.79,.299,.380,.448,.828,.149,.332,48,12.9,.363,140
+CHICAGO WHITE SOX,José Abreu,advanced,Batter,Handedness,2022,vs L,11.9%,23.9%,0.50,.288,.373,.559,.932,.271,.333,13,4.8,.400,165
+CHICAGO WHITE SOX,José Abreu,advanced,Batter,Handedness,2022,vs R,10.8%,13.8%,0.79,.299,.380,.448,.828,.149,.332,48,12.9,.363,140
+CHICAGO WHITE SOX,Gavin Sheets,advanced,Batter,Handedness,2022,vs L as L,4.5%,31.8%,0.14,.190,.227,.238,.465,.048,.286,1,-1.8,.209,32
+CHICAGO WHITE SOX,Gavin Sheets,advanced,Batter,Handedness,2022,vs R as L,7.3%,19.7%,0.37,.239,.306,.409,.715,.170,.267,23,0.6,.314,105
+CHICAGO WHITE SOX,Gavin Sheets,advanced,Batter,Handedness,2022,vs L,4.5%,31.8%,0.14,.190,.227,.238,.465,.048,.286,1,-1.8,.209,32
+CHICAGO WHITE SOX,Gavin Sheets,advanced,Batter,Handedness,2022,vs R,7.3%,19.7%,0.37,.239,.306,.409,.715,.170,.267,23,0.6,.314,105
+CHICAGO WHITE SOX,Eloy Jiménez,advanced,Batter,Handedness,2022,vs L as R,6.7%,26.7%,0.25,.231,.267,.462,.728,.231,.222,2,-0.1,.302,96
+CHICAGO WHITE SOX,Eloy Jiménez,advanced,Batter,Handedness,2022,vs R as R,5.7%,30.2%,0.19,.200,.245,.280,.525,.080,.273,3,-3.2,.235,50
+CHICAGO WHITE SOX,Eloy Jiménez,advanced,Batter,Handedness,2022,vs L,6.7%,26.7%,0.25,.231,.267,.462,.728,.231,.222,2,-0.1,.302,96
+CHICAGO WHITE SOX,Eloy Jiménez,advanced,Batter,Handedness,2022,vs R,5.7%,30.2%,0.19,.200,.245,.280,.525,.080,.273,3,-3.2,.235,50
+CHICAGO WHITE SOX,Andrew Vaughn,advanced,Batter,Handedness,2022,vs L as R,3.6%,16.4%,0.22,.358,.382,.491,.872,.132,.419,9,3.0,.380,151
+CHICAGO WHITE SOX,Andrew Vaughn,advanced,Batter,Handedness,2022,vs R as R,6.6%,16.6%,0.39,.273,.332,.429,.761,.156,.299,30,3.9,.332,117
+CHICAGO WHITE SOX,Andrew Vaughn,advanced,Batter,Handedness,2022,vs L,3.6%,16.4%,0.22,.358,.382,.491,.872,.132,.419,9,3.0,.380,151
+CHICAGO WHITE SOX,Andrew Vaughn,advanced,Batter,Handedness,2022,vs R,6.6%,16.6%,0.39,.273,.332,.429,.761,.156,.299,30,3.9,.332,117
+CHICAGO WHITE SOX,Josh Harrison,advanced,Batter,Handedness,2022,vs L as R,7.8%,17.6%,0.44,.267,.353,.444,.797,.178,.314,8,1.6,.350,130
+CHICAGO WHITE SOX,Josh Harrison,advanced,Batter,Handedness,2022,vs R as R,5.1%,15.8%,0.32,.220,.293,.326,.619,.106,.252,14,-4.0,.278,80
+CHICAGO WHITE SOX,Josh Harrison,advanced,Batter,Handedness,2022,vs L,7.8%,17.6%,0.44,.267,.353,.444,.797,.178,.314,8,1.6,.350,130
+CHICAGO WHITE SOX,Josh Harrison,advanced,Batter,Handedness,2022,vs R,5.1%,15.8%,0.32,.220,.293,.326,.619,.106,.252,14,-4.0,.278,80
+CHICAGO WHITE SOX,Seby Zavala,advanced,Batter,Handedness,2022,vs L as R,6.3%,31.3%,0.20,.214,.313,.286,.598,.071,.333,1,-0.4,.278,80
+CHICAGO WHITE SOX,Seby Zavala,advanced,Batter,Handedness,2022,vs R as R,6.8%,30.5%,0.22,.340,.379,.509,.889,.170,.486,10,3.4,.381,152
+CHICAGO WHITE SOX,Seby Zavala,advanced,Batter,Handedness,2022,vs L,6.3%,31.3%,0.20,.214,.313,.286,.598,.071,.333,1,-0.4,.278,80
+CHICAGO WHITE SOX,Seby Zavala,advanced,Batter,Handedness,2022,vs R,6.8%,30.5%,0.22,.340,.379,.509,.889,.170,.486,10,3.4,.381,152
+CHICAGO WHITE SOX,Reese McGuire,advanced,Batter,Handedness,2022,vs L as L,4.0%,28.0%,0.14,.087,.125,.130,.255,.043,.125,-1,-3.8,.118,-32
+CHICAGO WHITE SOX,Reese McGuire,advanced,Batter,Handedness,2022,vs R as L,3.9%,16.3%,0.24,.250,.288,.302,.590,.052,.299,10,-4.9,.262,69
+CHICAGO WHITE SOX,Reese McGuire,advanced,Batter,Handedness,2022,vs L,4.0%,28.0%,0.14,.087,.125,.130,.255,.043,.125,-1,-3.8,.118,-32
+CHICAGO WHITE SOX,Reese McGuire,advanced,Batter,Handedness,2022,vs R,3.9%,16.3%,0.24,.250,.288,.302,.590,.052,.299,10,-4.9,.262,69
+CHICAGO WHITE SOX,Leury García,advanced,Batter,Handedness,2022,vs R as L,2.7%,22.0%,0.12,.206,.232,.274,.507,.069,.252,9,-12.8,.224,42
+CHICAGO WHITE SOX,Leury García,advanced,Batter,Handedness,2022,vs L as R,2.1%,17.0%,0.13,.217,.234,.239,.473,.022,.263,2,-3.7,.211,33
+CHICAGO WHITE SOX,Leury García,advanced,Batter,Handedness,2022,vs L,2.1%,17.0%,0.13,.217,.234,.239,.473,.022,.263,2,-3.7,.211,33
+CHICAGO WHITE SOX,Leury García,advanced,Batter,Handedness,2022,vs R,2.7%,22.0%,0.12,.206,.232,.274,.507,.069,.252,9,-12.8,.224,42
+CHICAGO WHITE SOX,Adam Engel,advanced,Batter,Handedness,2022,vs L as R,10.9%,28.3%,0.38,.175,.283,.350,.633,.175,.231,4,-1.3,.275,78
+CHICAGO WHITE SOX,Adam Engel,advanced,Batter,Handedness,2022,vs R as R,5.0%,26.4%,0.19,.254,.298,.333,.631,.079,.354,11,-2.9,.280,81
+CHICAGO WHITE SOX,Adam Engel,advanced,Batter,Handedness,2022,vs L,10.9%,28.3%,0.38,.175,.283,.350,.633,.175,.231,4,-1.3,.275,78
+CHICAGO WHITE SOX,Adam Engel,advanced,Batter,Handedness,2022,vs R,5.0%,26.4%,0.19,.254,.298,.333,.631,.079,.354,11,-2.9,.280,81
+CHICAGO WHITE SOX,AJ Pollock,advanced,Batter,Handedness,2022,vs L as R,3.3%,18.3%,0.18,.293,.317,.569,.886,.276,.302,10,3.2,.378,150
+CHICAGO WHITE SOX,AJ Pollock,advanced,Batter,Handedness,2022,vs R as R,5.6%,22.6%,0.25,.227,.272,.287,.559,.061,.295,13,-9.4,.250,60
+CHICAGO WHITE SOX,AJ Pollock,advanced,Batter,Handedness,2022,vs L,3.3%,18.3%,0.18,.293,.317,.569,.886,.276,.302,10,3.2,.378,150
+CHICAGO WHITE SOX,AJ Pollock,advanced,Batter,Handedness,2022,vs R,5.6%,22.6%,0.25,.227,.272,.287,.559,.061,.295,13,-9.4,.250,60
+CHICAGO WHITE SOX,Yasmani Grandal,advanced,Batter,Handedness,2022,vs R as L,10.9%,23.1%,0.47,.152,.244,.203,.446,.051,.188,5,-12.6,.209,31
+CHICAGO WHITE SOX,Yasmani Grandal,advanced,Batter,Handedness,2022,vs L as R,22.2%,20.0%,1.11,.314,.467,.371,.838,.057,.423,8,2.7,.386,156
+CHICAGO WHITE SOX,Yasmani Grandal,advanced,Batter,Handedness,2022,vs L,22.2%,20.0%,1.11,.314,.467,.371,.838,.057,.423,8,2.7,.386,156
+CHICAGO WHITE SOX,Yasmani Grandal,advanced,Batter,Handedness,2022,vs R,10.9%,23.1%,0.47,.152,.244,.203,.446,.051,.188,5,-12.6,.209,31
+CHICAGO WHITE SOX,Jake Burger,advanced,Batter,Handedness,2022,vs L as R,10.2%,32.7%,0.31,.326,.388,.651,1.039,.326,.440,10,4.6,.429,186
+CHICAGO WHITE SOX,Jake Burger,advanced,Batter,Handedness,2022,vs R as R,3.7%,29.9%,0.13,.224,.271,.392,.663,.168,.288,13,-2.2,.290,88
+CHICAGO WHITE SOX,Jake Burger,advanced,Batter,Handedness,2022,vs L,10.2%,32.7%,0.31,.326,.388,.651,1.039,.326,.440,10,4.6,.429,186
+CHICAGO WHITE SOX,Jake Burger,advanced,Batter,Handedness,2022,vs R,3.7%,29.9%,0.13,.224,.271,.392,.663,.168,.288,13,-2.2,.290,88
+CHICAGO WHITE SOX,Danny Mendick,advanced,Batter,Handedness,2022,vs L as R,3.8%,15.4%,0.25,.360,.385,.560,.945,.200,.400,5,2.0,.407,170
+CHICAGO WHITE SOX,Danny Mendick,advanced,Batter,Handedness,2022,vs R as R,7.5%,23.8%,0.32,.264,.329,.403,.732,.139,.333,10,0.8,.323,111
+CHICAGO WHITE SOX,Danny Mendick,advanced,Batter,Handedness,2022,vs L,3.8%,15.4%,0.25,.360,.385,.560,.945,.200,.400,5,2.0,.407,170
+CHICAGO WHITE SOX,Danny Mendick,advanced,Batter,Handedness,2022,vs R,7.5%,23.8%,0.32,.264,.329,.403,.732,.139,.333,10,0.8,.323,111

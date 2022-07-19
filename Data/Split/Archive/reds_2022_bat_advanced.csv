@@ -1,0 +1,69 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+CINCINNATI REDS,Jonathan India,advanced,Batter,Handedness,2022,vs L as R,0.0%,19.4%,0.00,.152,.222,.152,.374,.000,.192,1,-3.6,.183,7
+CINCINNATI REDS,Jonathan India,advanced,Batter,Handedness,2022,vs R as R,3.5%,25.4%,0.14,.243,.289,.374,.663,.131,.307,12,-1.6,.293,82
+CINCINNATI REDS,Jonathan India,advanced,Batter,Handedness,2022,vs L,0.0%,19.4%,0.00,.152,.222,.152,.374,.000,.192,1,-3.6,.183,7
+CINCINNATI REDS,Jonathan India,advanced,Batter,Handedness,2022,vs R,3.5%,25.4%,0.14,.243,.289,.374,.663,.131,.307,12,-1.6,.293,82
+CINCINNATI REDS,Brandon Drury,advanced,Batter,Handedness,2022,vs L as R,2.4%,28.9%,0.08,.333,.349,.704,1.053,.370,.388,19,9.0,.446,185
+CINCINNATI REDS,Brandon Drury,advanced,Batter,Handedness,2022,vs R as R,8.4%,20.3%,0.42,.255,.329,.472,.801,.217,.284,34,7.0,.347,118
+CINCINNATI REDS,Brandon Drury,advanced,Batter,Handedness,2022,vs L,2.4%,28.9%,0.08,.333,.349,.704,1.053,.370,.388,19,9.0,.446,185
+CINCINNATI REDS,Brandon Drury,advanced,Batter,Handedness,2022,vs R,8.4%,20.3%,0.42,.255,.329,.472,.801,.217,.284,34,7.0,.347,118
+CINCINNATI REDS,Tommy Pham,advanced,Batter,Handedness,2022,vs L as R,13.5%,21.3%,0.63,.247,.348,.442,.790,.195,.278,13,2.7,.348,119
+CINCINNATI REDS,Tommy Pham,advanced,Batter,Handedness,2022,vs R as R,11.1%,26.7%,0.42,.245,.329,.387,.716,.142,.315,29,1.3,.317,98
+CINCINNATI REDS,Tommy Pham,advanced,Batter,Handedness,2022,vs L,13.5%,21.3%,0.63,.247,.348,.442,.790,.195,.278,13,2.7,.348,119
+CINCINNATI REDS,Tommy Pham,advanced,Batter,Handedness,2022,vs R,11.1%,26.7%,0.42,.245,.329,.387,.716,.142,.315,29,1.3,.317,98
+CINCINNATI REDS,Joey Votto,advanced,Batter,Handedness,2022,vs L as L,14.8%,32.1%,0.46,.215,.370,.323,.693,.108,.342,10,0.9,.324,103
+CINCINNATI REDS,Joey Votto,advanced,Batter,Handedness,2022,vs R as L,11.9%,22.2%,0.54,.209,.313,.392,.705,.183,.248,21,0.3,.313,95
+CINCINNATI REDS,Joey Votto,advanced,Batter,Handedness,2022,vs L,14.8%,32.1%,0.46,.215,.370,.323,.693,.108,.342,10,0.9,.324,103
+CINCINNATI REDS,Joey Votto,advanced,Batter,Handedness,2022,vs R,11.9%,22.2%,0.54,.209,.313,.392,.705,.183,.248,21,0.3,.313,95
+CINCINNATI REDS,Tyler Stephenson,advanced,Batter,Handedness,2022,vs L as R,11.3%,22.6%,0.50,.333,.415,.422,.837,.089,.424,9,2.6,.372,135
+CINCINNATI REDS,Tyler Stephenson,advanced,Batter,Handedness,2022,vs R as R,4.3%,28.7%,0.15,.315,.357,.519,.875,.204,.414,20,6.3,.378,140
+CINCINNATI REDS,Tyler Stephenson,advanced,Batter,Handedness,2022,vs L,11.3%,22.6%,0.50,.333,.415,.422,.837,.089,.424,9,2.6,.372,135
+CINCINNATI REDS,Tyler Stephenson,advanced,Batter,Handedness,2022,vs R,4.3%,28.7%,0.15,.315,.357,.519,.875,.204,.414,20,6.3,.378,140
+CINCINNATI REDS,Tyler Naquin,advanced,Batter,Handedness,2022,vs L as L,0.0%,23.7%,0.00,.194,.216,.306,.522,.111,.231,2,-2.5,.229,39
+CINCINNATI REDS,Tyler Naquin,advanced,Batter,Handedness,2022,vs R as L,8.6%,28.1%,0.31,.264,.338,.488,.826,.224,.346,21,4.7,.353,122
+CINCINNATI REDS,Tyler Naquin,advanced,Batter,Handedness,2022,vs L,0.0%,23.7%,0.00,.194,.216,.306,.522,.111,.231,2,-2.5,.229,39
+CINCINNATI REDS,Tyler Naquin,advanced,Batter,Handedness,2022,vs R,8.6%,28.1%,0.31,.264,.338,.488,.826,.224,.346,21,4.7,.353,122
+CINCINNATI REDS,Kyle Farmer,advanced,Batter,Handedness,2022,vs L as R,8.4%,13.3%,0.64,.384,.446,.699,1.144,.315,.397,21,11.3,.482,210
+CINCINNATI REDS,Kyle Farmer,advanced,Batter,Handedness,2022,vs R as R,5.3%,16.9%,0.31,.216,.286,.265,.551,.049,.263,15,-9.4,.253,55
+CINCINNATI REDS,Kyle Farmer,advanced,Batter,Handedness,2022,vs L,8.4%,13.3%,0.64,.384,.446,.699,1.144,.315,.397,21,11.3,.482,210
+CINCINNATI REDS,Kyle Farmer,advanced,Batter,Handedness,2022,vs R,5.3%,16.9%,0.31,.216,.286,.265,.551,.049,.263,15,-9.4,.253,55
+CINCINNATI REDS,Mike Moustakas,advanced,Batter,Handedness,2022,vs L as L,11.3%,24.5%,0.46,.200,.321,.244,.565,.044,.281,4,-1.7,.270,66
+CINCINNATI REDS,Mike Moustakas,advanced,Batter,Handedness,2022,vs R as L,8.4%,26.4%,0.32,.212,.292,.346,.638,.135,.269,17,-3.7,.284,76
+CINCINNATI REDS,Mike Moustakas,advanced,Batter,Handedness,2022,vs L,11.3%,24.5%,0.46,.200,.321,.244,.565,.044,.281,4,-1.7,.270,66
+CINCINNATI REDS,Mike Moustakas,advanced,Batter,Handedness,2022,vs R,8.4%,26.4%,0.32,.212,.292,.346,.638,.135,.269,17,-3.7,.284,76
+CINCINNATI REDS,Nick Senzel,advanced,Batter,Handedness,2022,vs L as R,6.3%,17.5%,0.36,.250,.311,.339,.651,.089,.295,6,-0.9,.292,81
+CINCINNATI REDS,Nick Senzel,advanced,Batter,Handedness,2022,vs R as R,6.5%,19.0%,0.34,.260,.313,.327,.640,.067,.316,16,-3.2,.286,77
+CINCINNATI REDS,Nick Senzel,advanced,Batter,Handedness,2022,vs L,6.3%,17.5%,0.36,.250,.311,.339,.651,.089,.295,6,-0.9,.292,81
+CINCINNATI REDS,Nick Senzel,advanced,Batter,Handedness,2022,vs R,6.5%,19.0%,0.34,.260,.313,.327,.640,.067,.316,16,-3.2,.286,77
+CINCINNATI REDS,Michael Papierski,advanced,Batter,Handedness,2022,vs R as L,7.4%,37.0%,0.20,.125,.192,.125,.317,.000,.214,0,-3.3,.155,-8
+CINCINNATI REDS,Michael Papierski,advanced,Batter,Handedness,2022,vs L as R,22.2%,0.0%,2.00,.286,.444,.286,.730,.000,.286,1,0.3,.350,122
+CINCINNATI REDS,Michael Papierski,advanced,Batter,Handedness,2022,vs L,22.2%,0.0%,2.00,.286,.444,.286,.730,.000,.286,1,0.3,.350,122
+CINCINNATI REDS,Michael Papierski,advanced,Batter,Handedness,2022,vs R,7.4%,37.0%,0.20,.125,.192,.125,.317,.000,.214,0,-3.3,.155,-8
+CINCINNATI REDS,Donovan Solano,advanced,Batter,Handedness,2022,vs L as R,0.0%,18.2%,0.00,.200,.273,.300,.573,.100,.250,2,-0.9,.261,60
+CINCINNATI REDS,Donovan Solano,advanced,Batter,Handedness,2022,vs R as R,6.7%,22.2%,0.30,.325,.400,.475,.875,.150,.414,8,2.7,.385,144
+CINCINNATI REDS,Donovan Solano,advanced,Batter,Handedness,2022,vs L,0.0%,18.2%,0.00,.200,.273,.300,.573,.100,.250,2,-0.9,.261,60
+CINCINNATI REDS,Donovan Solano,advanced,Batter,Handedness,2022,vs R,6.7%,22.2%,0.30,.325,.400,.475,.875,.150,.414,8,2.7,.385,144
+CINCINNATI REDS,Matt Reynolds,advanced,Batter,Handedness,2022,vs L as R,17.2%,25.9%,0.67,.229,.362,.375,.737,.146,.313,8,1.1,.333,109
+CINCINNATI REDS,Matt Reynolds,advanced,Batter,Handedness,2022,vs R as R,6.7%,26.9%,0.25,.266,.319,.367,.686,.101,.355,13,-0.6,.303,89
+CINCINNATI REDS,Matt Reynolds,advanced,Batter,Handedness,2022,vs L,17.2%,25.9%,0.67,.229,.362,.375,.737,.146,.313,8,1.1,.333,109
+CINCINNATI REDS,Matt Reynolds,advanced,Batter,Handedness,2022,vs R,6.7%,26.9%,0.25,.266,.319,.367,.686,.101,.355,13,-0.6,.303,89
+CINCINNATI REDS,Stuart Fairchild,advanced,Batter,Handedness,2022,vs L as R,0.0%,33.3%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.5,.000,-100
+CINCINNATI REDS,Stuart Fairchild,advanced,Batter,Handedness,2022,vs R as R,0.0%,60.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.2,.000,-100
+CINCINNATI REDS,Stuart Fairchild,advanced,Batter,Handedness,2022,vs L,0.0%,33.3%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.5,.000,-100
+CINCINNATI REDS,Stuart Fairchild,advanced,Batter,Handedness,2022,vs R,0.0%,60.0%,0.00,.000,.000,.000,.000,.000,.000,-1,-1.2,.000,-100
+CINCINNATI REDS,Aramis Garcia,advanced,Batter,Handedness,2022,vs L as R,3.8%,26.9%,0.14,.400,.423,.400,.823,.000,.556,4,1.2,.367,132
+CINCINNATI REDS,Aramis Garcia,advanced,Batter,Handedness,2022,vs R as R,2.3%,31.0%,0.07,.160,.200,.222,.422,.062,.226,2,-8.2,.191,13
+CINCINNATI REDS,Aramis Garcia,advanced,Batter,Handedness,2022,vs L,3.8%,26.9%,0.14,.400,.423,.400,.823,.000,.556,4,1.2,.367,132
+CINCINNATI REDS,Aramis Garcia,advanced,Batter,Handedness,2022,vs R,2.3%,31.0%,0.07,.160,.200,.222,.422,.062,.226,2,-8.2,.191,13
+CINCINNATI REDS,Jake Fraley,advanced,Batter,Handedness,2022,vs L as L,7.1%,21.4%,0.33,.077,.143,.077,.220,.000,.100,-1,-2.2,.112,-40
+CINCINNATI REDS,Jake Fraley,advanced,Batter,Handedness,2022,vs R as L,8.8%,26.5%,0.33,.133,.235,.300,.535,.167,.150,2,-1.8,.243,48
+CINCINNATI REDS,Jake Fraley,advanced,Batter,Handedness,2022,vs L,7.1%,21.4%,0.33,.077,.143,.077,.220,.000,.100,-1,-2.2,.112,-40
+CINCINNATI REDS,Jake Fraley,advanced,Batter,Handedness,2022,vs R,8.8%,26.5%,0.33,.133,.235,.300,.535,.167,.150,2,-1.8,.243,48
+CINCINNATI REDS,Albert Almora Jr.,advanced,Batter,Handedness,2022,vs L as R,1.9%,21.2%,0.09,.216,.231,.353,.584,.137,.237,4,-2.4,.253,55
+CINCINNATI REDS,Albert Almora Jr.,advanced,Batter,Handedness,2022,vs R as R,3.3%,20.3%,0.16,.241,.270,.379,.650,.138,.281,11,-2.8,.282,74
+CINCINNATI REDS,Albert Almora Jr.,advanced,Batter,Handedness,2022,vs L,1.9%,21.2%,0.09,.216,.231,.353,.584,.137,.237,4,-2.4,.253,55
+CINCINNATI REDS,Albert Almora Jr.,advanced,Batter,Handedness,2022,vs R,3.3%,20.3%,0.16,.241,.270,.379,.650,.138,.281,11,-2.8,.282,74
+CINCINNATI REDS,Aristides Aquino,advanced,Batter,Handedness,2022,vs L as R,4.1%,40.8%,0.10,.128,.163,.234,.397,.106,.192,0,-5.2,.176,3
+CINCINNATI REDS,Aristides Aquino,advanced,Batter,Handedness,2022,vs R as R,2.4%,51.2%,0.05,.225,.244,.425,.669,.200,.412,4,-0.8,.287,78
+CINCINNATI REDS,Aristides Aquino,advanced,Batter,Handedness,2022,vs L,4.1%,40.8%,0.10,.128,.163,.234,.397,.106,.192,0,-5.2,.176,3
+CINCINNATI REDS,Aristides Aquino,advanced,Batter,Handedness,2022,vs R,2.4%,51.2%,0.05,.225,.244,.425,.669,.200,.412,4,-0.8,.287,78

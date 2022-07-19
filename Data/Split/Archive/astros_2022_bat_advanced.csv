@@ -1,0 +1,65 @@
+Team,Player,Stat_cat,Bat/Pitch,Stat,Season,Split,BB%,K%,BB/K,AVG,OBP,SLG,OPS,ISO,BABIP,wRC,wRAA,wOBA,wRC+
+HOUSTON ASTROS,Jose Altuve,advanced,Batter,Handedness,2022,vs L as R,9.5%,20.3%,0.47,.313,.378,.731,1.110,.418,.311,18,9.1,.464,212
+HOUSTON ASTROS,Jose Altuve,advanced,Batter,Handedness,2022,vs R as R,11.9%,14.0%,0.85,.269,.370,.468,.838,.199,.277,38,10.7,.367,144
+HOUSTON ASTROS,Jose Altuve,advanced,Batter,Handedness,2022,vs L,9.5%,20.3%,0.47,.313,.378,.731,1.110,.418,.311,18,9.1,.464,212
+HOUSTON ASTROS,Jose Altuve,advanced,Batter,Handedness,2022,vs R,11.9%,14.0%,0.85,.269,.370,.468,.838,.199,.277,38,10.7,.367,144
+HOUSTON ASTROS,Aledmys Díaz,advanced,Batter,Handedness,2022,vs L as R,12.8%,14.9%,0.86,.244,.340,.366,.706,.122,.273,6,0.3,.318,109
+HOUSTON ASTROS,Aledmys Díaz,advanced,Batter,Handedness,2022,vs R as R,4.4%,19.9%,0.22,.240,.279,.388,.667,.147,.268,14,-2.0,.292,91
+HOUSTON ASTROS,Aledmys Díaz,advanced,Batter,Handedness,2022,vs L,12.8%,14.9%,0.86,.244,.340,.366,.706,.122,.273,6,0.3,.318,109
+HOUSTON ASTROS,Aledmys Díaz,advanced,Batter,Handedness,2022,vs R,4.4%,19.9%,0.22,.240,.279,.388,.667,.147,.268,14,-2.0,.292,91
+HOUSTON ASTROS,Kyle Tucker,advanced,Batter,Handedness,2022,vs L as L,9.4%,11.3%,0.83,.263,.330,.495,.825,.232,.244,16,3.8,.355,135
+HOUSTON ASTROS,Kyle Tucker,advanced,Batter,Handedness,2022,vs R as L,14.2%,17.4%,0.82,.257,.361,.481,.842,.225,.266,35,9.6,.365,143
+HOUSTON ASTROS,Kyle Tucker,advanced,Batter,Handedness,2022,vs L,9.4%,11.3%,0.83,.263,.330,.495,.825,.232,.244,16,3.8,.355,135
+HOUSTON ASTROS,Kyle Tucker,advanced,Batter,Handedness,2022,vs R,14.2%,17.4%,0.82,.257,.361,.481,.842,.225,.266,35,9.6,.365,143
+HOUSTON ASTROS,Alex Bregman,advanced,Batter,Handedness,2022,vs L as R,13.6%,15.3%,0.89,.180,.305,.290,.595,.110,.210,10,-3.2,.276,80
+HOUSTON ASTROS,Alex Bregman,advanced,Batter,Handedness,2022,vs R as R,14.9%,12.8%,1.17,.276,.391,.495,.886,.219,.276,41,13.6,.383,155
+HOUSTON ASTROS,Alex Bregman,advanced,Batter,Handedness,2022,vs L,13.6%,15.3%,0.89,.180,.305,.290,.595,.110,.210,10,-3.2,.276,80
+HOUSTON ASTROS,Alex Bregman,advanced,Batter,Handedness,2022,vs R,14.9%,12.8%,1.17,.276,.391,.495,.886,.219,.276,41,13.6,.383,155
+HOUSTON ASTROS,Yuli Gurriel,advanced,Batter,Handedness,2022,vs L as R,6.3%,9.5%,0.67,.250,.295,.455,.749,.205,.247,12,0.9,.321,112
+HOUSTON ASTROS,Yuli Gurriel,advanced,Batter,Handedness,2022,vs R as R,5.6%,14.4%,0.39,.220,.274,.355,.629,.135,.242,19,-5.5,.278,81
+HOUSTON ASTROS,Yuli Gurriel,advanced,Batter,Handedness,2022,vs L,6.3%,9.5%,0.67,.250,.295,.455,.749,.205,.247,12,0.9,.321,112
+HOUSTON ASTROS,Yuli Gurriel,advanced,Batter,Handedness,2022,vs R,5.6%,14.4%,0.39,.220,.274,.355,.629,.135,.242,19,-5.5,.278,81
+HOUSTON ASTROS,J.J. Matijevic,advanced,Batter,Handedness,2022,vs L as L,16.7%,50.0%,0.33,.000,.167,.000,.167,.000,.000,0,-0.9,.115,-33
+HOUSTON ASTROS,J.J. Matijevic,advanced,Batter,Handedness,2022,vs R as L,0.0%,37.9%,0.00,.214,.241,.500,.741,.286,.267,3,0.1,.315,108
+HOUSTON ASTROS,J.J. Matijevic,advanced,Batter,Handedness,2022,vs L,16.7%,50.0%,0.33,.000,.167,.000,.167,.000,.000,0,-0.9,.115,-33
+HOUSTON ASTROS,J.J. Matijevic,advanced,Batter,Handedness,2022,vs R,0.0%,37.9%,0.00,.214,.241,.500,.741,.286,.267,3,0.1,.315,108
+HOUSTON ASTROS,Jeremy Peña,advanced,Batter,Handedness,2022,vs L as R,4.4%,17.6%,0.25,.286,.328,.540,.868,.254,.298,11,3.4,.372,148
+HOUSTON ASTROS,Jeremy Peña,advanced,Batter,Handedness,2022,vs R as R,5.1%,25.5%,0.20,.257,.306,.430,.736,.173,.306,24,1.4,.319,110
+HOUSTON ASTROS,Jeremy Peña,advanced,Batter,Handedness,2022,vs L,4.4%,17.6%,0.25,.286,.328,.540,.868,.254,.298,11,3.4,.372,148
+HOUSTON ASTROS,Jeremy Peña,advanced,Batter,Handedness,2022,vs R,5.1%,25.5%,0.20,.257,.306,.430,.736,.173,.306,24,1.4,.319,110
+HOUSTON ASTROS,Jake Meyers,advanced,Batter,Handedness,2022,vs L as R,6.3%,43.8%,0.14,.333,.375,.400,.775,.067,.625,2,0.4,.343,127
+HOUSTON ASTROS,Jake Meyers,advanced,Batter,Handedness,2022,vs R as R,4.8%,26.2%,0.18,.282,.310,.462,.771,.179,.357,5,0.6,.328,116
+HOUSTON ASTROS,Jake Meyers,advanced,Batter,Handedness,2022,vs L,6.3%,43.8%,0.14,.333,.375,.400,.775,.067,.625,2,0.4,.343,127
+HOUSTON ASTROS,Jake Meyers,advanced,Batter,Handedness,2022,vs R,4.8%,26.2%,0.18,.282,.310,.462,.771,.179,.357,5,0.6,.328,116
+HOUSTON ASTROS,Martín Maldonado,advanced,Batter,Handedness,2022,vs L as R,9.1%,30.3%,0.30,.153,.231,.356,.587,.203,.167,5,-2.7,.258,68
+HOUSTON ASTROS,Martín Maldonado,advanced,Batter,Handedness,2022,vs R as R,7.1%,34.4%,0.21,.158,.229,.295,.524,.137,.207,9,-9.3,.235,51
+HOUSTON ASTROS,Martín Maldonado,advanced,Batter,Handedness,2022,vs L,9.1%,30.3%,0.30,.153,.231,.356,.587,.203,.167,5,-2.7,.258,68
+HOUSTON ASTROS,Martín Maldonado,advanced,Batter,Handedness,2022,vs R,7.1%,34.4%,0.21,.158,.229,.295,.524,.137,.207,9,-9.3,.235,51
+HOUSTON ASTROS,Korey Lee,advanced,Batter,Handedness,2022,vs L as R,0.0%,0.0%,0.00,.333,.333,.333,.667,.000,.333,0,0.0,.295,93
+HOUSTON ASTROS,Korey Lee,advanced,Batter,Handedness,2022,vs R as R,16.7%,0.0%,1.00,.400,.500,.600,1.100,.200,.400,1,0.8,.473,218
+HOUSTON ASTROS,Korey Lee,advanced,Batter,Handedness,2022,vs L,0.0%,0.0%,0.00,.333,.333,.333,.667,.000,.333,0,0.0,.295,93
+HOUSTON ASTROS,Korey Lee,advanced,Batter,Handedness,2022,vs R,16.7%,0.0%,1.00,.400,.500,.600,1.100,.200,.400,1,0.8,.473,218
+HOUSTON ASTROS,Mauricio Dubón,advanced,Batter,Handedness,2022,vs L as R,3.9%,11.8%,0.33,.277,.300,.447,.747,.170,.275,6,0.3,.320,107
+HOUSTON ASTROS,Mauricio Dubón,advanced,Batter,Handedness,2022,vs R as R,5.9%,5.9%,1.00,.169,.214,.234,.448,.065,.164,2,-7.4,.201,29
+HOUSTON ASTROS,Mauricio Dubón,advanced,Batter,Handedness,2022,vs L,3.9%,11.8%,0.33,.277,.300,.447,.747,.170,.275,6,0.3,.320,107
+HOUSTON ASTROS,Mauricio Dubón,advanced,Batter,Handedness,2022,vs R,5.9%,5.9%,1.00,.169,.214,.234,.448,.065,.164,2,-7.4,.201,29
+HOUSTON ASTROS,Chas McCormick,advanced,Batter,Handedness,2022,vs L as R,8.5%,16.9%,0.50,.315,.373,.537,.910,.222,.341,11,3.9,.393,162
+HOUSTON ASTROS,Chas McCormick,advanced,Batter,Handedness,2022,vs R as R,11.8%,27.8%,0.43,.192,.292,.360,.652,.168,.235,14,-2.3,.290,90
+HOUSTON ASTROS,Chas McCormick,advanced,Batter,Handedness,2022,vs L,8.5%,16.9%,0.50,.315,.373,.537,.910,.222,.341,11,3.9,.393,162
+HOUSTON ASTROS,Chas McCormick,advanced,Batter,Handedness,2022,vs R,11.8%,27.8%,0.43,.192,.292,.360,.652,.168,.235,14,-2.3,.290,90
+HOUSTON ASTROS,Jose Siri,advanced,Batter,Handedness,2022,vs L as R,8.6%,48.6%,0.18,.063,.143,.156,.299,.094,.071,-1,-4.6,.143,-13
+HOUSTON ASTROS,Jose Siri,advanced,Batter,Handedness,2022,vs R as R,5.7%,26.4%,0.21,.224,.283,.367,.650,.143,.294,10,-2.0,.286,87
+HOUSTON ASTROS,Jose Siri,advanced,Batter,Handedness,2022,vs L,8.6%,48.6%,0.18,.063,.143,.156,.299,.094,.071,-1,-4.6,.143,-13
+HOUSTON ASTROS,Jose Siri,advanced,Batter,Handedness,2022,vs R,5.7%,26.4%,0.21,.224,.283,.367,.650,.143,.294,10,-2.0,.286,87
+HOUSTON ASTROS,Jason Castro,advanced,Batter,Handedness,2022,vs L as L,0.0%,66.7%,0.00,.000,.000,.000,.000,.000,.000,-1,-2.2,.000,-100
+HOUSTON ASTROS,Jason Castro,advanced,Batter,Handedness,2022,vs R as L,10.1%,43.0%,0.24,.130,.228,.203,.431,.072,.229,2,-6.7,.204,30
+HOUSTON ASTROS,Jason Castro,advanced,Batter,Handedness,2022,vs L,0.0%,66.7%,0.00,.000,.000,.000,.000,.000,.000,-1,-2.2,.000,-100
+HOUSTON ASTROS,Jason Castro,advanced,Batter,Handedness,2022,vs R,10.1%,43.0%,0.24,.130,.228,.203,.431,.072,.229,2,-6.7,.204,30
+HOUSTON ASTROS,Yordan Alvarez,advanced,Batter,Handedness,2022,vs L as L,15.3%,22.5%,0.68,.239,.360,.457,.817,.217,.270,17,4.2,.358,137
+HOUSTON ASTROS,Yordan Alvarez,advanced,Batter,Handedness,2022,vs R as L,12.7%,15.6%,0.81,.341,.429,.756,1.185,.415,.315,53,29.2,.489,229
+HOUSTON ASTROS,Yordan Alvarez,advanced,Batter,Handedness,2022,vs L,15.3%,22.5%,0.68,.239,.360,.457,.817,.217,.270,17,4.2,.358,137
+HOUSTON ASTROS,Yordan Alvarez,advanced,Batter,Handedness,2022,vs R,12.7%,15.6%,0.81,.341,.429,.756,1.185,.415,.315,53,29.2,.489,229
+HOUSTON ASTROS,Michael Brantley,advanced,Batter,Handedness,2022,vs L as L,8.0%,12.6%,0.64,.295,.360,.372,.732,.077,.333,11,1.2,.328,117
+HOUSTON ASTROS,Michael Brantley,advanced,Batter,Handedness,2022,vs R as L,12.6%,10.0%,1.26,.285,.374,.436,.810,.152,.301,28,6.5,.353,134
+HOUSTON ASTROS,Michael Brantley,advanced,Batter,Handedness,2022,vs L,8.0%,12.6%,0.64,.295,.360,.372,.732,.077,.333,11,1.2,.328,117
+HOUSTON ASTROS,Michael Brantley,advanced,Batter,Handedness,2022,vs R,12.6%,10.0%,1.26,.285,.374,.436,.810,.152,.301,28,6.5,.353,134
